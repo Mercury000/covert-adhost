@@ -56,6 +56,3 @@ jobs:
           file_pattern: adhosts.yaml
           commit_message: Update adhosts.yaml from remote hosts file
           repository: .
-          commit_user_name: github-actions[bot]
-          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
-          commit_author: Mercury000 <Mercury000@users.noreply.github.com

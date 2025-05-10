@@ -36,15 +36,11 @@ jobs:
         run: |
           awk '
           BEGIN { skip=0 }
-          $0 ~ /^#自定义重定向hosts/ { skip=1 }
-          $0 ~ /^#END/ { skip=0; next }
+          /^#自定义重定向hosts/,/^#END/ { skip=1; next }
           skip == 1 { next }
           /^[[:space:]]*$/ { next }
-          {
-            if ($1 == "0.0.0.0") {
-              gsub(/^.*\./, "", $2);
-              print "- DOMAIN," $2
-            }
+          $1 == "0.0.0.0" {
+            if (NF > 1) print "- DOMAIN," $(NF)
           }' reward.txt > adhosts.yaml
 
       - name: Show Output File
@@ -55,4 +51,3 @@ jobs:
         with:
           file_pattern: adhosts.yaml
           commit_message: Update adhosts.yaml from remote hosts file
-          repository: .

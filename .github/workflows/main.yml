@@ -2,8 +2,8 @@ name: Convert Hosts File
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天执行一次
-  workflow_dispatch:     # 手动运行
+    - cron: '0 16 * * *'  # 每天北京时间 00:00 执行
+  workflow_dispatch:      # 支持手动运行
 
 jobs:
   convert:
@@ -31,16 +31,27 @@ jobs:
         run: |
           curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
 
-      - name: Process Hosts File
+      - name: Process Hosts File (Single Pass Conversion)
         id: process
         run: |
           awk '
           BEGIN { skip=0 }
+
+          # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ { skip=1; next }
           skip == 1 { next }
+
+          # Skip empty lines
           /^[[:space:]]*$/ { next }
-          $1 == "0.0.0.0" {
-            if (NF > 1) print "- DOMAIN," $(NF)
+
+          # Match 0.0.0.0 domain or IP
+          $1 == "0.0.0.0" && NF > 1 {
+            # Check if the second field is an IP address
+            if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
+              print "- ipcidr," $2
+            } else {
+              print "- DOMAIN," $2
+            }
           }' reward.txt > adhosts.yaml
 
       - name: Add Payload Header

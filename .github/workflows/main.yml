@@ -9,8 +9,23 @@ jobs:
   convert:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repo via HTTPS
         uses: actions/checkout@v4
+
+      - name: Setup SSH Key
+        uses: webfactory/ssh-agent@v0.5.1
+        with:
+          ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+
+      - name: Set Git Config
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ github.actor }}@users.noreply.github.com"
+
+      - name: Checkout Repo via SSH
+        run: |
+          git remote set-url origin git@github.com:Mercury000/covert-adhost.git
+          git fetch
 
       - name: Download Hosts File
         run: |
@@ -40,3 +55,7 @@ jobs:
         with:
           file_pattern: adhosts.yaml
           commit_message: Update adhosts.yaml from remote hosts file
+          repository: .
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          commit_author: Mercury000 <Mercury000@users.noreply.github.com

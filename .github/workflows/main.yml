@@ -48,7 +48,7 @@ jobs:
           $1 == "0.0.0.0" && NF > 1 {
             # Check if the second field is an IP address
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- ipcidr," $2
+              print "- IP-CIDR," $2 "/3/XMLSchema"
             } else {
               print "- DOMAIN," $2
             }

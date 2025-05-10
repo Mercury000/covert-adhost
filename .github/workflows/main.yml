@@ -43,6 +43,10 @@ jobs:
             if (NF > 1) print "- DOMAIN," $(NF)
           }' reward.txt > adhosts.yaml
 
+      - name: Add Payload Header
+        run: |
+          echo -e "payload: #Mercury\n$(cat adhosts.yaml)" > adhosts.yaml
+
       - name: Show Output File
         run: cat adhosts.yaml
 

@@ -1,9 +1,9 @@
-name: Convert Hosts File
+name: Convert Hosts Files
 
 on:
   schedule:
-    - cron: '0 16 * * *'  # 每天北京时间 00:00 执行
-  workflow_dispatch:      # 支持手动运行
+    - cron: '0 14 * * *'   # 每天北京时间 22:00 执行
+  workflow_dispatch:       # 支持手动运行
 
 jobs:
   convert:
@@ -27,42 +27,84 @@ jobs:
           git remote set-url origin git@github.com:Mercury000/covert-adhost.git
           git fetch
 
-      - name: Download Hosts File
+      - name: Download reward.txt
         run: |
           curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
 
-      - name: Process Hosts File (Single Pass Conversion)
-        id: process
+      - name: Download all.txt
+        run: |
+          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all
+
+      - name: Process reward.txt -> reward.axml
         run: |
           awk '
           BEGIN { skip=0 }
 
           # Skip lines between 自定义重定向hosts and END
-          /^#自定义重定向hosts/,/^#END/ { skip=1; next }
-          skip == 1 { next }
+          /^#自定义重定向hosts/,/^#END/ {
+            if (/^#END/) skip=0;
+            print >> "reward.axml";
+            next;
+          }
+          skip == 1 { print >> "reward.axml"; next; }
+
+          # Retain update time or specific comment lines
+          /^#UpdateTime:/ { print >> "reward.axml"; next; }
 
           # Skip empty lines
-          /^[[:space:]]*$/ { next }
+          /^[[:space:]]*$/ { next; }
 
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
-            # Check if the second field is an IP address
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32"
+              print "- IP-CIDR," $2 "/32" >> "reward.axml"
             } else {
-              print "- DOMAIN," $2
+              print "- DOMAIN," $2 >> "reward.axml"
             }
-          }' reward.txt > adhosts.yaml
+          }' reward.txt
 
-      - name: Add Payload Header
+          echo -e "#Mercury\n$(cat reward.axml)" > reward.axml.tmp && mv reward.axml.tmp reward.axml
+
+      - name: Process all.txt -> all.axml
         run: |
-          echo -e "payload: #Mercury\n$(cat adhosts.yaml)" > adhosts.yaml
+          awk '
+          BEGIN { skip=0 }
 
-      - name: Show Output File
-        run: cat adhosts.yaml
+          # Skip lines between 自定义重定向hosts and END
+          /^#自定义重定向hosts/,/^#END/ {
+            if (/^#END/) skip=0;
+            print >> "all.axml";
+            next;
+          }
+          skip == 1 { print >> "all.axml"; next; }
 
-      - name: Commit and Push if Changed
+          # Retain update time or specific comment lines
+          /^#UpdateTime:/ { print >> "all.axml"; next; }
+
+          # Skip empty lines
+          /^[[:space:]]*$/ { next; }
+
+          # Match 0.0.0.0 domain or IP
+          $1 == "0.0.0.0" && NF > 1 {
+            if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
+              print "- IP-CIDR," $2 "/32" >> "all.axml"
+            } else {
+              print "- DOMAIN," $2 >> "all.axml"
+            }
+          }' all.txt
+
+          echo -e "#Mercury\n$(cat all.axml)" > all.axml.tmp && mv all.axml.tmp all.axml
+
+      - name: Show Output Files
+        run: |
+          echo "=== reward.axml ==="
+          cat reward.axml
+          echo ""
+          echo "=== all.axml ==="
+          cat all.axml
+
+      - name: Commit and Push Changed Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: adhosts.yaml
-          commit_message: Update adhosts.yaml from remote hosts file
+          file_pattern: "*.axml"
+          commit_message: Update axml files from remote hosts

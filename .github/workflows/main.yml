@@ -38,7 +38,7 @@ jobs:
       - name: Process reward.txt -> reward.yaml
         run: |
           awk '
-          BEGIN { comment_section=1 }
+          BEGIN { comment_section=1; update_time_line="" }
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
@@ -47,7 +47,7 @@ jobs:
 
           # Only keep 更新时间 comment line
           /^#更新时间:/ {
-            print;
+            update_time_line=$0;
             next;
           }
 
@@ -61,9 +61,12 @@ jobs:
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
               print "#Mercury\n#10007";
+              if (update_time_line != "") {
+                print update_time_line;
+              }
+              print "payload:";
               comment_section=0;
             }
-            print "payload:";
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
               print "- IP-CIDR," $2 "/32"
             } else {
@@ -74,7 +77,7 @@ jobs:
       - name: Process all.txt -> all.yaml
         run: |
           awk '
-          BEGIN { comment_section=1 }
+          BEGIN { comment_section=1; update_time_line="" }
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
@@ -83,7 +86,7 @@ jobs:
 
           # Only keep 更新时间 comment line
           /^#更新时间:/ {
-            print;
+            update_time_line=$0;
             next;
           }
 
@@ -97,9 +100,12 @@ jobs:
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
               print "#Mercury\n#10007";
+              if (update_time_line != "") {
+                print update_time_line;
+              }
+              print "payload:";
               comment_section=0;
             }
-            print "payload:";
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
               print "- IP-CIDR," $2 "/32"
             } else {

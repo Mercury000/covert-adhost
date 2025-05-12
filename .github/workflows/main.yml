@@ -41,7 +41,8 @@ jobs:
         id: load_or_create_md5
         run: |
           if [ -f md5_hashes.txt ]; then
-            source md5_hashes.txt
+            REWARD_MD5=$(grep '^REWARD_MD5=' md5_hashes.txt | cut -d'=' -f2-)
+            ALL_MD5=$(grep '^ALL_MD5=' md5_hashes.txt | cut -d'=' -f2-)
             echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
             echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "✅ 已加载上一次保存的 MD5 值。"
@@ -64,7 +65,6 @@ jobs:
             NEED_UPDATE=true
           else
             echo "✅ 文件自上次运行以来未发生变化，跳过后续处理。"
-            exit 0
           fi
           echo "NEED_UPDATE=$NEED_UPDATE" >> $GITHUB_ENV
 

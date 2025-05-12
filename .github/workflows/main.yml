@@ -2,7 +2,7 @@ name: Convert Hosts Files
 
 on:
   schedule:
-    - cron: '0 14 * * *'   # 每天北京时间 22:00 执行
+    - cron: '0 16 * * *'   # 每天北京时间 00:00 执行
   workflow_dispatch:       # 支持手动运行
 
 jobs:
@@ -31,9 +31,9 @@ jobs:
         run: |
           curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
 
-      - name: Download all.txt
+      - name: Download another-reward.txt
         run: |
-          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all
+          curl -s -o another-reward.txt https://raw.githubusercontent.com/another-source/reward/refs/heads/master/reward
 
       - name: Process reward.txt -> reward.yaml
         run: |
@@ -42,14 +42,12 @@ jobs:
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
-            if (/^#END/) skip=0;
-            print >> "reward.yaml";
+            print;
             next;
           }
-          skip == 1 { print >> "reward.yaml"; next; }
 
-          # Retain update time or specific comment lines
-          /^#UpdateTime:/ { print >> "reward.yaml"; next; }
+          # Retain all comment lines
+          /^#/ { print; next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
@@ -57,29 +55,30 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32" >> "reward.yaml"
+              print "- IP-CIDR," $2 "/32"
             } else {
-              print "- DOMAIN," $2 >> "reward.yaml"
+              print "- DOMAIN," $2
             }
-          }' reward.txt
+          }' reward.txt > reward_processed.tmp
 
-          echo -e "#Mercury\n$(cat reward.yaml)" > reward.yaml.tmp && mv reward.yaml.tmp reward.yaml
+          # Add header lines
+          echo -e "#Mercury\npayload:" > reward.yaml
+          cat reward_processed.tmp >> reward.yaml
+          rm reward_processed.tmp
 
-      - name: Process all.txt -> all.yaml
+      - name: Process another-reward.txt -> all.yaml
         run: |
           awk '
           BEGIN { skip=0 }
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
-            if (/^#END/) skip=0;
-            print >> "all.yaml";
+            print;
             next;
           }
-          skip == 1 { print >> "all.yaml"; next; }
 
-          # Retain update time or specific comment lines
-          /^#UpdateTime:/ { print >> "all.yaml"; next; }
+          # Retain all comment lines
+          /^#/ { print; next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
@@ -87,13 +86,16 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32" >> "all.yaml"
+              print "- IP-CIDR," $2 "/32"
             } else {
-              print "- DOMAIN," $2 >> "all.yaml"
+              print "- DOMAIN," $2
             }
-          }' all.txt
+          }' another-reward.txt > another_reward_processed.tmp
 
-          echo -e "#Mercury\n$(cat all.yaml)" > all.yaml.tmp && mv all.yaml.tmp all.yaml
+          # Add header lines
+          echo -e "#Mercury\npayload:" > all.yaml
+          cat another_reward_processed.tmp >> all.yaml
+          rm another_reward_processed.tmp
 
       - name: Show Output Files
         run: |

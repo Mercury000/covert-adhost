@@ -31,82 +31,92 @@ jobs:
         run: |
           curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
 
-      - name: Download another-reward.txt
+      - name: Download all.txt
         run: |
-          curl -s -o another-reward.txt https://raw.githubusercontent.com/another-source/reward/refs/heads/master/reward
+          curl -s -o all.txt https://raw.githubusercontent.com/another-source/all/refs/heads/master/all
 
-      - name: Process reward.txt -> reward.yaml
+      - name: Process reward.txt -> reward.axml
         run: |
           awk '
-          BEGIN { skip=0 }
+          BEGIN { comment_section=1 }
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
+            next;
+          }
+
+          # Only keep UpdateTime comment line
+          /^#UpdateTime:/ {
             print;
             next;
           }
 
-          # Retain all comment lines
-          /^#/ { print; next; }
+          # Skip all other comments
+          /^#/ { next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
 
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
+            if (comment_section) {
+              print "#Mercury";
+              print "payload:";
+              comment_section=0;
+            }
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
               print "- IP-CIDR," $2 "/32"
             } else {
               print "- DOMAIN," $2
             }
-          }' reward.txt > reward_processed.tmp
+          }' reward.txt > reward.axml
 
-          # Add header lines
-          echo -e "#Mercury\npayload:" > reward.yaml
-          cat reward_processed.tmp >> reward.yaml
-          rm reward_processed.tmp
-
-      - name: Process another-reward.txt -> all.yaml
+      - name: Process all.txt -> all.axml
         run: |
           awk '
-          BEGIN { skip=0 }
+          BEGIN { comment_section=1 }
 
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
+            next;
+          }
+
+          # Only keep UpdateTime comment line
+          /^#UpdateTime:/ {
             print;
             next;
           }
 
-          # Retain all comment lines
-          /^#/ { print; next; }
+          # Skip all other comments
+          /^#/ { next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
 
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
+            if (comment_section) {
+              print "#Mercury";
+              print "payload:";
+              comment_section=0;
+            }
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
               print "- IP-CIDR," $2 "/32"
             } else {
               print "- DOMAIN," $2
             }
-          }' another-reward.txt > another_reward_processed.tmp
-
-          # Add header lines
-          echo -e "#Mercury\npayload:" > all.yaml
-          cat another_reward_processed.tmp >> all.yaml
-          rm another_reward_processed.tmp
+          }' all.txt > all.axml
 
       - name: Show Output Files
         run: |
-          echo "=== reward.yaml ==="
-          cat reward.yaml
+          echo "=== reward.axml ==="
+          cat reward.axml
           echo ""
-          echo "=== all.yaml ==="
-          cat all.yaml
+          echo "=== all.axml ==="
+          cat all.axml
 
       - name: Commit and Push Changed Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "*.yaml"
-          commit_message: Update yaml files from remote hosts
+          file_pattern: "*.axml"
+          commit_message: Update axml files from remote hosts

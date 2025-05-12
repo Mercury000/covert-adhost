@@ -53,26 +53,19 @@ jobs:
             echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "🆕 首次运行：已保存初始 MD5 值到 md5_hashes.txt"
           fi
-
-      - name: 判断是否需要更新
-        id: check_update
-        run: |
-          NEED_UPDATE=false
-          if [ "$REWARD_MD5" != "$PREVIOUS_REWARD_MD5" ] || [ "$ALL_MD5" != "$PREVIOUS_ALL_MD5" ]; then
-            echo "🔄 检测到 reward.txt 或 all.txt 内容发生变化，准备执行转换任务。"
-            NEED_UPDATE=true
-          else
-            echo "✅ 文件自上次运行以来未发生变化，跳过后续处理。"
-            NEED_UPDATE=false
-          fi
-          
-          # 如果是首次运行，确保 NEED_UPDATE=true
-          if [ ! -f md5_hashes.txt ] && [ "$NEED_UPDATE" = false ]; then
-            echo "🔄 首次运行，强制设置为需要更新。"
-            NEED_UPDATE=true
-          fi
-          
-          echo "NEED_UPDATE=$NEED_UPDATE" >> $GITHUB_ENV
+- name: 判断是否需要更新
+  id: check_update
+  run: |
+    NEED_UPDATE=false
+    if [ ! -f md5_hashes.txt ] || \
+       [ "$REWARD_MD5" != "$PREVIOUS_REWARD_MD5" ] || [ "$ALL_MD5" != "$PREVIOUS_ALL_MD5" ]; then
+      echo "🔄 检测到文件变化，准备执行转换任务。"
+      NEED_UPDATE=true
+    else
+      echo "✅ 文件自上次运行以来未发生变化，跳过后续处理。"
+      exit 0
+    fi
+    echo "NEED_UPDATE=$NEED_UPDATE" >> $GITHUB_ENV
 
       - name: 更新并保存当前 MD5 值
         if: env.NEED_UPDATE == 'true'

@@ -1,4 +1,4 @@
-name: Extract Domains and Push to GitHub
+name: Convert Hosts Files
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:        # 支持手动运行
 
 jobs:
-  extract:
+  convert:
     runs-on: ubuntu-latest
     steps:
       - name: 检出仓库
@@ -21,32 +21,39 @@ jobs:
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-          git remote set-url origin git@github.com:Mercury000/extract-domain.git
+          git remote set-url origin git@github.com:Mercury000/covert-adhost.git
           git fetch
 
-      - name: 下载 adrules.list 文件
+      - name: 下载 reward.txt 和 all.txt
         run: |
-          curl -s -o adrules.list https://raw.githubusercontent.com/Cats-Team/AdRules/main/adrules.list
+          curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
+          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/all
 
       - name: 生成当前文件的 MD5 值
         id: generate_md5
         run: |
-          ADRULES_MD5=$(md5sum adrules.list | awk '{print $1}')
-          echo "ADRULES_MD5=$ADRULES_MD5" >> $GITHUB_ENV
+          REWARD_MD5=$(md5sum reward.txt | awk '{print $1}')
+          ALL_MD5=$(md5sum all.txt | awk '{print $1}')
+          echo "REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+          echo "ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
 
       - name: 加载或创建 md5_hashes.txt
         id: load_or_create_md5
         run: |
           if [ -f md5_hashes.txt ]; then
             source md5_hashes.txt
-            echo "PREVIOUS_ADRULES_MD5=$ADRULES_MD5" >> $GITHUB_ENV
+            echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "✅ 已加载上一次保存的 MD5 值。"
           else
             echo "⚠️ 未找到 md5_hashes.txt，正在创建新的哈希记录文件..."
-            echo "ADRULES_MD5=$ADRULES_MD5" > md5_hashes.txt
-            echo "PREVIOUS_ADRULES_MD5=$ADRULES_MD5" >> $GITHUB_ENV
+            echo "REWARD_MD5=$REWARD_MD5" > md5_hashes.txt
+            echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
+            echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "🆕 首次运行：已保存初始 MD5 值到 md5_hashes.txt"
           fi
+
       - name: 判断是否需要更新
         id: check_update
         run: |
@@ -71,17 +78,42 @@ jobs:
         if: env.NEED_UPDATE == 'true'
         run: |
           echo "💾 正在更新 md5_hashes.txt 文件中的 MD5 值..."
-          echo "ADRULES_MD5=$ADRULES_MD5" > md5_hashes.txt
+          echo "REWARD_MD5=$REWARD_MD5" > md5_hashes.txt
+          echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
 
-      - name: 提取域名并保存为 domains.txt
+      - name: 统一转换 hosts 文件为 YAML 格式
         if: env.NEED_UPDATE == 'true'
         run: |
-          # 提取域名并去除前缀
-          grep -oP '(?<=DOMAIN-SUFFIX,)[^,]+' adrules.list > domains.txt
+          process_file() {
+            input="$1"
+            output="${input%.txt}.yaml"
+            awk '
+            BEGIN { c=1; u="" }
+            /^#自定义重定向hosts/,/^#END/ { next }
+            /^#更新时间:/ { u=$0; next }
+            /^#/ { next }
+            /^[[:space:]]*$/ { next }
+            $1 == "0.0.0.0" && NF > 1 {
+              if (c) {
+                print "#Mercury\n#10007";
+                if (u != "") print u;
+                print "payload:";
+                c=0;
+              }
+              if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
+                print "- IP-CIDR," $2 "/32"
+              } else {
+                print "- DOMAIN," $2
+              }
+            }' "$input" > "$output"
+          }
+
+          process_file "reward.txt"
+          process_file "all.txt"
 
       - name: 提交并推送更改
         if: env.NEED_UPDATE == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "domains.txt md5_hashes.txt"
-          commit_message: 更新提取的域名和 MD5 哈希值
+          file_pattern: "*.yaml md5_hashes.txt"
+          commit_message: 更新远程 hosts 文件生成的 YAML 和 MD5 哈希值

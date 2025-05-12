@@ -35,7 +35,7 @@ jobs:
         run: |
           curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all
 
-      - name: Process reward.txt -> reward.axml
+      - name: Process reward.txt -> reward.yaml
         run: |
           awk '
           BEGIN { skip=0 }
@@ -43,13 +43,13 @@ jobs:
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
             if (/^#END/) skip=0;
-            print >> "reward.axml";
+            print >> "reward.yaml";
             next;
           }
-          skip == 1 { print >> "reward.axml"; next; }
+          skip == 1 { print >> "reward.yaml"; next; }
 
           # Retain update time or specific comment lines
-          /^#UpdateTime:/ { print >> "reward.axml"; next; }
+          /^#UpdateTime:/ { print >> "reward.yaml"; next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
@@ -57,15 +57,15 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32" >> "reward.axml"
+              print "- IP-CIDR," $2 "/32" >> "reward.yaml"
             } else {
-              print "- DOMAIN," $2 >> "reward.axml"
+              print "- DOMAIN," $2 >> "reward.yaml"
             }
           }' reward.txt
 
-          echo -e "#Mercury\n$(cat reward.axml)" > reward.axml.tmp && mv reward.axml.tmp reward.axml
+          echo -e "#Mercury\n$(cat reward.yaml)" > reward.yaml.tmp && mv reward.yaml.tmp reward.yaml
 
-      - name: Process all.txt -> all.axml
+      - name: Process all.txt -> all.yaml
         run: |
           awk '
           BEGIN { skip=0 }
@@ -73,13 +73,13 @@ jobs:
           # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
             if (/^#END/) skip=0;
-            print >> "all.axml";
+            print >> "all.yaml";
             next;
           }
-          skip == 1 { print >> "all.axml"; next; }
+          skip == 1 { print >> "all.yaml"; next; }
 
           # Retain update time or specific comment lines
-          /^#UpdateTime:/ { print >> "all.axml"; next; }
+          /^#UpdateTime:/ { print >> "all.yaml"; next; }
 
           # Skip empty lines
           /^[[:space:]]*$/ { next; }
@@ -87,24 +87,24 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32" >> "all.axml"
+              print "- IP-CIDR," $2 "/32" >> "all.yaml"
             } else {
-              print "- DOMAIN," $2 >> "all.axml"
+              print "- DOMAIN," $2 >> "all.yaml"
             }
           }' all.txt
 
-          echo -e "#Mercury\n$(cat all.axml)" > all.axml.tmp && mv all.axml.tmp all.axml
+          echo -e "#Mercury\n$(cat all.yaml)" > all.yaml.tmp && mv all.yaml.tmp all.yaml
 
       - name: Show Output Files
         run: |
-          echo "=== reward.axml ==="
-          cat reward.axml
+          echo "=== reward.yaml ==="
+          cat reward.yaml
           echo ""
-          echo "=== all.axml ==="
-          cat all.axml
+          echo "=== all.yaml ==="
+          cat all.yaml
 
       - name: Commit and Push Changed Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "*.axml"
-          commit_message: Update axml files from remote hosts
+          file_pattern: "*.yaml"
+          commit_message: Update yaml files from remote hosts

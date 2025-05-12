@@ -59,7 +59,7 @@ jobs:
         id: check_update
         run: |
           NEED_UPDATE=false
-          if [ -f md5_hashes.txt ] || [ "$REWARD_MD5" != "$PREVIOUS_REWARD_MD5" ] || [ "$ALL_MD5" != "$PREVIOUS_ALL_MD5" ]; then
+          if [ ! -f md5_hashes.txt ] || [ "$REWARD_MD5" != "$PREVIOUS_REWARD_MD5" ] || [ "$ALL_MD5" != "$PREVIOUS_ALL_MD5" ]; then
             echo "🔄 检测到 reward.txt 或 all.txt 内容发生变化，准备执行转换任务。"
             NEED_UPDATE=true
           else

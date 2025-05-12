@@ -9,21 +9,18 @@ jobs:
   convert:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo via HTTPS
+      - name: 检出仓库
         uses: actions/checkout@v4
 
-      - name: Setup SSH Key
+      - name: 设置 SSH 密钥
         uses: webfactory/ssh-agent@v0.5.1
         with:
           ssh-private-key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
-      - name: Set Git Config
+      - name: 配置 Git 用户信息
         run: |
           git config --global user.name "${{ github.actor }}"
           git config --global user.email "${{ github.actor }}@users.noreply.github.com"
-
-      - name: Checkout Repo via SSH
-        run: |
           git remote set-url origin git@github.com:Mercury000/covert-adhost.git
           git fetch
 
@@ -40,115 +37,75 @@ jobs:
           echo "REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
           echo "ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
 
-      - name: 加载或创建 md5_hashes.txt 文件
+      - name: 加载或创建 md5_hashes.txt
         id: load_or_create_md5
         run: |
           if [ -f md5_hashes.txt ]; then
             source md5_hashes.txt
-            echo "PREVIOUS_REWARD_MD5=${REWARD_MD5}" >> $GITHUB_ENV
-            echo "PREVIOUS_ALL_MD5=${ALL_MD5}" >> $GITHUB_ENV
+            echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "✅ 已加载上一次保存的 MD5 值。"
           else
             echo "⚠️ 未找到 md5_hashes.txt，正在创建新的哈希记录文件..."
-            echo "REWARD_MD5=${REWARD_MD5}" > md5_hashes.txt
-            echo "ALL_MD5=${ALL_MD5}" >> md5_hashes.txt
-            echo "PREVIOUS_REWARD_MD5=${REWARD_MD5}" >> $GITHUB_ENV
-            echo "PREVIOUS_ALL_MD5=${ALL_MD5}" >> $GITHUB_ENV
+            echo "REWARD_MD5=$REWARD_MD5" > md5_hashes.txt
+            echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
+            echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
             echo "🆕 首次运行：已保存初始 MD5 值到 md5_hashes.txt"
           fi
 
-      - name: 比较新旧 MD5 值
+      - name: 判断是否需要更新
+        id: check_update
         run: |
-          if [ "$REWARD_MD5" == "$PREVIOUS_REWARD_MD5" ] && [ "$ALL_MD5" == "$PREVIOUS_ALL_MD5" ]; then
+          NEED_UPDATE=false
+          if [ "$REWARD_MD5" != "$PREVIOUS_REWARD_MD5" ] || [ "$ALL_MD5" != "$PREVIOUS_ALL_MD5" ]; then
+            echo "🔄 检测到 reward.txt 或 all.txt 内容发生变化，准备执行转换任务。"
+            NEED_UPDATE=true
+          else
             echo "✅ 文件自上次运行以来未发生变化，跳过后续处理。"
             exit 0
-          else
-            echo "🔄 文件内容已更改，继续执行转换任务。"
           fi
+          echo "NEED_UPDATE=$NEED_UPDATE" >> $GITHUB_ENV
 
       - name: 更新并保存当前 MD5 值
+        if: env.NEED_UPDATE == 'true'
         run: |
           echo "💾 正在更新 md5_hashes.txt 文件中的 MD5 值..."
           echo "REWARD_MD5=$REWARD_MD5" > md5_hashes.txt
           echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
 
-      - name: 转换 reward.txt 为 YAML 格式
+      - name: 统一转换 hosts 文件为 YAML 格式
+        if: env.NEED_UPDATE == 'true'
         run: |
-          awk '
-          BEGIN { comment_section=1; update_time_line="" }
-
-          /^#自定义重定向hosts/,/^#END/ {
-            next;
-          }
-
-          /^#更新时间:/ {
-            update_time_line=$0;
-            next;
-          }
-
-          /^#/ { next; }
-
-          /^[[:space:]]*$/ { next; }
-
-          $1 == "0.0.0.0" && NF > 1 {
-            if (comment_section) {
-              print "#Mercury\n#10007";
-              if (update_time_line != "") {
-                print update_time_line;
+          process_file() {
+            input="$1"
+            output="${input%.txt}.yaml"
+            awk '
+            BEGIN { c=1; u="" }
+            /^#自定义重定向hosts/,/^#END/ { next }
+            /^#更新时间:/ { u=$0; next }
+            /^#/ { next }
+            /^[[:space:]]*$/ { next }
+            $1 == "0.0.0.0" && NF > 1 {
+              if (c) {
+                print "#Mercury\n#10007";
+                if (u != "") print u;
+                print "payload:";
+                c=0;
               }
-              print "payload:";
-              comment_section=0;
-            }
-            if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32"
-            } else {
-              print "- DOMAIN," $2
-            }
-          }' reward.txt > reward.yaml
-
-      - name: 转换 all.txt 为 YAML 格式
-        run: |
-          awk '
-          BEGIN { comment_section=1; update_time_line="" }
-
-          /^#自定义重定向hosts/,/^#END/ {
-            next;
-          }
-
-          /^#更新时间:/ {
-            update_time_line=$0;
-            next;
-          }
-
-          /^#/ { next; }
-
-          /^[[:space:]]*$/ { next; }
-
-          $1 == "0.0.0.0" && NF > 1 {
-            if (comment_section) {
-              print "#Mercury\n#10007";
-              if (update_time_line != "") {
-                print update_time_line;
+              if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
+                print "- IP-CIDR," $2 "/32"
+              } else {
+                print "- DOMAIN," $2
               }
-              print "payload:";
-              comment_section=0;
-            }
-            if ($2 ~ /^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$/) {
-              print "- IP-CIDR," $2 "/32"
-            } else {
-              print "- DOMAIN," $2
-            }
-          }' all.txt > all.yaml
+            }' "$input" > "$output"
+          }
 
-      - name: 显示生成的 YAML 文件内容
-        run: |
-          echo "📄 reward.yaml 内容如下："
-          cat reward.yaml
-          echo ""
-          echo "📄 all.yaml 内容如下："
-          cat all.yaml
+          process_file "reward.txt"
+          process_file "all.txt"
 
       - name: 提交并推送更改
+        if: env.NEED_UPDATE == 'true'
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           file_pattern: "*.yaml md5_hashes.txt"

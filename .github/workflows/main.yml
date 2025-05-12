@@ -2,8 +2,8 @@ name: Convert Hosts Files
 
 on:
   schedule:
-    - cron: '0 13 * * *'   # 每天北京时间 21:00 执行
-  workflow_dispatch:       # 支持手动运行
+    - cron: '0 7,15 * * *'   # 每天北京时间 15:00 23:00 执行
+  workflow_dispatch:        # 支持手动运行
 
 jobs:
   convert:
@@ -27,37 +27,69 @@ jobs:
           git remote set-url origin git@github.com:Mercury000/covert-adhost.git
           git fetch
 
-      - name: Download reward.txt
+      - name: 下载 reward.txt 和 all.txt
         run: |
           curl -s -o reward.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
+          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/all
 
-      - name: Download all.txt
+      - name: 生成当前文件的 MD5 值
+        id: generate_md5
         run: |
-          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
+          REWARD_MD5=$(md5sum reward.txt | awk '{print $1}')
+          ALL_MD5=$(md5sum all.txt | awk '{print $1}')
+          echo "REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
+          echo "ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
 
-      - name: Process reward.txt -> reward.yaml
+      - name: 加载或创建 md5_hashes.txt 文件
+        id: load_or_create_md5
+        run: |
+          if [ -f md5_hashes.txt ]; then
+            source md5_hashes.txt
+            echo "PREVIOUS_REWARD_MD5=${REWARD_MD5}" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=${ALL_MD5}" >> $GITHUB_ENV
+            echo "✅ 已加载上一次保存的 MD5 值。"
+          else
+            echo "⚠️ 未找到 md5_hashes.txt，正在创建新的哈希记录文件..."
+            echo "REWARD_MD5=${REWARD_MD5}" > md5_hashes.txt
+            echo "ALL_MD5=${ALL_MD5}" >> md5_hashes.txt
+            echo "PREVIOUS_REWARD_MD5=${REWARD_MD5}" >> $GITHUB_ENV
+            echo "PREVIOUS_ALL_MD5=${ALL_MD5}" >> $GITHUB_ENV
+            echo "🆕 首次运行：已保存初始 MD5 值到 md5_hashes.txt"
+          fi
+
+      - name: 比较新旧 MD5 值
+        run: |
+          if [ "$REWARD_MD5" == "$PREVIOUS_REWARD_MD5" ] && [ "$ALL_MD5" == "$PREVIOUS_ALL_MD5" ]; then
+            echo "✅ 文件自上次运行以来未发生变化，跳过后续处理。"
+            exit 0
+          else
+            echo "🔄 文件内容已更改，继续执行转换任务。"
+          fi
+
+      - name: 更新并保存当前 MD5 值
+        run: |
+          echo "💾 正在更新 md5_hashes.txt 文件中的 MD5 值..."
+          echo "REWARD_MD5=$REWARD_MD5" > md5_hashes.txt
+          echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
+
+      - name: 转换 reward.txt 为 YAML 格式
         run: |
           awk '
           BEGIN { comment_section=1; update_time_line="" }
 
-          # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
             next;
           }
 
-          # Only keep 更新时间 comment line
           /^#更新时间:/ {
             update_time_line=$0;
             next;
           }
 
-          # Skip all other comments
           /^#/ { next; }
 
-          # Skip empty lines
           /^[[:space:]]*$/ { next; }
 
-          # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
               print "#Mercury\n#10007";
@@ -74,29 +106,24 @@ jobs:
             }
           }' reward.txt > reward.yaml
 
-      - name: Process all.txt -> all.yaml
+      - name: 转换 all.txt 为 YAML 格式
         run: |
           awk '
           BEGIN { comment_section=1; update_time_line="" }
 
-          # Skip lines between 自定义重定向hosts and END
           /^#自定义重定向hosts/,/^#END/ {
             next;
           }
 
-          # Only keep 更新时间 comment line
           /^#更新时间:/ {
             update_time_line=$0;
             next;
           }
 
-          # Skip all other comments
           /^#/ { next; }
 
-          # Skip empty lines
           /^[[:space:]]*$/ { next; }
 
-          # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
               print "#Mercury\n#10007";
@@ -113,16 +140,16 @@ jobs:
             }
           }' all.txt > all.yaml
 
-      - name: Show Output Files
+      - name: 显示生成的 YAML 文件内容
         run: |
-          echo "=== reward.yaml ==="
+          echo "📄 reward.yaml 内容如下："
           cat reward.yaml
           echo ""
-          echo "=== all.yaml ==="
+          echo "📄 all.yaml 内容如下："
           cat all.yaml
 
-      - name: Commit and Push Changed Files
+      - name: 提交并推送更改
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "*.yaml"
-          commit_message: Update yaml files from remote hosts
+          file_pattern: "*.yaml md5_hashes.txt"
+          commit_message: 更新远程 hosts 文件生成的 YAML 和 MD5 哈希值

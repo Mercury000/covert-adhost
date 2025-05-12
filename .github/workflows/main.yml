@@ -33,7 +33,7 @@ jobs:
 
       - name: Download all.txt
         run: |
-          curl -s -o all.txt https://raw.githubusercontent.com/another-source/all/refs/heads/master/all
+          curl -s -o all.txt https://raw.githubusercontent.com/lingeringsound/10007_auto/refs/heads/master/reward
 
       - name: Process reward.txt -> reward.yaml
         run: |

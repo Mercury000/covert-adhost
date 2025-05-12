@@ -51,6 +51,7 @@ jobs:
             echo "ALL_MD5=$ALL_MD5" >> md5_hashes.txt
             echo "PREVIOUS_REWARD_MD5=$REWARD_MD5" >> $GITHUB_ENV
             echo "PREVIOUS_ALL_MD5=$ALL_MD5" >> $GITHUB_ENV
+            echo "NEED_UPDATE=true" >> $GITHUB_ENV
             echo "🆕 首次运行：已保存初始 MD5 值到 md5_hashes.txt"
           fi
 

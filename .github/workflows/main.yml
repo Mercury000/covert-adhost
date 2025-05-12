@@ -2,7 +2,7 @@ name: Convert Hosts Files
 
 on:
   schedule:
-    - cron: '0 16 * * *'   # 每天北京时间 00:00 执行
+    - cron: '0 13 * * *'   # 每天北京时间 21:00 执行
   workflow_dispatch:       # 支持手动运行
 
 jobs:
@@ -35,7 +35,7 @@ jobs:
         run: |
           curl -s -o all.txt https://raw.githubusercontent.com/another-source/all/refs/heads/master/all
 
-      - name: Process reward.txt -> reward.axml
+      - name: Process reward.txt -> reward.yaml
         run: |
           awk '
           BEGIN { comment_section=1 }
@@ -45,8 +45,8 @@ jobs:
             next;
           }
 
-          # Only keep UpdateTime comment line
-          /^#UpdateTime:/ {
+          # Only keep 更新时间 comment line
+          /^#更新时间:/ {
             print;
             next;
           }
@@ -60,7 +60,7 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
-              print "#Mercury";
+              print "#Mercury\n#10007";
               print "payload:";
               comment_section=0;
             }
@@ -69,9 +69,9 @@ jobs:
             } else {
               print "- DOMAIN," $2
             }
-          }' reward.txt > reward.axml
+          }' reward.txt > reward.yaml
 
-      - name: Process all.txt -> all.axml
+      - name: Process all.txt -> all.yaml
         run: |
           awk '
           BEGIN { comment_section=1 }
@@ -81,8 +81,8 @@ jobs:
             next;
           }
 
-          # Only keep UpdateTime comment line
-          /^#UpdateTime:/ {
+          # Only keep 更新时间 comment line
+          /^#更新时间:/ {
             print;
             next;
           }
@@ -96,7 +96,7 @@ jobs:
           # Match 0.0.0.0 domain or IP
           $1 == "0.0.0.0" && NF > 1 {
             if (comment_section) {
-              print "#Mercury";
+              print "#Mercury\n#10007";
               print "payload:";
               comment_section=0;
             }
@@ -105,18 +105,18 @@ jobs:
             } else {
               print "- DOMAIN," $2
             }
-          }' all.txt > all.axml
+          }' all.txt > all.yaml
 
       - name: Show Output Files
         run: |
-          echo "=== reward.axml ==="
-          cat reward.axml
+          echo "=== reward.yaml ==="
+          cat reward.yaml
           echo ""
-          echo "=== all.axml ==="
-          cat all.axml
+          echo "=== all.yaml ==="
+          cat all.yaml
 
       - name: Commit and Push Changed Files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          file_pattern: "*.axml"
-          commit_message: Update axml files from remote hosts
+          file_pattern: "*.yaml"
+          commit_message: Update yaml files from remote hosts

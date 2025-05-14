@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-05-14 09:45:49
+#更新时间: 2025-05-14 22:22:00
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0355394ad2.4lr.fun
@@ -2262,6 +2262,7 @@ payload:
 - DOMAIN,ads-pd.nbcuni.com
 - DOMAIN,ads-pd.universalsports.com
 - DOMAIN,ads-pebblemedia.adhese.com
+- DOMAIN,ads-pit-nfl.yinzcam.com
 - DOMAIN,ads-pixiv.net
 - DOMAIN,ads-platform.zalo.me
 - DOMAIN,ads-portal.net
@@ -5342,6 +5343,7 @@ payload:
 - DOMAIN,adspirit.de
 - DOMAIN,adspirit.info
 - DOMAIN,adspirit.net
+- DOMAIN,adspixel.network
 - DOMAIN,adspixle.com
 - DOMAIN,adsplay.in
 - DOMAIN,adsplay.net
@@ -7528,7 +7530,6 @@ payload:
 - DOMAIN,api.emma.io
 - DOMAIN,api.empower.net
 - DOMAIN,api.engage-conversations.meltwater.io
-- DOMAIN,api.engager.ecbsn.com
 - DOMAIN,api.enginemob.me
 - DOMAIN,api.enjoyadsplatform.com
 - DOMAIN,api.ent.mobileanjian.com
@@ -16808,6 +16809,7 @@ payload:
 - DOMAIN,leadsmonitor.io
 - DOMAIN,leadspace.com
 - DOMAIN,leadsrx.com
+- DOMAIN,leadsy.ai
 - DOMAIN,leadsynaptic.go2jump.org
 - DOMAIN,leafyecho.pro
 - DOMAIN,lealiimbus.pro
@@ -20606,6 +20608,7 @@ payload:
 - DOMAIN,r.wallstrads.com
 - DOMAIN,r0.mradx.net
 - DOMAIN,r2.adwo.com
+- DOMAIN,r2.leadsy.ai
 - DOMAIN,r3.adwo.com
 - DOMAIN,ra.gtimg.com
 - DOMAIN,rabbit.tg.meitu.com

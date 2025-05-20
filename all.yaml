@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-05-20 09:46:42
+#更新时间: 2025-05-20 22:21:08
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -7874,6 +7874,7 @@ payload:
 - DOMAIN,api.rnet.plus
 - DOMAIN,api.rollbar.com
 - DOMAIN,api.rqmob.com
+- DOMAIN,api.rtvrapi.com
 - DOMAIN,api.rtxplatform.com
 - DOMAIN,api.rubyblu.com
 - DOMAIN,api.rudderlabs.com
@@ -8090,6 +8091,7 @@ payload:
 - DOMAIN,api.wootric.com.herokudns.com
 - DOMAIN,api.wsq.umeng.com
 - DOMAIN,api.wx.my7v.com
+- DOMAIN,api.xcultur.com
 - DOMAIN,api.xdirectx.com
 - DOMAIN,api.xiaohuxi.cn
 - DOMAIN,api.xmpush.global.xiaomi.com
@@ -11647,6 +11649,7 @@ payload:
 - DOMAIN,crossnemal.pro
 - DOMAIN,crossroadsubquery.com
 - DOMAIN,crouchinghoatzin.pro
+- DOMAIN,crownadvertising.ca
 - DOMAIN,crowssobbo.pro
 - DOMAIN,crs.baidu.com
 - DOMAIN,crucicalci.pro
@@ -30231,6 +30234,7 @@ payload:
 - DOMAIN,www.cronotatam.pro
 - DOMAIN,www.crossnemal.pro
 - DOMAIN,www.crouchinghoatzin.pro
+- DOMAIN,www.crownadvertising.ca
 - DOMAIN,www.crowssobbo.pro
 - DOMAIN,www.crucicalci.pro
 - DOMAIN,www.crucipropl.pro

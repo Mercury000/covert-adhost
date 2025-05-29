@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-05-29 09:46:25
+#更新时间: 2025-05-29 22:20:54
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,066ad25a9f.dsxnpls.one
@@ -642,7 +642,6 @@ payload:
 - DOMAIN,ad-channel.diwodiwo.xyz
 - DOMAIN,ad-channel.wikawika.xyz
 - DOMAIN,ad-cheers.com
-- DOMAIN,ad-clcount.com
 - DOMAIN,ad-clicks.com
 - DOMAIN,ad-cloud.jp
 - DOMAIN,ad-cmp.hismarttv.com
@@ -1822,6 +1821,7 @@ payload:
 - DOMAIN,ad39.checkm8.com
 - DOMAIN,ad39digital.checkm8.com
 - DOMAIN,ad3digital.checkm8.com
+- DOMAIN,ad3g.com
 - DOMAIN,ad4.ad-srv.net
 - DOMAIN,ad4.adfarm1.adition.com
 - DOMAIN,ad4.api.ero-advertising.com
@@ -5598,6 +5598,7 @@ payload:
 - DOMAIN,adtima-media.zascdn.me
 - DOMAIN,adtima-static.zascdn.me
 - DOMAIN,adtima-video.zascdn.me
+- DOMAIN,adtm.spreadshirts.net
 - DOMAIN,adtrack.adleadevent.com
 - DOMAIN,adtrack.appcpi.net
 - DOMAIN,adtrack.cimedia.net
@@ -6500,7 +6501,6 @@ payload:
 - DOMAIN,all.cnzz.com.danuoyi.tbcache.com
 - DOMAIN,all.orfr.adgtw.orangeads.fr
 - DOMAIN,alladvantage.de
-- DOMAIN,alladvertisingdomclub.club
 - DOMAIN,allamplosi.pro
 - DOMAIN,allegro.pl-oferta-iphone-16-pro-max.sbs
 - DOMAIN,allegrolokalnie.6832543.pro
@@ -10142,7 +10142,6 @@ payload:
 - DOMAIN,bypass.ad-stir.com
 - DOMAIN,byrramphi.pro
 - DOMAIN,byteadverts.com
-- DOMAIN,bytegsdk.com
 - DOMAIN,byxihiu1.pro
 - DOMAIN,byzumie.pro
 - DOMAIN,bzyjuqla.pro
@@ -12653,6 +12652,7 @@ payload:
 - DOMAIN,dashingdog.pro
 - DOMAIN,dashingglimpse.pro
 - DOMAIN,dat2.ero-advertising.com
+- DOMAIN,data-0331877d53.radsport-news.com
 - DOMAIN,data-canary.flurry.com
 - DOMAIN,data-cl-f.ads.oppomobile.com
 - DOMAIN,data-cl-id.ads.oppomobile.com
@@ -16524,7 +16524,6 @@ payload:
 - DOMAIN,groupoilis.pro
 - DOMAIN,groutindra.pro
 - DOMAIN,growadvertising.com
-- DOMAIN,growebads.com
 - DOMAIN,growingjunglevinesclimb.pro
 - DOMAIN,growlr.adsbynimbus.com
 - DOMAIN,growthadvice.pro
@@ -20437,6 +20436,9 @@ payload:
 - DOMAIN,mobi.dibongda777.com
 - DOMAIN,mobi.oleviet777.com
 - DOMAIN,mobiadvert.livesportmedia.eu
+- DOMAIN,mobile-ads.fetish-matters.net
+- DOMAIN,mobile-ads.gaygalls.net
+- DOMAIN,mobile-ads.wycc.porn
 - DOMAIN,mobile-browser.me
 - DOMAIN,mobile-sdk-config.gservice.emarsys.net
 - DOMAIN,mobile-sdk-resources.jumio.com
@@ -21952,6 +21954,7 @@ payload:
 - DOMAIN,p15-ad.byteimg.com
 - DOMAIN,p15-be-pack-sign.pglstatp-toutiao.com
 - DOMAIN,p15-orange.byteorge.com
+- DOMAIN,p16-ad-sg.ibyteimg.com
 - DOMAIN,p16-ad-sign.byteimg.com
 - DOMAIN,p16-ad.adbkwai.com
 - DOMAIN,p16-ad.adkwai.com
@@ -26289,8 +26292,10 @@ payload:
 - DOMAIN,sdk.mobads.adwangmai.com
 - DOMAIN,sdk.moneyoyo.com
 - DOMAIN,sdk.mpianalytics.com
+- DOMAIN,sdk.mrf.io
 - DOMAIN,sdk.n-analytics.io
 - DOMAIN,sdk.native123.com
+- DOMAIN,sdk.navnow.xyz
 - DOMAIN,sdk.ocmhood.com
 - DOMAIN,sdk.open.amp.igexin.com
 - DOMAIN,sdk.open.extension.getui.com
@@ -27111,7 +27116,6 @@ payload:
 - DOMAIN,sinkldisco.pro
 - DOMAIN,sintoumoro.pro
 - DOMAIN,sinupfacia.pro
-- DOMAIN,sinwebads.com
 - DOMAIN,siouaequic.pro
 - DOMAIN,sirect.pro
 - DOMAIN,sirius.iad-03.braze.com
@@ -27505,6 +27509,7 @@ payload:
 - DOMAIN,sorreunbli.pro
 - DOMAIN,sorroobliq.pro
 - DOMAIN,sorrorasse.pro
+- DOMAIN,sorteptoadsalr.com
 - DOMAIN,sorticonsp.pro
 - DOMAIN,sorvolathy.pro
 - DOMAIN,sospemarin.pro
@@ -30249,7 +30254,6 @@ payload:
 - DOMAIN,ua.zenadservices.net
 - DOMAIN,uac.advertising.com
 - DOMAIN,uads.cc
-- DOMAIN,uads.guru
 - DOMAIN,uapi-ads.vivo.com.cn
 - DOMAIN,uapi.ads.heytapmobi.com
 - DOMAIN,uapi.ads.oppomobile.com
@@ -49446,7 +49450,6 @@ payload:
 - DOMAIN,yellowcaracal.pro
 - DOMAIN,yellowmongrel.pro
 - DOMAIN,yellowsloth.pro
-- DOMAIN,yeloads.com
 - DOMAIN,yepads.com
 - DOMAIN,yepdigital.adk2x.com
 - DOMAIN,yesads.com

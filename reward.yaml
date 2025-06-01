@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-01 10:04:02
+#更新时间: 2025-06-01 22:19:09
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,066ad25a9f.dsxnpls.one
@@ -742,6 +742,7 @@ payload:
 - DOMAIN,ad-logging2.ap-northeast-2.elasticbeanstalk.com
 - DOMAIN,ad-m.asia
 - DOMAIN,ad-mapps.com
+- DOMAIN,ad-material.ys7.com
 - DOMAIN,ad-maven.com
 - DOMAIN,ad-maven.fs.ak-is2.net
 - DOMAIN,ad-maven.xml-eu.ak-is2.net
@@ -2364,6 +2365,7 @@ payload:
 - DOMAIN,ads-metadata-prod.zeustechnology.com
 - DOMAIN,ads-mobile.jiwire.com
 - DOMAIN,ads-nd85c.ortb.adelement.com
+- DOMAIN,ads-nd85d.ortb.adelement.com
 - DOMAIN,ads-nd8iv.ortb.adelement.com
 - DOMAIN,ads-nd8lj.ortb.adelement.com
 - DOMAIN,ads-nd9kh.ortb.adelement.com
@@ -3269,6 +3271,7 @@ payload:
 - DOMAIN,ads.livetv794.me
 - DOMAIN,ads.livetv806.me
 - DOMAIN,ads.livetv852.me
+- DOMAIN,ads.livetv853.me
 - DOMAIN,ads.lmmob.com
 - DOMAIN,ads.localnow.api.cms.amdvids.com
 - DOMAIN,ads.localyokelmedia.com
@@ -3773,6 +3776,7 @@ payload:
 - DOMAIN,ads.tarrobads.com
 - DOMAIN,ads.tbs.com
 - DOMAIN,ads.tcsemotion.com
+- DOMAIN,ads.teads.tv
 - DOMAIN,ads.technoratimedia.com
 - DOMAIN,ads.techvibes.com
 - DOMAIN,ads.techweb.com
@@ -5470,6 +5474,7 @@ payload:
 - DOMAIN,adspserving.com
 - DOMAIN,adspsp.com
 - DOMAIN,adspublicidades.agency
+- DOMAIN,adspy.hdthot.com
 - DOMAIN,adspy.javrank.com
 - DOMAIN,adspygl.xyz
 - DOMAIN,adspyglass.com
@@ -5782,6 +5787,7 @@ payload:
 - DOMAIN,adv2.rcspubblicita.it
 - DOMAIN,advack.net
 - DOMAIN,advaction.ru
+- DOMAIN,advally-audizine-tagan.adlightning.com
 - DOMAIN,advally-baseballamerica-tagan.adlightning.com
 - DOMAIN,advally-mcm-tagan.adlightning.com
 - DOMAIN,advally-rogerebert-tagan.adlightning.com
@@ -5824,6 +5830,7 @@ payload:
 - DOMAIN,advancedworld.site
 - DOMAIN,advancelocal.blueconic.net
 - DOMAIN,advancelocalmediallc-clevelandcom.adsbynimbus.com
+- DOMAIN,advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-mlivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-njcom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-oregonlivecom.adsbynimbus.com
@@ -6035,7 +6042,6 @@ payload:
 - DOMAIN,adverty.com
 - DOMAIN,adverum.lt
 - DOMAIN,advg.agency
-- DOMAIN,advg.jp
 - DOMAIN,advgalaxy.com
 - DOMAIN,advgame.org
 - DOMAIN,adviad.com
@@ -7536,6 +7542,7 @@ payload:
 - DOMAIN,api.areametrics.com
 - DOMAIN,api.areyouwatchingthis.com
 - DOMAIN,api.arity.com
+- DOMAIN,api.around.xxx
 - DOMAIN,api.asia-se1gcp1.pubnative.net
 - DOMAIN,api.asiatone.net
 - DOMAIN,api.atas.io
@@ -7985,6 +7992,7 @@ payload:
 - DOMAIN,api.nend.net
 - DOMAIN,api.netcoresmartech.com
 - DOMAIN,api.network.exponea.com
+- DOMAIN,api.networkbench.com
 - DOMAIN,api.neuro-id.com
 - DOMAIN,api.newad.ifeng.com
 - DOMAIN,api.news-headlines.co
@@ -10880,6 +10888,7 @@ payload:
 - DOMAIN,celiacontr.pro
 - DOMAIN,cell001.us-east-1.prod.entry.video-ads.a2z.com
 - DOMAIN,cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
+- DOMAIN,cell7002.pdx.pg.event-na.ads.aps.amazon-adsystem.com
 - DOMAIN,cell8001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 - DOMAIN,cell8001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 - DOMAIN,cell8002.pdx.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -12897,6 +12906,7 @@ payload:
 - DOMAIN,dcp-923.ads-dev.sportradar.com
 - DOMAIN,dcp-946.ads-dev.sportradar.com
 - DOMAIN,dcp-970.ads-dev.sportradar.com
+- DOMAIN,dcp.ads.sportradar.com
 - DOMAIN,dcrfnt-us.adsmoloco.com
 - DOMAIN,dcsdk.100ulife.com
 - DOMAIN,dd.toponad.com
@@ -14159,6 +14169,7 @@ payload:
 - DOMAIN,dvb.pandora.xiaomi.com
 - DOMAIN,dw-collect.ksosoft.com
 - DOMAIN,dw-online.ksosoft.com
+- DOMAIN,dxiodc.skadsdkless.appsflyersdk.com
 - DOMAIN,dyastinfro.pro
 - DOMAIN,dycemediluv.pro
 - DOMAIN,dyematoluo.pro
@@ -18059,6 +18070,7 @@ payload:
 - DOMAIN,ingesslipk.pro
 - DOMAIN,ingest-dr.vfw.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,ingest.eu-west-1.prod.skywave.jetstream.advertising.a2z.com
+- DOMAIN,ingest.grupoadslzone.es
 - DOMAIN,ingest.us-east-1.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,ingest.us-west-2.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,ingest.vfw.prod.skywave.jetstream.advertising.a2z.com
@@ -18195,6 +18207,7 @@ payload:
 - DOMAIN,insulevel24.pro
 - DOMAIN,insulpecil.pro
 - DOMAIN,insurads.com
+- DOMAIN,int-cdn.adsrvr.org
 - DOMAIN,intabmitic.pro
 - DOMAIN,intabprote.pro
 - DOMAIN,intadx.com
@@ -23851,6 +23864,7 @@ payload:
 - DOMAIN,qiytximmzayf.pro
 - DOMAIN,qkjfdqqxnnkj.pro
 - DOMAIN,qkztpx.pro
+- DOMAIN,qlj12-njv3l.ads.tremorhub.com
 - DOMAIN,qmsdk.shouji.sogou.com
 - DOMAIN,qoguhuo4.pro
 - DOMAIN,qohemoe7.pro
@@ -24396,6 +24410,7 @@ payload:
 - DOMAIN,rcm-eu.amazon-adsystem.com
 - DOMAIN,rcm-fe.amazon-adsystem.com
 - DOMAIN,rcm-na.amazon-adsystem.com
+- DOMAIN,rcni.advertserve.com
 - DOMAIN,rcv.a-i-ad.com
 - DOMAIN,rcv.aiclk.com
 - DOMAIN,rcv.mobad.ijinshan.com
@@ -24867,6 +24882,7 @@ payload:
 - DOMAIN,riccosuper.pro
 - DOMAIN,ricenzuppi.pro
 - DOMAIN,ricetpoper.pro
+- DOMAIN,rich-media.v3.awesomeads.superawesome.tv
 - DOMAIN,richads.com
 - DOMAIN,richemater.pro
 - DOMAIN,richibis.pro
@@ -25699,6 +25715,7 @@ payload:
 - DOMAIN,s28.cnzz.com
 - DOMAIN,s29.cnzz.com
 - DOMAIN,s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
+- DOMAIN,s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 - DOMAIN,s2s-sc-main-was.adservrs.com
 - DOMAIN,s2s.adjust.com
 - DOMAIN,s2s.pg.bid-na.ads.aps.amazon-adsystem.com
@@ -25968,6 +25985,7 @@ payload:
 - DOMAIN,sax8.sina.com.cn
 - DOMAIN,sax9.sina.com.cn
 - DOMAIN,saxn.sina.com.cn
+- DOMAIN,saxon.iad-03.appboy.com
 - DOMAIN,saxs.sina.cn
 - DOMAIN,saxs.sina.com.cn
 - DOMAIN,sb.goadserver.com
@@ -26894,6 +26912,8 @@ payload:
 - DOMAIN,sfummcapti.pro
 - DOMAIN,sfummsonor.pro
 - DOMAIN,sg-ali-ad-track-sdk.mtgglobals.com
+- DOMAIN,sg-gcp-ad-mof-sdk-asia-southeast1-b.rayjump.com
+- DOMAIN,sg-gcp-ad-mof-sdk-asia-southeast1-c.rayjump.com
 - DOMAIN,sg-gcp-ad-track-adx-asia-southeast1-a.rayjump.com
 - DOMAIN,sg-gcp-ad-track-adx-asia-southeast1-b.rayjump.com
 - DOMAIN,sg-gcp-ad-track-sdk-asia-southeast1-b.mtgglobals.com

@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-04 09:48:35
+#更新时间: 2025-06-04 22:18:10
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,09840909-8ead-4a22-94d3-4cd0ef2f39c7.cloud.looker.com
@@ -1553,7 +1553,6 @@ payload:
 - DOMAIN,ad.wanchuweilai.com
 - DOMAIN,ad.wanderlist.com
 - DOMAIN,ad.wang502.com
-- DOMAIN,ad.wapkiz.com
 - DOMAIN,ad.wavu.hu
 - DOMAIN,ad.weatherbug.com
 - DOMAIN,ad.webdice.jp
@@ -2273,7 +2272,6 @@ payload:
 - DOMAIN,ads-2479t.iionads.com
 - DOMAIN,ads-58hnjs.rtb.admanmedia.com
 - DOMAIN,ads-a.juicyads.com
-- DOMAIN,ads-adaptv.vidible.tv
 - DOMAIN,ads-admin.hubs.vn
 - DOMAIN,ads-ads-main-awesomeads.sacdn.net
 - DOMAIN,ads-adsanddata.adhese.com
@@ -2412,6 +2410,7 @@ payload:
 - DOMAIN,ads-secondary-conversion.unityads.unity3d.com
 - DOMAIN,ads-secure.videohub.tv
 - DOMAIN,ads-server.mxplay.com
+- DOMAIN,ads-service.api.linkme.global
 - DOMAIN,ads-sg.tiktok.com
 - DOMAIN,ads-shopping.shouqianba.com
 - DOMAIN,ads-showheroes.adhese.com
@@ -4077,11 +4076,13 @@ payload:
 - DOMAIN,ads09.focalink.com
 - DOMAIN,ads09.win888b.com
 - DOMAIN,ads1-adnow.com
+- DOMAIN,ads1-adqva.com
 - DOMAIN,ads1-normal-hl.zijieapi.com
 - DOMAIN,ads1-normal-lf.zijieapi.com
 - DOMAIN,ads1-normal-lq.zijieapi.com
 - DOMAIN,ads1-normal.zijieapi.com
 - DOMAIN,ads1.admedia.ro
+- DOMAIN,ads1.ads1-adqva.com
 - DOMAIN,ads1.adtelligent.com
 - DOMAIN,ads1.advance.net
 - DOMAIN,ads1.ami-admin.com
@@ -7916,6 +7917,7 @@ payload:
 - DOMAIN,api.linkmine.co.kr
 - DOMAIN,api.linkz.net
 - DOMAIN,api.liveramp.com
+- DOMAIN,api.livestt.co
 - DOMAIN,api.locallogic.co
 - DOMAIN,api.localytics.com
 - DOMAIN,api.locately.com
@@ -18008,6 +18010,7 @@ payload:
 - DOMAIN,imp-toutiao-data.37.com.cn
 - DOMAIN,imp.ad.xelements.cn
 - DOMAIN,imp.ads.rgyun.com
+- DOMAIN,imp.ads1-adqva.com
 - DOMAIN,imp.adsmogo.com
 - DOMAIN,imp.adx.roockmobile.com
 - DOMAIN,imp.gain-ads.com
@@ -19144,6 +19147,7 @@ payload:
 - DOMAIN,jsconfig.adsafeprotected.com
 - DOMAIN,jserr.cnzz.com
 - DOMAIN,jsmedia.adsame.com
+- DOMAIN,jsonads.upnerd.net
 - DOMAIN,jsqmt.qq.com
 - DOMAIN,jssdk.cnzz.com
 - DOMAIN,jssdkcdn.mparticle.com
@@ -22013,7 +22017,6 @@ payload:
 - DOMAIN,omotomazzu.pro
 - DOMAIN,omraderet.pro
 - DOMAIN,omsdk.adjoe-programmatic.com
-- DOMAIN,omsdk.prod.vidible.tv
 - DOMAIN,onadstracker.com
 - DOMAIN,onclickads.net
 - DOMAIN,ondamappic.pro
@@ -27783,6 +27786,7 @@ payload:
 - DOMAIN,smartad.10010.com
 - DOMAIN,smartads.statsperform.com
 - DOMAIN,smartadserver.com
+- DOMAIN,smartadsflow.top
 - DOMAIN,smartb.tubeadvertising.eu
 - DOMAIN,smartcyberadvancedshield.autos
 - DOMAIN,smartinit.webads.nl

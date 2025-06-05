@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-05 09:48:16
+#更新时间: 2025-06-05 22:22:17
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,09840909-8ead-4a22-94d3-4cd0ef2f39c7.cloud.looker.com
@@ -2432,6 +2432,7 @@ payload:
 - DOMAIN,ads-trk.vidible.tv
 - DOMAIN,ads-twitter.com
 - DOMAIN,ads-uk.jiwire.com
+- DOMAIN,ads-unibet.adhese.com
 - DOMAIN,ads-us.amillionads.com
 - DOMAIN,ads-us.loopaautomate.com
 - DOMAIN,ads-us.pictela.net
@@ -3204,6 +3205,7 @@ payload:
 - DOMAIN,ads.iwangmedia.com
 - DOMAIN,ads.iwannawatch.to
 - DOMAIN,ads.iwon.com
+- DOMAIN,ads.jackcolton.com
 - DOMAIN,ads.jacksonsun.com
 - DOMAIN,ads.jeded.com
 - DOMAIN,ads.jetpackdigital.com
@@ -3278,7 +3280,6 @@ payload:
 - DOMAIN,ads.livetv794.me
 - DOMAIN,ads.livetv806.me
 - DOMAIN,ads.livetv852.me
-- DOMAIN,ads.livetv853.me
 - DOMAIN,ads.lmmob.com
 - DOMAIN,ads.localnow.api.cms.amdvids.com
 - DOMAIN,ads.localyokelmedia.com
@@ -4889,6 +4890,7 @@ payload:
 - DOMAIN,adserver.chickclick.com
 - DOMAIN,adserver.click4cash.de
 - DOMAIN,adserver.clundressed.com
+- DOMAIN,adserver.cnczone.com
 - DOMAIN,adserver.co.il
 - DOMAIN,adserver.colleges.com
 - DOMAIN,adserver.com
@@ -5173,7 +5175,6 @@ payload:
 - DOMAIN,adservice.google.com.cu
 - DOMAIN,adservice.google.com.cy
 - DOMAIN,adservice.google.com.do
-- DOMAIN,adservice.google.com.ec
 - DOMAIN,adservice.google.com.eg
 - DOMAIN,adservice.google.com.et
 - DOMAIN,adservice.google.com.gh
@@ -6401,6 +6402,7 @@ payload:
 - DOMAIN,aerospaceengineeringdesign.pro
 - DOMAIN,aerotvisua.pro
 - DOMAIN,aes.ap-southeast.3px.axp.amazon-adsystem.com
+- DOMAIN,aes.eu-south.ono.axp.amazon-adsystem.com
 - DOMAIN,aes.eu-west.3px.axp.amazon-adsystem.com
 - DOMAIN,aes.eu-west.ono.axp.amazon-adsystem.com
 - DOMAIN,aes.fe.ono.axp.amazon-adsystem.com
@@ -7072,6 +7074,7 @@ payload:
 - DOMAIN,analytics.zg-api.com
 - DOMAIN,analytics.ziftsolutions.com
 - DOMAIN,analytics.zim.vn
+- DOMAIN,analyticsmilitaryadv.everestengagement.com
 - DOMAIN,anamnsbrin.pro
 - DOMAIN,anamodinie.pro
 - DOMAIN,anaphencep.pro
@@ -7544,6 +7547,7 @@ payload:
 - DOMAIN,api.appodeal.com
 - DOMAIN,api.appodealx.com
 - DOMAIN,api.appprodeu.platform.navify.com
+- DOMAIN,api.appprodjp.platform.navify.com
 - DOMAIN,api.appproduk.platform.navify.com
 - DOMAIN,api.appprodus.platform.navify.com
 - DOMAIN,api.appsee.com
@@ -7653,6 +7657,7 @@ payload:
 - DOMAIN,api.clickaine.com
 - DOMAIN,api.clickcease.com
 - DOMAIN,api.clicktripz.com
+- DOMAIN,api.clinch.co
 - DOMAIN,api.cloud.247-inc.net
 - DOMAIN,api.cloudconverse.net
 - DOMAIN,api.cloudmobi.net
@@ -7940,7 +7945,6 @@ payload:
 - DOMAIN,api.mcwbiz.com
 - DOMAIN,api.mediaad.org
 - DOMAIN,api.mediacategory.com
-- DOMAIN,api.mediaforge.com
 - DOMAIN,api.mediarithmics.com
 - DOMAIN,api.mediation.adxcorp.kr
 - DOMAIN,api.mediation.amberweather.com
@@ -8158,6 +8162,7 @@ payload:
 - DOMAIN,api.rustdesk.io
 - DOMAIN,api.rvere.com
 - DOMAIN,api.sa.looker.com
+- DOMAIN,api.sa.programmatica.com
 - DOMAIN,api.saambaa.com
 - DOMAIN,api.sabavision.com
 - DOMAIN,api.sae.systems
@@ -8252,6 +8257,7 @@ payload:
 - DOMAIN,api.taps.io
 - DOMAIN,api.tapsell.ir
 - DOMAIN,api.tapstream.com
+- DOMAIN,api.tapulsads.ru
 - DOMAIN,api.target2sell.com
 - DOMAIN,api.tatagou.com.cn
 - DOMAIN,api.tdp.u7u9.com
@@ -9808,6 +9814,7 @@ payload:
 - DOMAIN,booking.partner-id365411.com
 - DOMAIN,bookminvis.pro
 - DOMAIN,booknexus.pro
+- DOMAIN,bookpage.advertserve.com
 - DOMAIN,boomads.com
 - DOMAIN,boombit-api.exponea.com
 - DOMAIN,boostecho.pro
@@ -13216,7 +13223,6 @@ payload:
 - DOMAIN,dcp-970.ads-dev.sportradar.com
 - DOMAIN,dcp.ads.sportradar.com
 - DOMAIN,dcrfnt-us.adsmoloco.com
-- DOMAIN,dcsdk.100ulife.com
 - DOMAIN,dd.toponad.com
 - DOMAIN,dd713.bj.bcebos.com
 - DOMAIN,dddaily.advertserve.com
@@ -19698,7 +19704,6 @@ payload:
 - DOMAIN,limitlessvista.pro
 - DOMAIN,limonads.net
 - DOMAIN,limossette.pro
-- DOMAIN,linear-ad-segments.frequency.stream
 - DOMAIN,linfocicat.pro
 - DOMAIN,linguantic.pro
 - DOMAIN,linimpirss.pro
@@ -20914,9 +20919,7 @@ payload:
 - DOMAIN,mnetads.com
 - DOMAIN,mnetads.net
 - DOMAIN,mng-ads.com
-- DOMAIN,moa-upload-in.allawnos.com
 - DOMAIN,moa-upload-online.coloros.com
-- DOMAIN,moa-upload-sg.allawnos.com
 - DOMAIN,moat.adsrvr.org
 - DOMAIN,moatads.com
 - DOMAIN,moatads.com.edgekey.net
@@ -21381,7 +21384,9 @@ payload:
 - DOMAIN,native.djaxadserver.com
 - DOMAIN,native.ladsp.jp
 - DOMAIN,native.propellerads.com
+- DOMAIN,nativead-ash11.g.flashtalking.com
 - DOMAIN,nativead-dub11.g.flashtalking.com
+- DOMAIN,nativead-sjc11.g.flashtalking.com
 - DOMAIN,nativeads.cacafly.com
 - DOMAIN,nativeads.com
 - DOMAIN,nativeadsfeed.com
@@ -26842,7 +26847,6 @@ payload:
 - DOMAIN,sdk.mrf.io
 - DOMAIN,sdk.n-analytics.io
 - DOMAIN,sdk.native123.com
-- DOMAIN,sdk.navnow.xyz
 - DOMAIN,sdk.ocmhood.com
 - DOMAIN,sdk.open.amp.igexin.com
 - DOMAIN,sdk.open.extension.getui.com
@@ -27805,7 +27809,6 @@ payload:
 - DOMAIN,smartad.10010.com
 - DOMAIN,smartads.statsperform.com
 - DOMAIN,smartadserver.com
-- DOMAIN,smartadsflow.top
 - DOMAIN,smartb.tubeadvertising.eu
 - DOMAIN,smartcyberadvancedshield.autos
 - DOMAIN,smartinit.webads.nl
@@ -27888,6 +27891,7 @@ payload:
 - DOMAIN,smtp.ero-advertising.com
 - DOMAIN,smzecamer.pro
 - DOMAIN,snackymuffin.pro
+- DOMAIN,snap.broadstreetads.com
 - DOMAIN,snapads.com
 - DOMAIN,snappyquark.pro
 - DOMAIN,snappyquique.pro
@@ -30654,6 +30658,7 @@ payload:
 - DOMAIN,trslm.tubeadvertising.eu
 - DOMAIN,truanmicro.pro
 - DOMAIN,trucimalas.pro
+- DOMAIN,truckline.advertserve.com
 - DOMAIN,trudgincen.pro
 - DOMAIN,true-click.pro
 - DOMAIN,trueadvantage.pro
@@ -32107,6 +32112,7 @@ payload:
 - DOMAIN,vowelstacc.pro
 - DOMAIN,vpptv.admaster.com.cn
 - DOMAIN,vqq.admaster.com.cn
+- DOMAIN,vrc9kq.skadsdk.appsflyersdk.com
 - DOMAIN,vrc9kq.skadsdkless.appsflyersdk.com
 - DOMAIN,vrtzads.com
 - DOMAIN,vryndolar.pro

@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-08 09:55:57
+#更新时间: 2025-06-08 22:18:11
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,09840909-8ead-4a22-94d3-4cd0ef2f39c7.cloud.looker.com
@@ -958,6 +958,7 @@ payload:
 - DOMAIN,ad.api.attribuly.com
 - DOMAIN,ad.api.fello.net
 - DOMAIN,ad.api.kaffnet.com
+- DOMAIN,ad.api.looker.com
 - DOMAIN,ad.api.moji.com
 - DOMAIN,ad.api.stax.kr
 - DOMAIN,ad.api.youshiad.cn
@@ -1066,6 +1067,7 @@ payload:
 - DOMAIN,ad.dedicatedmedia.com
 - DOMAIN,ad.deepthought.industries
 - DOMAIN,ad.depositfiles.com
+- DOMAIN,ad.dev-cloud2.starleaf.com
 - DOMAIN,ad.dev.360.cn
 - DOMAIN,ad.dev.smartnews.net
 - DOMAIN,ad.deviantart.com
@@ -1717,7 +1719,6 @@ payload:
 - DOMAIN,ad19digital.checkm8.com
 - DOMAIN,ad1digital.checkm8.com
 - DOMAIN,ad1game.ru
-- DOMAIN,ad1x7.mea5ms.com
 - DOMAIN,ad2.360yield.com
 - DOMAIN,ad2.ad-srv.net
 - DOMAIN,ad2.adecn.com
@@ -2305,12 +2306,14 @@ payload:
 - DOMAIN,ads-bilek.com
 - DOMAIN,ads-bitcoin.com
 - DOMAIN,ads-brand-postback.unityads.unity3d.com
+- DOMAIN,ads-buf-nfl.yinzcam.com
 - DOMAIN,ads-by.madadsmedia.com
 - DOMAIN,ads-by.yieldselect.com
 - DOMAIN,ads-candid.adhese.com
 - DOMAIN,ads-cdn.fptplay.net
 - DOMAIN,ads-cdn.loopaautomate.com
 - DOMAIN,ads-cdn.tenmax.io
+- DOMAIN,ads-chi-nfl.yinzcam.com
 - DOMAIN,ads-cloud.rovio.com
 - DOMAIN,ads-collector.luizalabs.com
 - DOMAIN,ads-colruytgroup.adhese.com
@@ -3933,6 +3936,7 @@ payload:
 - DOMAIN,ads.videoadvertising.com
 - DOMAIN,ads.videofen.com
 - DOMAIN,ads.videohub.tv
+- DOMAIN,ads.videomaker.com
 - DOMAIN,ads.videosz.com
 - DOMAIN,ads.videy.co
 - DOMAIN,ads.vidoomy.com
@@ -5115,7 +5119,6 @@ payload:
 - DOMAIN,adserverxxl.de
 - DOMAIN,adservetx.media.net
 - DOMAIN,adservex.media.net
-- DOMAIN,adservf.com
 - DOMAIN,adservfnt-asia.adsmoloco.com
 - DOMAIN,adservg.com
 - DOMAIN,adservice.aiyouaiyou.cn
@@ -5548,6 +5551,7 @@ payload:
 - DOMAIN,adstat.izuiyou.com
 - DOMAIN,adstat.moyu88.xyz
 - DOMAIN,adstat.ziyemy.shop
+- DOMAIN,adstat2.ziyemy.shop
 - DOMAIN,adstatic.b-cdn.net
 - DOMAIN,adstatic.zhihu.com
 - DOMAIN,adstatistics.av380.net
@@ -5576,6 +5580,7 @@ payload:
 - DOMAIN,adstore-1252524079.file.myqcloud.com
 - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 - DOMAIN,adstore.jp
+- DOMAIN,adstorebluebird.cy
 - DOMAIN,adstory.gotrackier.com
 - DOMAIN,adstosearch.com
 - DOMAIN,adstrack-meta-id29217.vercel.app
@@ -7425,7 +7430,6 @@ payload:
 - DOMAIN,api.ad.yipinread.com
 - DOMAIN,api.ad4game.com
 - DOMAIN,api.adaether.com
-- DOMAIN,api.adalytics.adastra.digital
 - DOMAIN,api.adapty.io
 - DOMAIN,api.adbana.com
 - DOMAIN,api.adblockfast.com
@@ -7631,7 +7635,6 @@ payload:
 - DOMAIN,api.ca.looker.com
 - DOMAIN,api.cactusglobal.io
 - DOMAIN,api.callget.cn
-- DOMAIN,api.campaigns.notino.com
 - DOMAIN,api.caroda.io
 - DOMAIN,api.cartsee.cartx.cloud
 - DOMAIN,api.cazamba.com
@@ -7705,6 +7708,7 @@ payload:
 - DOMAIN,api.deep.bi
 - DOMAIN,api.demand.supply
 - DOMAIN,api.demandbase.com
+- DOMAIN,api.dev-cloud2.starleaf.com
 - DOMAIN,api.dev.acxsparkpost.acxiom.com
 - DOMAIN,api.dev.looker.com
 - DOMAIN,api.devatics.io
@@ -7731,7 +7735,6 @@ payload:
 - DOMAIN,api.dtk.abtasty.com
 - DOMAIN,api.dttrk.com
 - DOMAIN,api.duapp.com
-- DOMAIN,api.e-pfg.ca
 - DOMAIN,api.e.mi.com
 - DOMAIN,api.eaglem.net
 - DOMAIN,api.eagllwin.com
@@ -9715,6 +9718,7 @@ payload:
 - DOMAIN,blotcmelam.pro
 - DOMAIN,blowcbrogl.pro
 - DOMAIN,blowlsagri.pro
+- DOMAIN,blpciu.skadsdkless.appsflyersdk.com
 - DOMAIN,blu.mobileads.msn.com
 - DOMAIN,blucher.iad-03.braze.com
 - DOMAIN,blue-ad.ad-stir.com
@@ -26266,6 +26270,7 @@ payload:
 - DOMAIN,sacraperse.pro
 - DOMAIN,sacrishebe.pro
 - DOMAIN,sad-g.com
+- DOMAIN,sad-sandwich.pro
 - DOMAIN,sad.adsgram.ai
 - DOMAIN,sadc1.outbrain.org
 - DOMAIN,sadn48dsam.cc
@@ -31403,6 +31408,7 @@ payload:
 - DOMAIN,us-geo.cityads.com
 - DOMAIN,us-mad-king.cell.us.nr-data.net
 - DOMAIN,us-notify.bidagent.xad.com
+- DOMAIN,us-sad-sandwich.cell.us.nr-data.net
 - DOMAIN,us-sad-trombone.cell.us.nr-data.net
 - DOMAIN,us-vast.unoadsrv.com
 - DOMAIN,us-west-2.ads.digital.disneyadvertising.com
@@ -33579,6 +33585,7 @@ payload:
 - DOMAIN,www.adstaces.ero-advertising.com
 - DOMAIN,www.adstargetx.com
 - DOMAIN,www.adstogo.com
+- DOMAIN,www.adstorebluebird.cy
 - DOMAIN,www.adstosearch.com
 - DOMAIN,www.adstrack-meta-id29217.vercel.app
 - DOMAIN,www.adstract.adk2x.com

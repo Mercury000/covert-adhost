@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-09 09:53:52
+#更新时间: 2025-06-09 22:22:14
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,09840909-8ead-4a22-94d3-4cd0ef2f39c7.cloud.looker.com
@@ -149,6 +149,7 @@ payload:
 - DOMAIN,3dns.adobe.com
 - DOMAIN,3ds.ero-advertising.com
 - DOMAIN,3gtest.bj2cu.u3.ucweb.com
+- DOMAIN,3hcnxk.skadsdkless.appsflyersdk.com
 - DOMAIN,3m.mediav.com
 - DOMAIN,3p-pix.adstk.io
 - DOMAIN,3px.axp.amazon-adsystem.com
@@ -764,6 +765,7 @@ payload:
 - DOMAIN,ad-pay.de
 - DOMAIN,ad-ping.tapcash.com
 - DOMAIN,ad-platform.biz
+- DOMAIN,ad-platform.jmty.jp
 - DOMAIN,ad-plus.cn
 - DOMAIN,ad-plus.com.tr
 - DOMAIN,ad-r.soulapp.cn
@@ -993,6 +995,7 @@ payload:
 - DOMAIN,ad.bench.utorrent.com
 - DOMAIN,ad.beritasatumedia.com
 - DOMAIN,ad.beta.madserving.com
+- DOMAIN,ad.bfm.my
 - DOMAIN,ad.bg.doubleclick.net
 - DOMAIN,ad.bilgin.pro
 - DOMAIN,ad.birdmedia.com
@@ -2002,6 +2005,7 @@ payload:
 - DOMAIN,adapi.about.co.kr
 - DOMAIN,adapi.addealsnetwork.com
 - DOMAIN,adapi.gunosy.com
+- DOMAIN,adapi.ihuman.com
 - DOMAIN,adapi.inlcorp.com
 - DOMAIN,adapi.izuiyou.com
 - DOMAIN,adapi.lenovogame.com
@@ -2313,7 +2317,6 @@ payload:
 - DOMAIN,ads-cdn.fptplay.net
 - DOMAIN,ads-cdn.loopaautomate.com
 - DOMAIN,ads-cdn.tenmax.io
-- DOMAIN,ads-chi-nfl.yinzcam.com
 - DOMAIN,ads-cloud.rovio.com
 - DOMAIN,ads-collector.luizalabs.com
 - DOMAIN,ads-colruytgroup.adhese.com
@@ -2966,6 +2969,7 @@ payload:
 - DOMAIN,ads.enmotive.com
 - DOMAIN,ads.ennaharonline.com
 - DOMAIN,ads.enrt.eu
+- DOMAIN,ads.environmentalleader.com
 - DOMAIN,ads.epi.sk
 - DOMAIN,ads.epltalk.com
 - DOMAIN,ads.epomtestsite.com
@@ -3175,7 +3179,6 @@ payload:
 - DOMAIN,ads.img.globo.com
 - DOMAIN,ads.imguol.com
 - DOMAIN,ads.imgur.com
-- DOMAIN,ads.imovideo.ru
 - DOMAIN,ads.impulsosocial.online
 - DOMAIN,ads.inbox.lv
 - DOMAIN,ads.indeed.com
@@ -3364,6 +3367,7 @@ payload:
 - DOMAIN,ads.mobilityware.com
 - DOMAIN,ads.mobitree.co.kr
 - DOMAIN,ads.mobring.co
+- DOMAIN,ads.mocean.mobi
 - DOMAIN,ads.mofos.com
 - DOMAIN,ads.momagic.com
 - DOMAIN,ads.mondogames.com
@@ -4533,6 +4537,7 @@ payload:
 - DOMAIN,ads42.adtelligent.com
 - DOMAIN,ads42.artb.adtelligent.com
 - DOMAIN,ads42.ortb.adtelligent.com
+- DOMAIN,ads43.adtelligent.com
 - DOMAIN,ads44.adtelligent.com
 - DOMAIN,ads44.unoadsrv.com
 - DOMAIN,ads46.adtelligent.com
@@ -5057,6 +5062,7 @@ payload:
 - DOMAIN,adserver.tele.net
 - DOMAIN,adserver.terra.com.br
 - DOMAIN,adserver.terra.es
+- DOMAIN,adserver.theasset.com
 - DOMAIN,adserver.theassociationpartner.net
 - DOMAIN,adserver.theknot.com
 - DOMAIN,adserver.theonering.net
@@ -5794,6 +5800,7 @@ payload:
 - DOMAIN,adv1.clickadu.net
 - DOMAIN,adv2.expres.ua
 - DOMAIN,adv2.rcspubblicita.it
+- DOMAIN,adv3.clickadu.net
 - DOMAIN,advack.net
 - DOMAIN,advaction.ru
 - DOMAIN,advally-audizine-tagan.adlightning.com
@@ -6833,6 +6840,7 @@ payload:
 - DOMAIN,analytics.cohesionapps.com
 - DOMAIN,analytics.concorsicartoonito.it
 - DOMAIN,analytics.console.aws.a2z.com
+- DOMAIN,analytics.contextads.live
 - DOMAIN,analytics.corusent.com
 - DOMAIN,analytics.data.lloydsbankinggroup.com
 - DOMAIN,analytics.digi8.vn
@@ -7430,6 +7438,7 @@ payload:
 - DOMAIN,api.ad.yipinread.com
 - DOMAIN,api.ad4game.com
 - DOMAIN,api.adaether.com
+- DOMAIN,api.adalytics.adastra.digital
 - DOMAIN,api.adapty.io
 - DOMAIN,api.adbana.com
 - DOMAIN,api.adblockfast.com
@@ -7531,6 +7540,7 @@ payload:
 - DOMAIN,api.anti.wauee.com
 - DOMAIN,api.antibanads.com
 - DOMAIN,api.anythinktech.com
+- DOMAIN,api.api.looker.com
 - DOMAIN,api.api68.com
 - DOMAIN,api.apiok.net
 - DOMAIN,api.app.skysrt.com
@@ -7635,10 +7645,13 @@ payload:
 - DOMAIN,api.ca.looker.com
 - DOMAIN,api.cactusglobal.io
 - DOMAIN,api.callget.cn
+- DOMAIN,api.campaigns.notino.com
 - DOMAIN,api.caroda.io
 - DOMAIN,api.cartsee.cartx.cloud
+- DOMAIN,api.cashback.co.uk
 - DOMAIN,api.cazamba.com
 - DOMAIN,api.cdn-net.com
+- DOMAIN,api.cf.mparticle.com
 - DOMAIN,api.chartbeat.com
 - DOMAIN,api.cheatsheet.me
 - DOMAIN,api.cheerfulgames2023.com
@@ -7721,6 +7734,7 @@ payload:
 - DOMAIN,api.disneystreaming.looker.com
 - DOMAIN,api.disneystreamingprod.looker.com
 - DOMAIN,api.distribution.hulu.com
+- DOMAIN,api.dl.myway.com
 - DOMAIN,api.dmp.y-track.com
 - DOMAIN,api.dobermanmedia.com
 - DOMAIN,api.dollphoin.site
@@ -7736,6 +7750,7 @@ payload:
 - DOMAIN,api.dttrk.com
 - DOMAIN,api.duapp.com
 - DOMAIN,api.e.mi.com
+- DOMAIN,api.e.misspap.com
 - DOMAIN,api.eaglem.net
 - DOMAIN,api.eagllwin.com
 - DOMAIN,api.early-birds.io
@@ -7771,6 +7786,7 @@ payload:
 - DOMAIN,api.feedad.com
 - DOMAIN,api.feedback.us1.app.pendo.io
 - DOMAIN,api.ffbbbdc6d3c353211fe2ba39c9f744cd.com
+- DOMAIN,api.find-ip.net
 - DOMAIN,api.flat-ads.com
 - DOMAIN,api.flipdesk.jp
 - DOMAIN,api.flocktory.com
@@ -7855,6 +7871,7 @@ payload:
 - DOMAIN,api.inspectlet.com
 - DOMAIN,api.instabug.com
 - DOMAIN,api.installer.xiaomi.com
+- DOMAIN,api.instant.one
 - DOMAIN,api.integrate.com
 - DOMAIN,api.intelligems.io
 - DOMAIN,api.intellimize.co
@@ -7887,6 +7904,7 @@ payload:
 - DOMAIN,api.kaffnet.com
 - DOMAIN,api.kaiu-marketing.com
 - DOMAIN,api.kameleoon.com
+- DOMAIN,api.kayntebitbugfeedtap.com
 - DOMAIN,api.keen.io
 - DOMAIN,api.kickfire.com
 - DOMAIN,api.kickoffo.site
@@ -13547,6 +13565,7 @@ payload:
 - DOMAIN,dexterouspetrel.pro
 - DOMAIN,dexterousquoll.pro
 - DOMAIN,dextrcelti.pro
+- DOMAIN,df-thumbnail.smartnews-ads.com
 - DOMAIN,df.mic.mob.com
 - DOMAIN,df.mob.com
 - DOMAIN,dfe.mic.mob.com
@@ -16247,6 +16266,7 @@ payload:
 - DOMAIN,galaxymedia.xyz
 - DOMAIN,galaxynest.pro
 - DOMAIN,galaxyquestjourneys.pro
+- DOMAIN,galaxystore.ad-survey.com
 - DOMAIN,galaxywandererroams.pro
 - DOMAIN,galemagic.pro
 - DOMAIN,gallantglimmers.pro
@@ -19191,6 +19211,7 @@ payload:
 - DOMAIN,jsmedia.adsame.com
 - DOMAIN,jsonads.upnerd.net
 - DOMAIN,jsqmt.qq.com
+- DOMAIN,jssdk.cf.mparticle.com
 - DOMAIN,jssdk.cnzz.com
 - DOMAIN,jssdkcdn.mparticle.com
 - DOMAIN,jssdkcdns.mparticle.com
@@ -22419,6 +22440,7 @@ payload:
 - DOMAIN,owlsheadturning.pro
 - DOMAIN,owlsilentwisdomkeeper.pro
 - DOMAIN,ownadx-xml.tri.media
+- DOMAIN,ownrtbimp.bidderads.com
 - DOMAIN,ownxml.bidderads.com
 - DOMAIN,ownxmlclick.bidderads.com
 - DOMAIN,ox-d.hypeads.org
@@ -23927,6 +23949,7 @@ payload:
 - DOMAIN,proficientpython.pro
 - DOMAIN,profiincol.pro
 - DOMAIN,profile-api-prod-elb.53.localytics.com
+- DOMAIN,profile-api.ads.linkedin.com
 - DOMAIN,profile.ad-tech.ru
 - DOMAIN,profit-spike-pro.net
 - DOMAIN,proflcurio.pro
@@ -24933,6 +24956,7 @@ payload:
 - DOMAIN,redilcalib.pro
 - DOMAIN,redir.jads.co
 - DOMAIN,redir.juicyads.com
+- DOMAIN,redir.summerwaveadventures.com
 - DOMAIN,redirect.advconversion.com
 - DOMAIN,redirect.appleads-trk.com
 - DOMAIN,redirect.ero-advertising.com
@@ -28728,7 +28752,6 @@ payload:
 - DOMAIN,static.chavoads.com
 - DOMAIN,static.doubleclick.net
 - DOMAIN,static.download.mclick.mobi
-- DOMAIN,static.eroadvertising.com
 - DOMAIN,static.exosrv.com
 - DOMAIN,static.flat-ads.com
 - DOMAIN,static.flat-ads.com.rgslb.net
@@ -29153,6 +29176,7 @@ payload:
 - DOMAIN,sulphsubde.pro
 - DOMAIN,sultrysunset.pro
 - DOMAIN,summefitos.pro
+- DOMAIN,summerwaveadventures.com
 - DOMAIN,summitglimmer.pro
 - DOMAIN,sun-cdn.advividnetwork.com
 - DOMAIN,sun.advividnetwork.com
@@ -50471,6 +50495,7 @@ payload:
 - DOMAIN,zenjoyvibes.pro
 - DOMAIN,zenoadvisory.com
 - DOMAIN,zentrixads.com
+- DOMAIN,zentrixads.xml-v4.ak-is2.net
 - DOMAIN,zenwordswisdom.pro
 - DOMAIN,zenywii7.pro
 - DOMAIN,zeotrergop.pro

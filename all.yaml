@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-14 09:45:10
+#更新时间: 2025-06-14 22:18:39
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -57,6 +57,7 @@ payload:
 - DOMAIN,1331eefe-55ad-4bf2-be94-e1b766dde393.cloud.looker.com
 - DOMAIN,13gtest.bj2cu.u3.ucweb.com
 - IP-CIDR,14.152.75.59/32
+- DOMAIN,1418.adsina.allyes.com
 - DOMAIN,14gtest.bj2cu.u3.ucweb.com
 - IP-CIDR,154.22.214.2/32
 - DOMAIN,15gtest.bj2cu.u3.ucweb.com
@@ -176,7 +177,6 @@ payload:
 - DOMAIN,4hllz-5imgf.ads.tremorhub.com
 - DOMAIN,4hllz-s9lrg.ads.tremorhub.com
 - DOMAIN,4ksadventures.com
-- DOMAIN,4mkb2mmcdnrail.com167b2iis3.aufgabenapp.amazonaws.com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,4pco5-11z92.ads.tremorhub.com
 - DOMAIN,4pco5-h0h0q.ads.tremorhub.com
 - DOMAIN,4pco5-s7rmw.ads.tremorhub.com
@@ -194,7 +194,6 @@ payload:
 - DOMAIN,5ad.leadboltads.net
 - DOMAIN,5ew8d-b3mmu.ads.tremorhub.com
 - DOMAIN,5gtest.bj2cu.u3.ucweb.com
-- DOMAIN,5kb3i1cdn.4mkb2mmcdnrail.com167b2iis3.aufgabenapp.amazonaws.com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,5nbh3-h9cpz.ads.tremorhub.com
 - DOMAIN,5s8q01ikvjy2pejfsqu9fadb8jo2ditynlfwx3qygs9qnv3fr9.walrus.site
 - DOMAIN,6.adsco.re
@@ -272,7 +271,6 @@ payload:
 - DOMAIN,8gtest.bj2cu.u3.ucweb.com
 - DOMAIN,8le8le.com
 - DOMAIN,8live.mobi
-- DOMAIN,8obqgh.skadsdkless.appsflyersdk.com
 - DOMAIN,90954cad-c30a-4c37-b093-d5e7ec04de4a.cloud.looker.com
 - DOMAIN,90bf1d4b-1bad-423b-9ae4-2f32ee06c615.cloud.looker.com
 - DOMAIN,91.isafe.pro
@@ -814,6 +812,7 @@ payload:
 - DOMAIN,ad-srv.co
 - DOMAIN,ad-srv.net
 - DOMAIN,ad-static-xg.tagtic.cn
+- DOMAIN,ad-static.qanda.ai
 - DOMAIN,ad-stir.com
 - DOMAIN,ad-sun.de
 - DOMAIN,ad-survey.com
@@ -1399,6 +1398,7 @@ payload:
 - DOMAIN,ad.plus
 - DOMAIN,ad.poco.madserving.com
 - DOMAIN,ad.policeone.com
+- DOMAIN,ad.poly.admatrix.jp
 - DOMAIN,ad.polymorphicads.jp
 - DOMAIN,ad.popin.cc
 - DOMAIN,ad.pornimg.xyz
@@ -2261,10 +2261,10 @@ payload:
 - DOMAIN,ads-2477p.iionads.com
 - DOMAIN,ads-24789.iionads.com
 - DOMAIN,ads-2478i.iionads.com
-- DOMAIN,ads-2479c.iionads.com
 - DOMAIN,ads-2479l.iionads.com
 - DOMAIN,ads-2479t.iionads.com
 - DOMAIN,ads-58hnjs.rtb.admanmedia.com
+- DOMAIN,ads-87rvqi.bidder-embi.media
 - DOMAIN,ads-a.juicyads.com
 - DOMAIN,ads-admin.hubs.vn
 - DOMAIN,ads-adsanddata.adhese.com
@@ -2345,6 +2345,7 @@ payload:
 - DOMAIN,ads-ios-sdk.ogury.co
 - DOMAIN,ads-jbhvlp.rtba.bidsxchange.com
 - DOMAIN,ads-jbhvou.rtba.bidsxchange.com
+- DOMAIN,ads-jbhvsm.rtba.bidsxchange.com
 - DOMAIN,ads-kurir.providus.rs
 - DOMAIN,ads-lb.serving-sys.cn
 - DOMAIN,ads-leaseweb.appsgeyser.com
@@ -2385,6 +2386,7 @@ payload:
 - DOMAIN,ads-r9cddc.ortb.vdo.ai
 - DOMAIN,ads-r9cddd.ortb.vdo.ai
 - DOMAIN,ads-r9cdde.ortb.vdo.ai
+- DOMAIN,ads-r9cdds.ortb.vdo.ai
 - DOMAIN,ads-redis.ecn.cl
 - DOMAIN,ads-refinery89.adhese.com
 - DOMAIN,ads-resources-legacy.waze.com
@@ -2480,6 +2482,7 @@ payload:
 - DOMAIN,ads.adamoads.com
 - DOMAIN,ads.adap.tv
 - DOMAIN,ads.adaptv.advertising.com
+- DOMAIN,ads.adbeat.xyz
 - DOMAIN,ads.adbottw.net
 - DOMAIN,ads.adbroker.de
 - DOMAIN,ads.adcorps.com
@@ -3150,7 +3153,6 @@ payload:
 - DOMAIN,ads.imagistica.com
 - DOMAIN,ads.imailo.nl
 - DOMAIN,ads.imarketservices.com
-- DOMAIN,ads.imbc.com
 - DOMAIN,ads.imeem.com
 - DOMAIN,ads.img.globo.com
 - DOMAIN,ads.imguol.com
@@ -4250,6 +4252,7 @@ payload:
 - DOMAIN,ads2.haber3.com
 - DOMAIN,ads2.helpos.com
 - DOMAIN,ads2.hsoub.com
+- DOMAIN,ads2.imv.az
 - DOMAIN,ads2.jenite.bg
 - DOMAIN,ads2.mediaarmor.com
 - DOMAIN,ads2.medianord.de
@@ -5079,7 +5082,6 @@ payload:
 - DOMAIN,adserver2.mediainsight.de
 - DOMAIN,adserver4.fluent.ltd.uk
 - DOMAIN,adserver9.contextad.com
-- DOMAIN,adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,adserverc.cliipa.com
 - DOMAIN,adserverevent.com
 - DOMAIN,adserverhd.com
@@ -5766,7 +5768,6 @@ payload:
 - DOMAIN,adv.zdnet.co.kr
 - DOMAIN,adv1.clickadu.net
 - DOMAIN,adv2.expres.ua
-- DOMAIN,adv2.rcspubblicita.it
 - DOMAIN,adv3.clickadu.net
 - DOMAIN,advack.net
 - DOMAIN,advaction.ru
@@ -5876,6 +5877,7 @@ payload:
 - DOMAIN,adver.qq.com
 - DOMAIN,adverbpublicbinding.com
 - DOMAIN,adverbrequire.com
+- DOMAIN,adverbroadmapjackknife.com
 - DOMAIN,adverdata.net
 - DOMAIN,advergame-d.openx.net
 - DOMAIN,adverity.com
@@ -5973,6 +5975,7 @@ payload:
 - DOMAIN,advertising.bbcworldwide.com
 - DOMAIN,advertising.christiansunite.com
 - DOMAIN,advertising.com
+- DOMAIN,advertising.comcasttechnologysolutions.com
 - DOMAIN,advertising.dclux.com
 - DOMAIN,advertising.embarcaderopublishing.com
 - DOMAIN,advertising.entensity.net
@@ -6033,6 +6036,7 @@ payload:
 - DOMAIN,advice.api.useinsider.com
 - DOMAIN,advice.pgs.io
 - DOMAIN,adviceforemost.com
+- DOMAIN,adviceglossaryeminence.com
 - DOMAIN,adviceth.api.useinsider.com
 - DOMAIN,advideo.dsp.yandexadexchange.net
 - DOMAIN,advideo.movad.net
@@ -6048,6 +6052,8 @@ payload:
 - DOMAIN,advimage.bolink.club
 - DOMAIN,advimg.ad-mapps.com
 - DOMAIN,advincent.com
+- DOMAIN,advisedlycourier.com
+- DOMAIN,advisedwhenever.com
 - DOMAIN,adviser.bs-dante.ru
 - DOMAIN,advisible.com
 - DOMAIN,advision-adnw.genieesspv.jp
@@ -6062,7 +6068,6 @@ payload:
 - DOMAIN,advisorhurtfulqueen.com
 - DOMAIN,advisormedia.cz
 - DOMAIN,advisorthrowbible.com
-- DOMAIN,advista-d.openx.net
 - DOMAIN,adviva.net
 - DOMAIN,advividnetwork.com
 - DOMAIN,advivify.g2afse.com
@@ -6221,7 +6226,6 @@ payload:
 - DOMAIN,adx.3sfmedia.com
 - DOMAIN,adx.4strokemedia.com
 - DOMAIN,adx.aarki.net
-- DOMAIN,adx.acsshows.com
 - DOMAIN,adx.ad-plus.com.tr
 - DOMAIN,adx.ad-survey.com
 - DOMAIN,adx.adform.net
@@ -6623,8 +6627,6 @@ payload:
 - DOMAIN,amazingshrew.pro
 - DOMAIN,amazon-adsystem.amazon.com
 - DOMAIN,amazon-adsystem.com
-- DOMAIN,amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
-- DOMAIN,amazonaws.com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,ambassadors.propellerads.com
 - DOMAIN,amberbeam.pro
 - DOMAIN,amberdachshund.pro
@@ -6749,6 +6751,7 @@ payload:
 - DOMAIN,analytics.ad.daum.net
 - DOMAIN,analytics.admon.com.vn
 - DOMAIN,analytics.adpost.org
+- DOMAIN,analytics.adsum.io
 - DOMAIN,analytics.adultswim.co.uk
 - DOMAIN,analytics.advalo.com
 - DOMAIN,analytics.algoepico.net
@@ -7010,6 +7013,7 @@ payload:
 - DOMAIN,analytics.twitter.com
 - DOMAIN,analytics.ubs.com
 - DOMAIN,analytics.underarmour.com
+- DOMAIN,analytics.undrads.com
 - DOMAIN,analytics.ungdungtructuyen.vn
 - DOMAIN,analytics.unive.nl
 - DOMAIN,analytics.unsw.edu.au
@@ -7464,6 +7468,7 @@ payload:
 - DOMAIN,api.adsquirrel.ai
 - DOMAIN,api.adsrv.net
 - DOMAIN,api.adsrvmedia.adk2x.com
+- DOMAIN,api.adstock.pro
 - DOMAIN,api.adstract.adk2x.com
 - DOMAIN,api.adsupply.com
 - DOMAIN,api.adsymptotic.com
@@ -8015,6 +8020,7 @@ payload:
 - DOMAIN,api.oneaudience.com
 - DOMAIN,api.onestart.ai
 - DOMAIN,api.onetag.com
+- DOMAIN,api.onlyticpodvinedeminix.com
 - DOMAIN,api.ootoo.co.kr
 - DOMAIN,api.open.oppomobile.com
 - DOMAIN,api.openads.ai
@@ -8831,8 +8837,6 @@ payload:
 - DOMAIN,audiolocat.pro
 - DOMAIN,audiomack.adsbynimbus.com
 - DOMAIN,audreinfoc.pro
-- DOMAIN,aufgabenapp.amazonaws.com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
-- DOMAIN,aufgabenlamp-leads.ou2rail.com98kb2iis3.ou2rail.com499kb2iis3.ou2rail.com181kb2iis3.ou2rail.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,augmentedwapiti.pro
 - DOMAIN,augurbubbo.pro
 - DOMAIN,augurordin.pro
@@ -10538,7 +10542,6 @@ payload:
 - DOMAIN,c.ad-srv.co
 - DOMAIN,c.ad6media.fr
 - DOMAIN,c.admaster.com.cn
-- DOMAIN,c.admeridianads.com
 - DOMAIN,c.adsco.re
 - DOMAIN,c.adskeeper.co.uk
 - DOMAIN,c.adskeeper.com
@@ -10979,6 +10982,7 @@ payload:
 - DOMAIN,cdn.adspirit.de
 - DOMAIN,cdn.adsquirrel.ai
 - DOMAIN,cdn.adsrvmedia.net
+- DOMAIN,cdn.adstock.pro
 - DOMAIN,cdn.adstract.com
 - DOMAIN,cdn.adsymptotic.com
 - DOMAIN,cdn.advanseads.com
@@ -12091,8 +12095,6 @@ payload:
 - DOMAIN,com.adv.vz.ru
 - DOMAIN,com.yxcorp.gifshow.ad
 - DOMAIN,com.yxcorp.gifshow.map
-- DOMAIN,com167b2iis3.aufgabenapp.amazonaws.com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
-- DOMAIN,com98kb2iis3.amazonaws.adserver99kb2iis3.amazonaws.com181kb2iis3.amazonaws.com372kb2iibirdeye.eks.callrail.com
 - DOMAIN,combamasca.pro
 - DOMAIN,combibarbu.pro
 - DOMAIN,combitrasl.pro
@@ -12741,6 +12743,7 @@ payload:
 - DOMAIN,cubanametr.pro
 - DOMAIN,cubitinglo.pro
 - DOMAIN,cuccecelti.pro
+- DOMAIN,cucexn.skadsdkless.appsflyersdk.com
 - DOMAIN,cuciccaram.pro
 - DOMAIN,cucindiram.pro
 - DOMAIN,cucizunephr.pro
@@ -12941,7 +12944,6 @@ payload:
 - DOMAIN,daaa.ero-advertising.com
 - DOMAIN,dab.adxpremium.services
 - DOMAIN,dablecabri.pro
-- DOMAIN,dac.contextads.live
 - DOMAIN,dacllads.com
 - DOMAIN,dacryscont.pro
 - DOMAIN,dacryvacci.pro
@@ -12950,7 +12952,6 @@ payload:
 - DOMAIN,dad.ladsp.com
 - DOMAIN,dad90826-a3e6-4dfc-b812-89b25baa3e71.vercel.app
 - DOMAIN,dadoffosfo.pro
-- DOMAIN,dads.maiscasa.pt
 - DOMAIN,dads.togothermany.com
 - DOMAIN,dadsats.com
 - DOMAIN,dadydya.pro
@@ -13052,7 +13053,6 @@ payload:
 - DOMAIN,dashingdog.pro
 - DOMAIN,dashingglimpse.pro
 - DOMAIN,dat2.ero-advertising.com
-- DOMAIN,data-0331877d53.radsport-news.com
 - DOMAIN,data-canary.flurry.com
 - DOMAIN,data-cl-f.ads.oppomobile.com
 - DOMAIN,data-cl-id.ads.oppomobile.com
@@ -13173,6 +13173,7 @@ payload:
 - DOMAIN,dco-templates.ads.sportradar.com
 - DOMAIN,dcp.ads.sportradar.com
 - DOMAIN,dcrfnt-us.adsmoloco.com
+- DOMAIN,dcsdk.100ulife.com
 - DOMAIN,dd.toponad.com
 - DOMAIN,dd713.bj.bcebos.com
 - DOMAIN,dddaily.advertserve.com
@@ -16892,6 +16893,7 @@ payload:
 - DOMAIN,gryntopha.pro
 - DOMAIN,gs.adspeed.net
 - DOMAIN,gs6r8s.skadsdkless.appsflyersdk.com
+- DOMAIN,gsadserver.de
 - DOMAIN,gsdxjfbwjed.pro
 - DOMAIN,gsgorpt.adview.com
 - DOMAIN,gslbali.ximalaya.com
@@ -19232,6 +19234,7 @@ payload:
 - DOMAIN,knowingherring.pro
 - DOMAIN,kobutopic.pro
 - DOMAIN,koceliy2.pro
+- DOMAIN,kochava.adsmeasurement.com
 - DOMAIN,kociwoy4.pro
 - DOMAIN,kojangrech.pro
 - DOMAIN,kolicie3.pro
@@ -19270,7 +19273,6 @@ payload:
 - DOMAIN,kuchmiete.pro
 - DOMAIN,kudyfya0.pro
 - DOMAIN,kujate-denuxo.pro
-- DOMAIN,kunvertads.xml.ak-is2.net
 - DOMAIN,kuransfumi.pro
 - DOMAIN,kurdiscarp.pro
 - DOMAIN,kurjerzy-pl.pro
@@ -19419,6 +19421,7 @@ payload:
 - DOMAIN,lb.l.qq.com
 - DOMAIN,lb3.aaxads.com
 - DOMAIN,lbal.gatorleads.co.uk
+- DOMAIN,lbmjournal.advertserve.com
 - DOMAIN,lbs-asia1.ads.betweendigital.com
 - DOMAIN,lbs-eu1.ads.betweendigital.com
 - DOMAIN,lbs-ru1.ads.betweendigital.com
@@ -21298,6 +21301,7 @@ payload:
 - DOMAIN,nazifdisri.pro
 - DOMAIN,nazutea5.pro
 - DOMAIN,nbads.com
+- DOMAIN,nbc.advertising.comcasttechnologysolutions.com
 - DOMAIN,nbcu.adsmeasurement.com
 - DOMAIN,nbcu.prd.ads.aws.fwmrm.net
 - DOMAIN,nbcume.hb-api.omtrdc.net
@@ -23168,6 +23172,7 @@ payload:
 - DOMAIN,pittaascia.pro
 - DOMAIN,pittadisap.pro
 - DOMAIN,pittodisme.pro
+- DOMAIN,piwik.advantic.de
 - DOMAIN,piwik.ero-advertising.com
 - DOMAIN,piwik.unoadsrv.com
 - DOMAIN,pixel-dsp.pubadx.one
@@ -23183,7 +23188,6 @@ payload:
 - DOMAIN,pixel.leadsleap.net
 - DOMAIN,pixel.madadsmedia.com
 - DOMAIN,pixel.moatads.com
-- DOMAIN,pixel.rtgads.com
 - DOMAIN,pixel.xapads.com
 - DOMAIN,pixelbliss.pro
 - DOMAIN,pixelgleam.pro
@@ -23901,7 +23905,6 @@ payload:
 - DOMAIN,pubads-wiinvent.tv360.vn
 - DOMAIN,pubads.g.doubleclick.net
 - DOMAIN,pubads.g.doubleclick.uk.net
-- DOMAIN,pubads.gamob.com
 - DOMAIN,pubads.wiinvent.tv
 - DOMAIN,pubadx.one
 - DOMAIN,pubbldisna.pro
@@ -25673,6 +25676,7 @@ payload:
 - DOMAIN,rtb-csync.smartadserver.com
 - DOMAIN,rtb-eu.admidadsp.com
 - DOMAIN,rtb-eu.adsolut.in
+- DOMAIN,rtb-eu.advlistings.com
 - DOMAIN,rtb-eu.hueadsortb.com
 - DOMAIN,rtb-eu.mfadsrvr.com
 - DOMAIN,rtb-eu.rtbflairads.com
@@ -26290,6 +26294,8 @@ payload:
 - DOMAIN,sbm13.bcc-ads.com
 - DOMAIN,sbm14.bcc-ads.com
 - DOMAIN,sbm15.bcc-ads.com
+- DOMAIN,sbm16.bcc-ads.com
+- DOMAIN,sbm18.bcc-ads.com
 - DOMAIN,sbm2.bcc-ads.com
 - DOMAIN,sbm3.bcc-ads.com
 - DOMAIN,sbm4.bcc-ads.com
@@ -28521,6 +28527,7 @@ payload:
 - DOMAIN,static.ads.triptease.io
 - DOMAIN,static.adsafeprotected.com
 - DOMAIN,static.adsinstant.com
+- DOMAIN,static.adsolut.in
 - DOMAIN,static.adsonar.com
 - DOMAIN,static.adsota.com
 - DOMAIN,static.adsplay.net
@@ -30317,7 +30324,6 @@ payload:
 - DOMAIN,trainsidew.pro
 - DOMAIN,traitregor.pro
 - DOMAIN,trajepasce.pro
-- DOMAIN,traktor.adventures.is
 - DOMAIN,traluincag.pro
 - DOMAIN,traluinqui.pro
 - DOMAIN,tramaaggre.pro
@@ -31192,6 +31198,7 @@ payload:
 - DOMAIN,upupoverbe.pro
 - DOMAIN,upush.res.meizu.com
 - DOMAIN,upwarexcip.pro
+- DOMAIN,uqzobj.skadsdkless.appsflyersdk.com
 - DOMAIN,uraliaescu.pro
 - DOMAIN,uranibiter.pro
 - DOMAIN,uraniclacs.pro
@@ -32502,7 +32509,6 @@ payload:
 - DOMAIN,wgxjymlyhg.pro
 - DOMAIN,whaleads.com
 - DOMAIN,whalesongsmelodies.pro
-- DOMAIN,whatspossiblegroup.adverity.com
 - DOMAIN,whatsupjoy.pro
 - DOMAIN,whefnudri.pro
 - DOMAIN,whencidria.pro

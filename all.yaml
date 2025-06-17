@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-17 09:49:25
+#更新时间: 2025-06-17 22:22:12
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -28,7 +28,6 @@ payload:
 - IP-CIDR,113.219.183.77/32
 - IP-CIDR,113.240.86.171/32
 - IP-CIDR,114.55.123.44/32
-- DOMAIN,1145104f-82ad-4df3-8ca5-9844882bd5a1.cloud.looker.com
 - IP-CIDR,116.205.193.167/32
 - DOMAIN,11bet.mobi
 - DOMAIN,11bet.pro
@@ -54,7 +53,6 @@ payload:
 - DOMAIN,123win.pro
 - IP-CIDR,124.225.195.107/32
 - DOMAIN,12gtest.bj2cu.u3.ucweb.com
-- DOMAIN,1331eefe-55ad-4bf2-be94-e1b766dde393.cloud.looker.com
 - DOMAIN,13gtest.bj2cu.u3.ucweb.com
 - IP-CIDR,14.152.75.59/32
 - DOMAIN,1418.adsina.allyes.com
@@ -103,10 +101,10 @@ payload:
 - DOMAIN,25c8e.admaster.com.cn
 - DOMAIN,25gtest.bj2cu.u3.ucweb.com
 - DOMAIN,2632ce734-frontier.amazon-adsystem.com
-- DOMAIN,26c1e54b-33ad-4683-bfd3-89b72860606e.cloud.looker.com
 - DOMAIN,26gtest.bj2cu.u3.ucweb.com
 - DOMAIN,27gtest.bj2cu.u3.ucweb.com
 - DOMAIN,28gtest.bj2cu.u3.ucweb.com
+- DOMAIN,29100371fb7a45de981232cf1a8a03ad-1ad356638475.cdn.forter.com
 - DOMAIN,29gtest.bj2cu.u3.ucweb.com
 - DOMAIN,2a81.ads.stickyadstv.com
 - DOMAIN,2baners.ero-advertising.com
@@ -120,7 +118,6 @@ payload:
 - DOMAIN,2onby-0sdqy.ads.tremorhub.com
 - DOMAIN,2onby-yck3w.ads.tremorhub.com
 - DOMAIN,2yearatt15.sugar1818.net
-- DOMAIN,30050050-a225-4526-b6ad-4320989ba17d.cloud.looker.com
 - DOMAIN,301ads.com
 - DOMAIN,30ads.com
 - DOMAIN,30gtest.bj2cu.u3.ucweb.com
@@ -156,7 +153,6 @@ payload:
 - DOMAIN,3px.axp.amazon-adsystem.com
 - DOMAIN,4.adsco.re
 - DOMAIN,4.afs.googleadservices.com
-- DOMAIN,45aea6ad-1748-4b53-88ad-913781f0e22f.cloud.looker.com
 - IP-CIDR,47.110.187.87/32
 - IP-CIDR,47.243.147.125/32
 - IP-CIDR,47.56.131.76/32
@@ -180,16 +176,15 @@ payload:
 - DOMAIN,4pco5-s7rmw.ads.tremorhub.com
 - IP-CIDR,5.61.55.143/32
 - DOMAIN,50websads.com
-- DOMAIN,5199266c-5ed1-464a-9bad-1dcefe576769.cloud.looker.com
 - DOMAIN,52c862b0-81c6-40ad-83b9-6305935ca380.cloud.looker.com
 - DOMAIN,5421580206.rtb.monetixads.com
 - DOMAIN,5490.spedads.primosearch.com
 - DOMAIN,555win.mobi
 - DOMAIN,5726.bapi.adsafeprotected.com
 - DOMAIN,578.adsina.allyes.com
-- DOMAIN,57834109-893c-400d-92ad-59670254f568.cloud.looker.com
 - DOMAIN,58749.admaster.com.cn
 - DOMAIN,5ad.leadboltads.net
+- DOMAIN,5ea3efbbf317499fb59f24bf8d6f6aad-2d3beba7c245.cdn.forter.com
 - DOMAIN,5ew8d-b3mmu.ads.tremorhub.com
 - DOMAIN,5gtest.bj2cu.u3.ucweb.com
 - DOMAIN,5nbh3-h9cpz.ads.tremorhub.com
@@ -202,7 +197,6 @@ payload:
 - DOMAIN,64.adsco.re
 - DOMAIN,65a1d101-07f6-40ad-8438-ab78a3079144.cloud.looker.com
 - DOMAIN,66926e18fb422e99217bead821bfa976.groupsorlink.com
-- DOMAIN,678eccad-4fb2-4e3c-9a1c-f9939acb7087.cloud.looker.com
 - DOMAIN,69vip.pro
 - DOMAIN,6gtest.bj2cu.u3.ucweb.com
 - DOMAIN,6gvef.pro
@@ -225,8 +219,8 @@ payload:
 - DOMAIN,7r3cna.viqiyi.admaster.com.cn
 - DOMAIN,7r76oa.vyk.admaster.com.cn
 - DOMAIN,7r8a9a.viqiyi.admaster.com.cn
-- DOMAIN,80d8482b-a9ad-4a70-a804-f5b89f43f2d8.cloud.looker.com
 - DOMAIN,822.dlads.cn
+- DOMAIN,85a2403469434a35a412c216d69cfdad-a64b2710149d.cdn.forter.com
 - DOMAIN,86-a-adm.one
 - DOMAIN,868vip.mobi
 - DOMAIN,8b253a.vyk.admaster.com.cn
@@ -265,21 +259,18 @@ payload:
 - DOMAIN,8dcyqu.c.admaster.com.cn
 - DOMAIN,8dqc4u.viqiyi.admaster.com.cn
 - DOMAIN,8dvzfa.vfs.admaster.com.cn
-- DOMAIN,8e818884-6fad-4bfd-a018-c2391463d95d.cloud.looker.com
 - DOMAIN,8gtest.bj2cu.u3.ucweb.com
 - DOMAIN,8le8le.com
 - DOMAIN,8live.mobi
 - DOMAIN,90954cad-c30a-4c37-b093-d5e7ec04de4a.cloud.looker.com
 - DOMAIN,90bf1d4b-1bad-423b-9ae4-2f32ee06c615.cloud.looker.com
 - DOMAIN,91.isafe.pro
-- DOMAIN,920fc1cb-0511-4548-b0ad-b38f7ca2023e.cloud.looker.com
 - DOMAIN,922441.bapi.adsafeprotected.com
 - DOMAIN,92lottery.mobi
 - DOMAIN,9308935.com
 - DOMAIN,99ads.net
 - DOMAIN,9aad7115.amy.gs
 - DOMAIN,9ata.ero-advertising.com
-- DOMAIN,9e58b1e9-d31d-41d8-adad-316bdc1fc9ad.cloud.looker.com
 - DOMAIN,9gag-9gag.adsbynimbus.com
 - DOMAIN,9gtest.bj2cu.u3.ucweb.com
 - DOMAIN,9ibbcq2d.sina.cn
@@ -363,8 +354,10 @@ payload:
 - DOMAIN,aax-events-cell01-cf.us-west.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
+- DOMAIN,aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
+- DOMAIN,aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-fe-sin.amazon-adsystem.com
 - DOMAIN,aax-fe.amazon-adsystem.com
 - DOMAIN,aax-ott-c2s.amazon-adsystem.com
@@ -1577,6 +1570,7 @@ payload:
 - DOMAIN,ad.xmovies8.si
 - DOMAIN,ad.xrea.com
 - DOMAIN,ad.xunkids.com
+- DOMAIN,ad.xxam.org
 - DOMAIN,ad.yemeksepeti.com
 - DOMAIN,ad.yeshitv.com
 - DOMAIN,ad.yieldlab.net
@@ -1854,7 +1848,6 @@ payload:
 - DOMAIN,ad39.checkm8.com
 - DOMAIN,ad39digital.checkm8.com
 - DOMAIN,ad3digital.checkm8.com
-- DOMAIN,ad3e131e-eb61-48d2-9b26-383580a89897.cloud.looker.com
 - DOMAIN,ad3e1c5e-9e3b-4a4a-81ba-c72eac3776cc.cloud.looker.com
 - DOMAIN,ad3g.com
 - DOMAIN,ad4.ad-srv.net
@@ -1891,6 +1884,7 @@ payload:
 - DOMAIN,ad46.checkm8.com
 - DOMAIN,ad46digital.checkm8.com
 - DOMAIN,ad47.checkm8.com
+- DOMAIN,ad47465585db4efebdb3a22b14aa6570-d54d763dc742.cdn.forter.com
 - DOMAIN,ad47digital.checkm8.com
 - DOMAIN,ad48.checkm8.com
 - DOMAIN,ad48digital.checkm8.com
@@ -1951,7 +1945,6 @@ payload:
 - DOMAIN,ad7.speedbit.com
 - DOMAIN,ad7.thumbs.ero-advertising.com
 - DOMAIN,ad71.adfarm1.adition.com
-- DOMAIN,ad76c3e8-8c4a-4c66-a364-969854d604e2.cloud.looker.com
 - DOMAIN,ad7digital.checkm8.com
 - DOMAIN,ad8.ad-srv.net
 - DOMAIN,ad8.adfarm1.adition.com
@@ -1961,13 +1954,14 @@ payload:
 - DOMAIN,ad8.checkm8.com
 - DOMAIN,ad8.contentabc.com
 - DOMAIN,ad8.speedbit.com
+- DOMAIN,ad8610c4295d46d2924a34b452a93f3e-1ad356638475.cdn.forter.com
 - DOMAIN,ad8digital.checkm8.com
 - DOMAIN,ad9.ad-srv.net
 - DOMAIN,ad9.bannerbank.ru
 - DOMAIN,ad9.checkm8.com
 - DOMAIN,ad9.contentabc.com
 - DOMAIN,ad9.speedbit.com
-- DOMAIN,ad90c274-9306-493c-bd4f-898230eee676.cloud.looker.com
+- DOMAIN,ad913e66ccf2.cdn4.forter.com
 - DOMAIN,ad999.biz
 - DOMAIN,ad9digital.checkm8.com
 - DOMAIN,ad9s4ve8.emltrk.com
@@ -2367,6 +2361,7 @@ payload:
 - DOMAIN,ads-marktplaats.adhese.com
 - DOMAIN,ads-massarius.adhese.com
 - DOMAIN,ads-media-cdn.tenmax.io
+- DOMAIN,ads-media-storage-cdn.tenmax.io
 - DOMAIN,ads-mediafin.adhese.com
 - DOMAIN,ads-metadata-prod.zeustechnology.com
 - DOMAIN,ads-mobile.jiwire.com
@@ -2540,7 +2535,6 @@ payload:
 - DOMAIN,ads.adsag.com
 - DOMAIN,ads.adsbookie.com
 - DOMAIN,ads.adsbtc.fun
-- DOMAIN,ads.adsense.al
 - DOMAIN,ads.adshareware.net
 - DOMAIN,ads.adsinimages.com
 - DOMAIN,ads.adsmedia.com
@@ -5839,7 +5833,6 @@ payload:
 - DOMAIN,advancedworld.site
 - DOMAIN,advanceinvader.com
 - DOMAIN,advancelocal.blueconic.net
-- DOMAIN,advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-mlivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-njcom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-oregonlivecom.adsbynimbus.com
@@ -5861,6 +5854,7 @@ payload:
 - DOMAIN,advantic01.webtrekk.net
 - DOMAIN,advantixmarketing.re.getclicky.com
 - DOMAIN,advanzia.containers.piwik.pro
+- DOMAIN,advanzia.piwik.pro
 - DOMAIN,advaplex.com
 - DOMAIN,advariant.com
 - DOMAIN,advast.sibnet.ru
@@ -7537,6 +7531,7 @@ payload:
 - DOMAIN,api.altmetric.com
 - DOMAIN,api.amplitude.com
 - DOMAIN,api.amplitudeexperiment.com
+- DOMAIN,api.analytics.cruisebound.com
 - DOMAIN,api.analytics.gothamsports.com
 - DOMAIN,api.analytics.omgpop.com
 - DOMAIN,api.analytics.pigment.app
@@ -7695,7 +7690,6 @@ payload:
 - DOMAIN,api.convrse.media
 - DOMAIN,api.cooladata.com
 - DOMAIN,api.coolguang.com
-- DOMAIN,api.corp.looker.com
 - DOMAIN,api.counterapi.dev
 - DOMAIN,api.country.is
 - DOMAIN,api.cpu.baidu.com
@@ -7729,7 +7723,6 @@ payload:
 - DOMAIN,api.demand.supply
 - DOMAIN,api.demandbase.com
 - DOMAIN,api.dev-cloud2.starleaf.com
-- DOMAIN,api.dev.looker.com
 - DOMAIN,api.devatics.io
 - DOMAIN,api.developer.xiaomi.com
 - DOMAIN,api.device.skysrt.com
@@ -8008,6 +8001,7 @@ payload:
 - DOMAIN,api.mosspf.net
 - DOMAIN,api.mossru.com
 - DOMAIN,api.mp.uc.cn
+- DOMAIN,api.mp3vel.trafficjunky.com
 - DOMAIN,api.mu88.mu
 - DOMAIN,api.mu9.club
 - DOMAIN,api.mu9.com
@@ -8352,6 +8346,7 @@ payload:
 - DOMAIN,api.urioy.com
 - DOMAIN,api.us-east-1.aiv-delivery.net
 - DOMAIN,api.us-west-2.aiv-delivery.net
+- DOMAIN,api.us.analytics.engageplatform.com
 - DOMAIN,api.us1.anywhere.navify.com
 - DOMAIN,api.usabilla.com
 - DOMAIN,api.usebutton.com
@@ -8456,7 +8451,6 @@ payload:
 - DOMAIN,apicosdk.onemt.co
 - DOMAIN,apicssdk.onemt.co
 - DOMAIN,apidns.kwd.inkuai.com
-- DOMAIN,apidownload-prod.looker.com
 - DOMAIN,apioci.chavoads.com
 - DOMAIN,apioci.fwfallowads.com
 - DOMAIN,apioci.vlogerads.com
@@ -9043,6 +9037,7 @@ payload:
 - DOMAIN,b-dec.adx.opera.com
 - DOMAIN,b-eu.adx.opera.com
 - DOMAIN,b-images.jubnaadserve.com
+- DOMAIN,b-sg.adx.opera.com
 - DOMAIN,b-sgo.adx.opera.com
 - DOMAIN,b-us.adx.opera.com
 - DOMAIN,b.adnxs.com
@@ -9061,10 +9056,8 @@ payload:
 - DOMAIN,b1.ads.oppomobile.com
 - DOMAIN,b1028as.adspirit.de
 - DOMAIN,b2-data.ads.heytapmobi.com
-- DOMAIN,b27e42a6-3517-46ad-a2ed-643b816f7506.cloud.looker.com
 - DOMAIN,b4d7f9ad-9746-4daa-b552-8205ef41f49d.edge.permutive.app
 - DOMAIN,b52.mobi
-- DOMAIN,ba08ce48-21ad-4503-9719-928576516509.cloud.looker.com
 - DOMAIN,babanetwork.adk2x.com
 - DOMAIN,bacatheli.pro
 - DOMAIN,bacchlathy.pro
@@ -9910,7 +9903,6 @@ payload:
 - DOMAIN,br.adspecs.yahoo.com
 - DOMAIN,braccoscur.pro
 - DOMAIN,braccsuith.pro
-- DOMAIN,brackenads.com
 - DOMAIN,brad-cluster-in-cale-acco.96b70295-af4e-479d-8611-3ed3d486fa7b.gw1.cloud.looker.com
 - DOMAIN,brad-cluster-in-cale-acco.adnetinc.gw1.cloud.looker.com
 - DOMAIN,brad-cluster-in-cale-acco.carbonuw.eu.looker.com
@@ -10671,6 +10663,7 @@ payload:
 - DOMAIN,c1.popads.net
 - DOMAIN,c1111.ileads.acxiom.com
 - DOMAIN,c1112.ileads.acxiom.com
+- DOMAIN,c14825a7a6304202b947f4f98a6b06ad-66ccc49f0c00.cdn.forter.com
 - DOMAIN,c2.l.qq.com
 - DOMAIN,c2.popads.net
 - DOMAIN,c6.iads.unity3d.com
@@ -10679,7 +10672,6 @@ payload:
 - DOMAIN,ca.clcknads.pro
 - DOMAIN,ca.iadsdk.apple.com
 - DOMAIN,ca4-bid.adsrvr.org
-- DOMAIN,ca82d1d0-2fad-42cd-902c-23ed4430f599.cloud.looker.com
 - DOMAIN,cabansfode.pro
 - DOMAIN,cablofusel.pro
 - DOMAIN,caccinonno.pro
@@ -11040,6 +11032,7 @@ payload:
 - DOMAIN,cdn.adspirit.de
 - DOMAIN,cdn.adsquirrel.ai
 - DOMAIN,cdn.adsrvmedia.net
+- DOMAIN,cdn.adstanding.com
 - DOMAIN,cdn.adstock.pro
 - DOMAIN,cdn.adstract.com
 - DOMAIN,cdn.adsymptotic.com
@@ -12214,7 +12207,6 @@ payload:
 - DOMAIN,complexcrab.pro
 - DOMAIN,complexkagu.pro
 - DOMAIN,complsaggi.pro
-- DOMAIN,complyadvantage1.cloud.looker.com
 - DOMAIN,compoembri.pro
 - DOMAIN,compofotot.pro
 - DOMAIN,comprlevel.pro
@@ -13235,8 +13227,6 @@ payload:
 - DOMAIN,dcdn.adnxs.com
 - DOMAIN,dcntr-ads.com
 - DOMAIN,dco-assets.everestads.net
-- DOMAIN,dco-templates.ads.sportradar.com
-- DOMAIN,dcp.ads.sportradar.com
 - DOMAIN,dcrfnt-us.adsmoloco.com
 - DOMAIN,dcsdk.100ulife.com
 - DOMAIN,dd.toponad.com
@@ -13585,7 +13575,6 @@ payload:
 - DOMAIN,diag.adsafeprotected.com
 - DOMAIN,diagnosis.ad.intl.xiaomi.com
 - DOMAIN,diagnosis.ad.xiaomi.com
-- DOMAIN,diagnosisheadsetrekindle.com
 - DOMAIN,dialoafror.pro
 - DOMAIN,dialospeck.pro
 - DOMAIN,diamofarra.pro
@@ -14161,9 +14150,7 @@ payload:
 - DOMAIN,down1oads.com
 - DOMAIN,download-dev.looker.com
 - DOMAIN,download-file.org
-- DOMAIN,download-prod.looker.com
 - DOMAIN,download-shares.com
-- DOMAIN,download-staging.looker.com
 - DOMAIN,download-stats.mozilla.org
 - DOMAIN,download.123cw.cn
 - DOMAIN,download.2345.com
@@ -14379,7 +14366,6 @@ payload:
 - DOMAIN,dsp.adspyglass.com
 - DOMAIN,dsp.adviad.com
 - DOMAIN,dsp.api.vungle.com
-- DOMAIN,dsp.brackenads.com
 - DOMAIN,dsp.cityads.com
 - DOMAIN,dsp.hot-mob.com
 - DOMAIN,dsp.myads.telkomsel.com
@@ -14419,7 +14405,6 @@ payload:
 - DOMAIN,dumblalter.pro
 - DOMAIN,dumduimpas.pro
 - DOMAIN,dunandbradstreet.122.2o7.net
-- DOMAIN,dunbradstreet.looker.com
 - DOMAIN,dunbradstreetinc.demdex.net
 - DOMAIN,duncansbreads.com
 - DOMAIN,duologinsupersdk.ewan.cn
@@ -14507,7 +14492,7 @@ payload:
 - DOMAIN,e0.extreme-dm.com
 - DOMAIN,e1.extreme-dm.com
 - DOMAIN,e2.extreme-dm.com
-- DOMAIN,e2d3e6ad-3bf0-4041-897b-91fde8cc0c1e.cloud.looker.com
+- DOMAIN,e6730835260c4035ab5f625e5a05d2ad-07c0aec6173f.cdn.forter.com
 - DOMAIN,e684b2f7-ebbe-47ad-8f47-851540976fdd-pdata-v4.unique.k.fastly-insights.com
 - DOMAIN,e7246.adserverevent.com
 - DOMAIN,e73176.adserverevent.com
@@ -15104,6 +15089,7 @@ payload:
 - DOMAIN,eu-adsrv.rtbsuperhub.com
 - DOMAIN,eu-api.swrve.com
 - DOMAIN,eu-central-1.ads.digital.disneyadvertising.com
+- DOMAIN,eu-central.3px.axp.amazon-adsystem.com
 - DOMAIN,eu-conv-pix.adstk.io
 - DOMAIN,eu-imp-pix.adstk.io
 - DOMAIN,eu-js.adstk.io
@@ -17391,7 +17377,6 @@ payload:
 - DOMAIN,holopdecom.pro
 - DOMAIN,holoqsbiso.pro
 - DOMAIN,holyseo.pro
-- DOMAIN,homeadvisor.cloud.looker.com
 - DOMAIN,homepage.adnxs.com
 - DOMAIN,homepage2.adnxs.com
 - DOMAIN,homewhelon.pro
@@ -17693,7 +17678,6 @@ payload:
 - DOMAIN,ib.anycast.adnxs.com
 - DOMAIN,ib.bounceads.net
 - DOMAIN,ib10.bcc-ads.com
-- DOMAIN,ib11.bcc-ads.com
 - DOMAIN,ib12.bcc-ads.com
 - DOMAIN,ib13.bcc-ads.com
 - DOMAIN,ib14.bcc-ads.com
@@ -18527,7 +18511,6 @@ payload:
 - DOMAIN,insulevel24.pro
 - DOMAIN,insulpecil.pro
 - DOMAIN,insurads.com
-- DOMAIN,int-cdn.adsrvr.org
 - DOMAIN,intabmitic.pro
 - DOMAIN,intabprote.pro
 - DOMAIN,intadx.com
@@ -19620,7 +19603,6 @@ payload:
 - DOMAIN,lf28-common-ckv-tos.pstatp.com
 - DOMAIN,lf29-common-ckv-tos.pstatp.com
 - DOMAIN,lf3-ad-platform.byteadverts.com
-- DOMAIN,lf3-ad-sign.byteadverts.com
 - DOMAIN,lf3-common-ckv-tos.pstatp.com
 - DOMAIN,lf3-sf-be-pack-sign.pglstatp-toutiao.com
 - DOMAIN,lf30-common-ckv-tos.pstatp.com
@@ -19632,7 +19614,6 @@ payload:
 - DOMAIN,lf6-sf-be-pack-sign.pglstatp-toutiao.com
 - DOMAIN,lf7-common-ckv-tos.pstatp.com
 - DOMAIN,lf8-common-ckv-tos.pstatp.com
-- DOMAIN,lf9-ad-sign.byteadverts.com
 - DOMAIN,lf9-ad-union-sdk.pglstatp-toutiao.com
 - DOMAIN,lf9-common-ckv-tos.pstatp.com
 - DOMAIN,lgads.adsmeasurement.com
@@ -24008,6 +23989,7 @@ payload:
 - DOMAIN,pub.adswam.com
 - DOMAIN,pub.trads.io
 - DOMAIN,pub6148735850944.b-eu.adx.opera.com
+- DOMAIN,pub6148735850944.b-sg.adx.opera.com
 - DOMAIN,pub6148735850944.b-us.adx.opera.com
 - DOMAIN,pubads-g-doubleclick-net.cdn.ampproject.org
 - DOMAIN,pubads-wiinvent.tv360.vn
@@ -24628,8 +24610,6 @@ payload:
 - DOMAIN,rakutenadvertising.cloud.looker.com
 - DOMAIN,rakutenadvertising.com
 - DOMAIN,rakutenadvertising.io
-- DOMAIN,rakutenadvertisingdev.cloud.looker.com
-- DOMAIN,rakutenadvertisingstaging.cloud.looker.com
 - DOMAIN,ralincapti.pro
 - DOMAIN,rallaawond.pro
 - DOMAIN,rallituber.pro
@@ -29400,7 +29380,6 @@ payload:
 - DOMAIN,sync.monarchads.com
 - DOMAIN,sync.revive-adserver.com
 - DOMAIN,sync.smartadserver.com
-- DOMAIN,sync.ssp-bcc-ads.com
 - DOMAIN,sync.teads.tv
 - DOMAIN,sync.teads.tv.edgekey.net
 - DOMAIN,sync.unoadsrv.com
@@ -31446,7 +31425,6 @@ payload:
 - DOMAIN,usw2-ads-proxy-temp-general-v4.yieldmo.com
 - DOMAIN,usw2-ads-proxy-temp-general-v5.yieldmo.com
 - DOMAIN,usw2.smartadserver.com
-- DOMAIN,usw3.smartadserver.com
 - DOMAIN,uswdirect.adsrvr.org
 - DOMAIN,ut.iadsdk.apple.com
 - DOMAIN,utdxrr.pro
@@ -31528,7 +31506,6 @@ payload:
 - DOMAIN,v3-ads-st-vcdn.anthill.vn
 - DOMAIN,v3-be-pack.pglstatp-toutiao.com
 - DOMAIN,v3-st-vcdn.anthill.vn
-- DOMAIN,v3.awesomeads.staging.superawesome.tv
 - DOMAIN,v3.awesomeads.superawesome.tv
 - DOMAIN,v3.cnzz.com
 - DOMAIN,v3.green-ads.net

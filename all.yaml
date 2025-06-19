@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-19 09:49:31
+#更新时间: 2025-06-19 22:20:47
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -202,6 +202,7 @@ payload:
 - DOMAIN,6psex-axuft.ads.tremorhub.com
 - DOMAIN,6psex-fm1gy.ads.tremorhub.com
 - DOMAIN,6psex-sootr.ads.tremorhub.com
+- DOMAIN,6uolf-9m282.ads.tremorhub.com
 - DOMAIN,6uxx3e.skadsdkless.appsflyersdk.com
 - DOMAIN,778uc5.skadsdkless.appsflyersdk.com
 - DOMAIN,789.mobi
@@ -2533,6 +2534,7 @@ payload:
 - DOMAIN,ads.adstream.com.ro
 - DOMAIN,ads.adsurve.com
 - DOMAIN,ads.adsymptotic.com
+- DOMAIN,ads.adtag.org
 - DOMAIN,ads.adtegrity.net
 - DOMAIN,ads.adtheorent.com
 - DOMAIN,ads.adthrive.com
@@ -3205,6 +3207,7 @@ payload:
 - DOMAIN,ads.joemonster.org
 - DOMAIN,ads.jokaroo.com
 - DOMAIN,ads.jossip.com
+- DOMAIN,ads.jp2.vip.prod.criteo.com
 - DOMAIN,ads.juicyads.com
 - DOMAIN,ads.juicyads.me
 - DOMAIN,ads.justhungry.com
@@ -5724,6 +5727,7 @@ payload:
 - DOMAIN,adv.klick.vn
 - DOMAIN,adv.lampsplus.com
 - DOMAIN,adv.lichnosti.net
+- DOMAIN,adv.lijit.com
 - DOMAIN,adv.livelog.biz
 - DOMAIN,adv.madserving.com
 - DOMAIN,adv.mangoadv.com
@@ -5780,6 +5784,7 @@ payload:
 - DOMAIN,advance-focus.info
 - DOMAIN,advancebridge.info
 - DOMAIN,advanced-accurate-proactive-cyber.autos
+- DOMAIN,advanced-delivery.pro
 - DOMAIN,advanced-fast-reliable-smart.autos
 - DOMAIN,advanced-ip-scanner.compares.bentleylacey.com
 - DOMAIN,advanced-now-improper-data.top
@@ -6131,6 +6136,7 @@ payload:
 - DOMAIN,adx-asia-imp.aarki.net
 - DOMAIN,adx-asia.aarki.net
 - DOMAIN,adx-bid.tianzhuobj.com
+- DOMAIN,adx-bm1.videonow.ru
 - DOMAIN,adx-cn.ads.vungle.com
 - DOMAIN,adx-core.youku.com
 - DOMAIN,adx-data.yfanads.com
@@ -7213,6 +7219,7 @@ payload:
 - DOMAIN,ap-southeast-1.ecs.mb.moatads.com
 - DOMAIN,ap-southeast-1.prod.pr.analytics.console.aws.a2z.com
 - DOMAIN,ap-southeast-1.prod.skywave.jetstream.advertising.a2z.com
+- DOMAIN,ap-southeast-2.internal.awesomeads.staging.superawesome.tv
 - DOMAIN,ap-southeast.3px.axp.amazon-adsystem.com
 - DOMAIN,ap-southeast.aps.axp.amazon-adsystem.com
 - DOMAIN,ap.ad-feed.com
@@ -7533,6 +7540,8 @@ payload:
 - DOMAIN,api.appodealx.com
 - DOMAIN,api.appprodeu.platform.navify.com
 - DOMAIN,api.appprodjp.platform.navify.com
+- DOMAIN,api.appprodkr.platform.navify.com
+- DOMAIN,api.appprodsg.platform.navify.com
 - DOMAIN,api.appproduk.platform.navify.com
 - DOMAIN,api.appprodus.platform.navify.com
 - DOMAIN,api.appsee.com
@@ -7655,6 +7664,7 @@ payload:
 - DOMAIN,api.co-operativefinance.com
 - DOMAIN,api.coinerra.com
 - DOMAIN,api.collect.data.intl.miui.com
+- DOMAIN,api.compado.com
 - DOMAIN,api.company-target.com
 - DOMAIN,api.competition.intl.miui.com
 - DOMAIN,api.condenast.io
@@ -7727,6 +7737,7 @@ payload:
 - DOMAIN,api.e.kuaishou.cn
 - DOMAIN,api.e.mi.com
 - DOMAIN,api.e.misspap.com
+- DOMAIN,api.e.oasisfashion.com
 - DOMAIN,api.eaglem.net
 - DOMAIN,api.eagllwin.com
 - DOMAIN,api.early-birds.io
@@ -12266,6 +12277,8 @@ payload:
 - DOMAIN,cp.oupeng.com
 - DOMAIN,cpa-tracking.mclick.mobi
 - DOMAIN,cpanel.nativeads.com
+- DOMAIN,cpapi.kws.staging.superawesome.tv
+- DOMAIN,cpapi.kws.superawesome.tv
 - DOMAIN,cpc.click.alimama.com
 - DOMAIN,cpl.tubeadvertising.eu
 - DOMAIN,cpm.adsolut.in
@@ -14990,6 +15003,7 @@ payload:
 - DOMAIN,f.blogads.com
 - DOMAIN,f.gm.mob.com
 - DOMAIN,f11-ads.com
+- DOMAIN,f11-ads.net
 - DOMAIN,f14.adventori.com
 - DOMAIN,f15.adventori.com
 - DOMAIN,f16.adventori.com
@@ -17345,6 +17359,7 @@ payload:
 - DOMAIN,i79zj-tzyj9.ads.tremorhub.com
 - DOMAIN,i79zj-x6hb8.ads.tremorhub.com
 - DOMAIN,i79zj-zf9d6.ads.tremorhub.com
+- DOMAIN,i867.journal-advocate.com
 - DOMAIN,i9.pro
 - DOMAIN,iab-imp-gateway.supersonicads.com
 - DOMAIN,iad-01.braze.com
@@ -18261,6 +18276,8 @@ payload:
 - DOMAIN,intermediads.com
 - DOMAIN,intermemor.pro
 - DOMAIN,intermilla.pro
+- DOMAIN,internal.awesomeads.staging.superawesome.tv
+- DOMAIN,internal.awesomeads.superawesome.tv
 - DOMAIN,internalads.gammae.com
 - DOMAIN,internationaladschool.com
 - DOMAIN,internet-advanced-high-privacy.top
@@ -18832,6 +18849,7 @@ payload:
 - DOMAIN,jsconfig.adsafeprotected.com
 - DOMAIN,jserr.cnzz.com
 - DOMAIN,jsmedia.adsame.com
+- DOMAIN,jsng.adsafeprotected.com
 - DOMAIN,jsonads.upnerd.net
 - DOMAIN,jsqmt.qq.com
 - DOMAIN,jssdk.cf.mparticle.com
@@ -20194,7 +20212,6 @@ payload:
 - DOMAIN,meccasoffo.pro
 - DOMAIN,meccaspecc.pro
 - DOMAIN,med-api.admost.com
-- DOMAIN,medads.ru
 - DOMAIN,medagmicro.pro
 - DOMAIN,medagsbava.pro
 - DOMAIN,medal.blog.csdn.net
@@ -20399,6 +20416,7 @@ payload:
 - DOMAIN,metrics-ad-drcn.dt.hihonorcloud.cn
 - DOMAIN,metrics-ad-drcn.dt.hihonorcloud.com
 - DOMAIN,metrics-api.librato.com
+- DOMAIN,metrics.adswag.nl
 - DOMAIN,metrics.advisorchannel.com
 - DOMAIN,metrics.andersonadvisors.com
 - DOMAIN,metrics.api.drift.com
@@ -20982,6 +21000,7 @@ payload:
 - DOMAIN,n.ads3-adnow.com
 - DOMAIN,n.ads5-adnow.com
 - DOMAIN,n.ads7-adnow.com
+- DOMAIN,n.adv.lijit.com
 - DOMAIN,n.gameads.io
 - DOMAIN,n.lcads.ru
 - DOMAIN,n.pc1ads.com
@@ -23354,6 +23373,7 @@ payload:
 - DOMAIN,pre-adv.alimama.com
 - DOMAIN,pre-mpnewyear.uc.cn
 - DOMAIN,pre.ads.justpremium.com
+- DOMAIN,pre.awesomeads.staging.superawesome.tv
 - DOMAIN,pre2-ad.alimama.com
 - DOMAIN,pre2.ads.justpremium.com
 - DOMAIN,pre3-ad.alimama.com
@@ -23716,6 +23736,7 @@ payload:
 - DOMAIN,pubads-wiinvent.tv360.vn
 - DOMAIN,pubads.g.doubleclick.net
 - DOMAIN,pubads.g.doubleclick.uk.net
+- DOMAIN,pubads.gamob.com
 - DOMAIN,pubads.wiinvent.tv
 - DOMAIN,pubadx.one
 - DOMAIN,pubbldisna.pro
@@ -29509,6 +29530,7 @@ payload:
 - DOMAIN,testcdn.adsafeprotected.com
 - DOMAIN,testedbettong.pro
 - DOMAIN,testedcoati.pro
+- DOMAIN,testing.awesomeads.superawesome.tv
 - DOMAIN,tetandermo.pro
 - DOMAIN,tetheondur.pro
 - DOMAIN,tetheunvit.pro
@@ -31077,6 +31099,7 @@ payload:
 - DOMAIN,us-east-1.prod.pr.analytics.console.aws.a2z.com
 - DOMAIN,us-east-1.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,us-east-1.stinger-ad.bidr.io
+- DOMAIN,us-east-1.v3.awesomeads.staging.superawesome.tv
 - DOMAIN,us-east-1.v3.awesomeads.superawesome.tv
 - DOMAIN,us-east-2.ads.digital.disneyadvertising.com
 - DOMAIN,us-east-2.prod.pr.analytics.console.aws.a2z.com
@@ -31095,10 +31118,12 @@ payload:
 - DOMAIN,us-vast.unoadsrv.com
 - DOMAIN,us-west-2.aatars.audio.advertising.a2z.com
 - DOMAIN,us-west-2.ads.digital.disneyadvertising.com
+- DOMAIN,us-west-2.awesomeads.superawesome.tv
 - DOMAIN,us-west-2.ecs.mb.moatads.com
 - DOMAIN,us-west-2.prod.pr.analytics.console.aws.a2z.com
 - DOMAIN,us-west-2.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,us-west-2.stinger-ad.bidr.io
+- DOMAIN,us-west-2.v3.awesomeads.superawesome.tv
 - DOMAIN,us-west.3px.axp.amazon-adsystem.com
 - DOMAIN,us-west.aps.axp.amazon-adsystem.com
 - DOMAIN,us.ads.justpremium.com
@@ -31700,6 +31725,7 @@ payload:
 - DOMAIN,viserineri.pro
 - DOMAIN,visiocefal.pro
 - DOMAIN,visionaryfennec.pro
+- DOMAIN,visitor-gothamads.omnitagjs.com
 - DOMAIN,vistajewel.pro
 - DOMAIN,vistapruri.pro
 - DOMAIN,vistaswirl.pro

@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-20 09:48:34
+#更新时间: 2025-06-20 22:20:34
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -107,12 +107,13 @@ payload:
 - DOMAIN,26gtest.bj2cu.u3.ucweb.com
 - DOMAIN,27gtest.bj2cu.u3.ucweb.com
 - DOMAIN,28gtest.bj2cu.u3.ucweb.com
-- DOMAIN,29100371fb7a45de981232cf1a8a03ad-1ad356638475.cdn.forter.com
 - DOMAIN,29gtest.bj2cu.u3.ucweb.com
 - DOMAIN,2a81.ads.stickyadstv.com
 - DOMAIN,2baners.ero-advertising.com
+- DOMAIN,2ca5e9c4-4ee4-4c4b-9fad-41a0467c0adc.rlets.com
 - DOMAIN,2ciy2-9kbup.ads.tremorhub.com
 - DOMAIN,2ds.ero-advertising.com
+- DOMAIN,2e070ff3bd8141798ae1d9f55ae1ecad-95ede693072f.cdn.forter.com
 - DOMAIN,2er3vq.skadsdk.appsflyersdk.com
 - DOMAIN,2fbanners.ero-advertising.com
 - DOMAIN,2fflatfee.ero-advertising.com
@@ -178,7 +179,6 @@ payload:
 - DOMAIN,4pco5-s7rmw.ads.tremorhub.com
 - IP-CIDR,5.61.55.143/32
 - DOMAIN,50websads.com
-- DOMAIN,5421580206.rtb.monetixads.com
 - DOMAIN,5490.spedads.primosearch.com
 - DOMAIN,555win.mobi
 - DOMAIN,5726.bapi.adsafeprotected.com
@@ -203,6 +203,7 @@ payload:
 - DOMAIN,6psex-fm1gy.ads.tremorhub.com
 - DOMAIN,6psex-sootr.ads.tremorhub.com
 - DOMAIN,6uolf-9m282.ads.tremorhub.com
+- DOMAIN,6uolf-bjnbx.ads.tremorhub.com
 - DOMAIN,6uxx3e.skadsdkless.appsflyersdk.com
 - DOMAIN,778uc5.skadsdkless.appsflyersdk.com
 - DOMAIN,789.mobi
@@ -611,7 +612,6 @@ payload:
 - DOMAIN,acuityads.com
 - DOMAIN,acuivsetac.pro
 - DOMAIN,acutiiambu.pro
-- DOMAIN,acxmapi.acxiom.com
 - DOMAIN,acynoindit.pro
 - DOMAIN,ad-411.com
 - DOMAIN,ad-a.juicyad.com
@@ -725,7 +725,6 @@ payload:
 - DOMAIN,ad-locus.com
 - DOMAIN,ad-logging2.ap-northeast-2.elasticbeanstalk.com
 - DOMAIN,ad-m.asia
-- DOMAIN,ad-management.int.ad.dev.smartnews.net
 - DOMAIN,ad-management.srv.ad.dev.smartnews.net
 - DOMAIN,ad-mapps.com
 - DOMAIN,ad-material.ys7.com
@@ -2250,6 +2249,7 @@ payload:
 - DOMAIN,ads-2478i.iionads.com
 - DOMAIN,ads-2479l.iionads.com
 - DOMAIN,ads-2479t.iionads.com
+- DOMAIN,ads-247cr.iionads.com
 - DOMAIN,ads-58hnjs.rtb.admanmedia.com
 - DOMAIN,ads-87rvqi.bidder-embi.media
 - DOMAIN,ads-a.juicyads.com
@@ -5119,6 +5119,7 @@ payload:
 - DOMAIN,adservice.google.cd
 - DOMAIN,adservice.google.cf
 - DOMAIN,adservice.google.cg
+- DOMAIN,adservice.google.ch
 - DOMAIN,adservice.google.ci
 - DOMAIN,adservice.google.cl
 - DOMAIN,adservice.google.cm
@@ -5837,6 +5838,7 @@ payload:
 - DOMAIN,advantage.snigelweb.com
 - DOMAIN,advantageroughplay.com
 - DOMAIN,advantagesblareseizure.com
+- DOMAIN,advantagesresponse.com
 - DOMAIN,advantic01.webtrekk.net
 - DOMAIN,advantixmarketing.re.getclicky.com
 - DOMAIN,advanzia.containers.piwik.pro
@@ -5941,10 +5943,12 @@ payload:
 - DOMAIN,advertise.ru
 - DOMAIN,advertise.twitpic.com
 - DOMAIN,advertiseconclusiveactual.com
+- DOMAIN,advertisefranzsorrowful.com
 - DOMAIN,advertiseireland.com
 - DOMAIN,advertisement-2025.xyz
 - DOMAIN,advertisement.avosapps.us
 - DOMAIN,advertisement.vg.no
+- DOMAIN,advertisementhappy.com
 - DOMAIN,advertisementhelp2025-ai.site
 - DOMAIN,advertisementnl.112.2o7.net
 - DOMAIN,advertisementpolicy-2025.xyz
@@ -6056,9 +6060,11 @@ payload:
 - DOMAIN,advimage.bolink.club
 - DOMAIN,advimg.ad-mapps.com
 - DOMAIN,advincent.com
+- DOMAIN,advisedhybridtiresome.com
 - DOMAIN,advisedlycourier.com
 - DOMAIN,advisedwhenever.com
 - DOMAIN,adviser.bs-dante.ru
+- DOMAIN,adviseshakethrilled.com
 - DOMAIN,advisible.com
 - DOMAIN,advision-adnw.genieesspv.jp
 - DOMAIN,advision-adnw.jp
@@ -6067,6 +6073,7 @@ payload:
 - DOMAIN,advisionsort.yicha.jp
 - DOMAIN,advisionweb.yicha.jp
 - DOMAIN,advisionwebp.yicha.jp
+- DOMAIN,advisoramazingly.com
 - DOMAIN,advisorapi.purplepatch.online
 - DOMAIN,advisorbailedroof.com
 - DOMAIN,advisorhurtfulqueen.com
@@ -6763,7 +6770,6 @@ payload:
 - DOMAIN,analytics.adpost.org
 - DOMAIN,analytics.adsum.io
 - DOMAIN,analytics.adultswim.co.uk
-- DOMAIN,analytics.advalo.com
 - DOMAIN,analytics.algoepico.net
 - DOMAIN,analytics.amakings.com
 - DOMAIN,analytics.ambient-platform.com
@@ -7422,6 +7428,7 @@ payload:
 - DOMAIN,api.ad.xv555.com
 - DOMAIN,api.ad.yipinread.com
 - DOMAIN,api.ad4game.com
+- DOMAIN,api.ada-cloud.com
 - DOMAIN,api.adaether.com
 - DOMAIN,api.adalytics.adastra.digital
 - DOMAIN,api.adapty.io
@@ -7727,11 +7734,8 @@ payload:
 - DOMAIN,api.donglogs.com
 - DOMAIN,api.dotmetrics.net
 - DOMAIN,api.doumob.com
-- DOMAIN,api.dpa.acxiom.com
-- DOMAIN,api.dpaappdev.acxiom.com
 - DOMAIN,api.dsp.madserving.com
 - DOMAIN,api.dsp.yhd.com
-- DOMAIN,api.dtk.abtasty.com
 - DOMAIN,api.dttrk.com
 - DOMAIN,api.duapp.com
 - DOMAIN,api.e-pfg.ca
@@ -7820,7 +7824,6 @@ payload:
 - DOMAIN,api.hb88p.com
 - DOMAIN,api.hdbet.com
 - DOMAIN,api.hdtv.letv.com
-- DOMAIN,api.health.acxiom.com
 - DOMAIN,api.hellay.net
 - DOMAIN,api.hfyhjg.cn
 - DOMAIN,api.hisavana.com
@@ -7956,6 +7959,7 @@ payload:
 - DOMAIN,api.mg2insights.com
 - DOMAIN,api.mgid.com
 - DOMAIN,api.midas-network.com
+- DOMAIN,api.mie.exponea.com
 - DOMAIN,api.min88.com
 - DOMAIN,api.minero.cc
 - DOMAIN,api.mini.wps.cn
@@ -10307,6 +10311,7 @@ payload:
 - DOMAIN,byteadverts.com
 - DOMAIN,byxihiu1.pro
 - DOMAIN,byzumie.pro
+- DOMAIN,bz.adx.opera.com
 - DOMAIN,bzyjuqla.pro
 - DOMAIN,c-adash.m.taobao.com
 - DOMAIN,c.aaxads.com
@@ -10381,8 +10386,6 @@ payload:
 - DOMAIN,c03.adsummos.net
 - DOMAIN,c04.adsummos.net
 - DOMAIN,c1.popads.net
-- DOMAIN,c1111.ileads.acxiom.com
-- DOMAIN,c1112.ileads.acxiom.com
 - DOMAIN,c14825a7a6304202b947f4f98a6b06ad-66ccc49f0c00.cdn.forter.com
 - DOMAIN,c2.l.qq.com
 - DOMAIN,c2.popads.net
@@ -13266,7 +13269,6 @@ payload:
 - DOMAIN,dev.gen.adsrvr.org
 - DOMAIN,dev.hb.brainlyads.com
 - DOMAIN,dev.mobilead.vn
-- DOMAIN,dev.smartnews-ads.com
 - DOMAIN,dev.tg.wan.360.cn
 - DOMAIN,dev.umeng.com
 - DOMAIN,dev01.ad4game.com
@@ -14231,7 +14233,6 @@ payload:
 - DOMAIN,e1.extreme-dm.com
 - DOMAIN,e2.extreme-dm.com
 - DOMAIN,e6730835260c4035ab5f625e5a05d2ad-07c0aec6173f.cdn.forter.com
-- DOMAIN,e684b2f7-ebbe-47ad-8f47-851540976fdd-pdata-v4.unique.k.fastly-insights.com
 - DOMAIN,e7246.adserverevent.com
 - DOMAIN,ead-soft.popunder.ru
 - DOMAIN,eadizuentin.pro
@@ -14359,7 +14360,6 @@ payload:
 - DOMAIN,edchargina.pro
 - DOMAIN,edeeposte.pro
 - DOMAIN,edenscapese.pro
-- DOMAIN,edge-beta.ads.twitch.tv
 - DOMAIN,edge.ads.twitch.tv
 - DOMAIN,edge.analytics.brightedge.com
 - DOMAIN,edge.metroleads.com
@@ -15135,6 +15135,7 @@ payload:
 - DOMAIN,fazenradio.pro
 - DOMAIN,fazoteu9.pro
 - DOMAIN,fb.adsrvr.org
+- DOMAIN,fc35ee3741fd4be3a91cd59fb51ca9ad-09e403235951.cdn.forter.com
 - DOMAIN,fcanr.tracking.miui.com
 - DOMAIN,fcapi.jpush.cn
 - DOMAIN,fcb8.mobi
@@ -16279,6 +16280,7 @@ payload:
 - DOMAIN,gleefulvista.pro
 - DOMAIN,gleefulvortex.pro
 - DOMAIN,gleefulzone.pro
+- DOMAIN,gleemsoadsooms.net
 - DOMAIN,glewinest.pro
 - DOMAIN,glicichoco.pro
 - DOMAIN,glidedash.pro
@@ -17013,6 +17015,7 @@ payload:
 - DOMAIN,hehaway3.pro
 - DOMAIN,hekinay2.pro
 - DOMAIN,helicbrain.pro
+- DOMAIN,helios-ads.dev.core.ssidevops.com
 - DOMAIN,heliosure.pro
 - DOMAIN,heliotrans.pro
 - DOMAIN,heliumads.com
@@ -17541,7 +17544,6 @@ payload:
 - DOMAIN,ikhgg.snalkdl.top
 - DOMAIN,ikroetdring.pro
 - DOMAIN,ilce.alicdn.com
-- DOMAIN,ileads.acxiom.com
 - DOMAIN,ileitsneez.pro
 - DOMAIN,illegalbittern.pro
 - DOMAIN,illegalbumblebee.pro
@@ -19236,7 +19238,6 @@ payload:
 - DOMAIN,lb-adsdis.mng-ads.com
 - DOMAIN,lb-adsmob.mng-ads.com
 - DOMAIN,lb.aaxads.com
-- DOMAIN,lb.analytics.advalo.com
 - DOMAIN,lb.gtimg.com
 - DOMAIN,lb.l.qq.com
 - DOMAIN,lb3.aaxads.com
@@ -20166,6 +20167,7 @@ payload:
 - DOMAIN,material.mediav.com
 - DOMAIN,mathads.com
 - DOMAIN,maticooads.com
+- DOMAIN,matomo.auroratrainingadvantage.com
 - DOMAIN,matomy.adk2.co
 - DOMAIN,matriingro.pro
 - DOMAIN,matrolallte.pro
@@ -20619,7 +20621,6 @@ payload:
 - DOMAIN,mjxads.internet.com
 - DOMAIN,mkt-advertisement.tuhu.cn
 - DOMAIN,mktsound.cos.tx.xmcdn.com
-- DOMAIN,mlx.smartnews-ads.com
 - DOMAIN,mma.admaster.com.cn
 - DOMAIN,mmads.gotrackier.com
 - DOMAIN,mmg.aty.cp45.ott.cibntv.net
@@ -20677,6 +20678,7 @@ payload:
 - DOMAIN,mobileleads.msn.com
 - DOMAIN,mobilesdk-us.kampyle.com
 - DOMAIN,mobilesdk.djaxadserver.com
+- DOMAIN,mobilesdk.useinsider.com
 - DOMAIN,mobilevideo.djaxadserver.com
 - DOMAIN,mobpartner.mobi
 - DOMAIN,mobulcreti.pro
@@ -21955,8 +21957,6 @@ payload:
 - DOMAIN,origin-ads.exdynsrv.com
 - DOMAIN,origin-ads.exoclick.com
 - DOMAIN,origin-prod.mnetads.com
-- DOMAIN,origin.edge-beta.ads.twitch.tv
-- DOMAIN,origin.edge.ads.twitch.tv
 - DOMAIN,originalhedgehog.pro
 - DOMAIN,origiredat.pro
 - DOMAIN,origlsuper.pro
@@ -24727,6 +24727,7 @@ payload:
 - DOMAIN,relay-bg.ads.httpool.com
 - DOMAIN,relay-bg.toboads.com
 - DOMAIN,relay-cz.ads.httpool.com
+- DOMAIN,relay-dsp.ad-m.asia
 - DOMAIN,relay-ks.ads.httpool.com
 - DOMAIN,relay-mk.ads.httpool.com
 - DOMAIN,relay-rs.ads.httpool.com
@@ -25632,6 +25633,7 @@ payload:
 - DOMAIN,rtbapi.douyucdn.cn
 - DOMAIN,rtbflairads.com
 - DOMAIN,rtbus.ssp.metaxads.com
+- DOMAIN,rtk.trk.smartexpenseadvisor.com
 - DOMAIN,rts.mobula.sdk.duapps.com
 - DOMAIN,rtus-js.ad-stir.com
 - DOMAIN,ru-geo.cityads.com
@@ -26469,7 +26471,6 @@ payload:
 - DOMAIN,scuffbodys.pro
 - DOMAIN,sculdcocks.pro
 - DOMAIN,scutichapi.pro
-- DOMAIN,scvapi.eu.acxiom.com
 - DOMAIN,sd.360.cn
 - DOMAIN,sdegnincip.pro
 - DOMAIN,sdfp.snssdk.com
@@ -28321,7 +28322,6 @@ payload:
 - DOMAIN,st.pcads.ru
 - DOMAIN,st.vidads.gr
 - DOMAIN,st.yandexadexchange.net
-- DOMAIN,st11p01ad-data-api-ims.iad.apple.com
 - DOMAIN,st3.wagbridge.advertisement.tanx.com
 - DOMAIN,stable-europe-west4.nest.ads.audio.thisisdax.com
 - DOMAIN,stable-us-east1.nest.ads.audio.thisisdax.com
@@ -28510,7 +28510,6 @@ payload:
 - DOMAIN,stats.juicyads.com
 - DOMAIN,stats.l.doubleclick.net
 - DOMAIN,stats.mokeedev.com
-- DOMAIN,stats.muchbetteradventures.com
 - DOMAIN,stats.netsolads.com
 - DOMAIN,stats.pandora.com
 - DOMAIN,stats.pflexads.com
@@ -28588,7 +28587,6 @@ payload:
 - DOMAIN,stg-data-tw.ads.heytapmobile.com
 - DOMAIN,stg-data-vn.ads.heytapmobile.com
 - DOMAIN,stg-data.ads.heytapmobi.com
-- DOMAIN,stg.smartnews-ads.com
 - DOMAIN,stgowan.com
 - DOMAIN,stiatdecid.pro
 - DOMAIN,stickparti.pro
@@ -30077,6 +30075,7 @@ payload:
 - DOMAIN,trackadsb1.com
 - DOMAIN,trackadshub.com
 - DOMAIN,tracker-api.my.com
+- DOMAIN,tracker-b.iionads.com
 - DOMAIN,tracker.ads-rtbdemand.com
 - DOMAIN,tracker.ads-tinyorbit.com
 - DOMAIN,tracker.ads.sportradar.com
@@ -31233,7 +31232,6 @@ payload:
 - DOMAIN,usw1-secure.smartadserver.com
 - DOMAIN,usw1.smartadserver.com
 - DOMAIN,usw2-ads-alb.yieldmo.com
-- DOMAIN,usw2-ads-proxy-temp-general-v2.yieldmo.com
 - DOMAIN,usw2-ads-proxy-temp-general-v4.yieldmo.com
 - DOMAIN,usw2-ads-proxy-temp-general-v5.yieldmo.com
 - DOMAIN,usw2.smartadserver.com
@@ -31503,6 +31501,7 @@ payload:
 - DOMAIN,veqogya.pro
 - DOMAIN,veracdisal.pro
 - DOMAIN,verasincer.pro
+- DOMAIN,veraviews.rtb.monetixads.com
 - DOMAIN,verbacromo.pro
 - DOMAIN,verdantdream.pro
 - DOMAIN,verdantdreamer.pro
@@ -31730,6 +31729,7 @@ payload:
 - DOMAIN,vindlaggi.pro
 - DOMAIN,vineyinval.pro
 - DOMAIN,vintagehaven.pro
+- DOMAIN,vinted-1.leadsmonitor.io
 - DOMAIN,vinted-pl.check-buy100.shop
 - DOMAIN,vinted-pl.check-buy103.shop
 - DOMAIN,vinted-pl.check-buy104.shop
@@ -50262,7 +50262,6 @@ payload:
 - DOMAIN,xmadsdk.cos.tx.xmcdn.com
 - DOMAIN,xml-console.xapads.com
 - DOMAIN,xml-default.xapads.com
-- DOMAIN,xml-eu-v4.kunvertads.com
 - DOMAIN,xml-eu.flairadscpc.com
 - DOMAIN,xml-rtb.xapads.com
 - DOMAIN,xml-v4.adsfloow.net

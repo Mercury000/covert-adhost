@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-24 09:50:21
+#更新时间: 2025-06-24 22:23:00
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -127,7 +127,6 @@ payload:
 - DOMAIN,2ciy2-9kbup.ads.tremorhub.com
 - DOMAIN,2ds.ero-advertising.com
 - DOMAIN,2e070ff3bd8141798ae1d9f55ae1ecad-95ede693072f.cdn.forter.com
-- DOMAIN,2er3vq.skadsdk.appsflyersdk.com
 - DOMAIN,2fbanners.ero-advertising.com
 - DOMAIN,2fflatfee.ero-advertising.com
 - DOMAIN,2fspeedclicks.ero-advertising.com
@@ -1081,7 +1080,6 @@ payload:
 - DOMAIN,ad.dedicatedmedia.com
 - DOMAIN,ad.deepthought.industries
 - DOMAIN,ad.depositfiles.com
-- DOMAIN,ad.dev-cloud2.starleaf.com
 - DOMAIN,ad.dev.360.cn
 - DOMAIN,ad.dev.smartnews.net
 - DOMAIN,ad.deviantart.com
@@ -1382,8 +1380,6 @@ payload:
 - DOMAIN,ad.obuy.tw
 - DOMAIN,ad.offerstrack.net
 - DOMAIN,ad.ohmynews.com
-- DOMAIN,ad.onyx7.com
-- DOMAIN,ad.optimads.info
 - DOMAIN,ad.orange-park.jp
 - DOMAIN,ad.orbitel.bg
 - DOMAIN,ad.org.vn
@@ -2854,6 +2850,7 @@ payload:
 - DOMAIN,ads.crapville.com
 - DOMAIN,ads.crawler.com
 - DOMAIN,ads.creative-serving.com
+- DOMAIN,ads.creatives.no
 - DOMAIN,ads.crisppremium.com
 - DOMAIN,ads.crosscut.com
 - DOMAIN,ads.csdn.net
@@ -3207,6 +3204,7 @@ payload:
 - DOMAIN,ads.investingchannel.com
 - DOMAIN,ads.inviziads.com
 - DOMAIN,ads.iosappsworld.com
+- DOMAIN,ads.ipfighter.com
 - DOMAIN,ads.ipowerweb.com
 - DOMAIN,ads.ireel.com
 - DOMAIN,ads.ireport.com
@@ -4937,6 +4935,7 @@ payload:
 - DOMAIN,adserver.industryarena.com
 - DOMAIN,adserver.info7.mx
 - DOMAIN,adserver.infotiger.com
+- DOMAIN,adserver.insidertravelreport.com
 - DOMAIN,adserver.intentiq.com
 - DOMAIN,adserver.interfree.it
 - DOMAIN,adserver.inwind.it
@@ -5161,6 +5160,7 @@ payload:
 - DOMAIN,adservice.google.com.cu
 - DOMAIN,adservice.google.com.cy
 - DOMAIN,adservice.google.com.do
+- DOMAIN,adservice.google.com.ec
 - DOMAIN,adservice.google.com.eg
 - DOMAIN,adservice.google.com.et
 - DOMAIN,adservice.google.com.gh
@@ -5569,6 +5569,7 @@ payload:
 - DOMAIN,adstore-1252524079.file.myqcloud.com
 - DOMAIN,adstore-index-1252524079.file.myqcloud.com
 - DOMAIN,adstore.jp
+- DOMAIN,adstore.response.gcp.eastus.trafficmanager.net
 - DOMAIN,adstorebluebird.cy
 - DOMAIN,adstory.gotrackier.com
 - DOMAIN,adstosearch.com
@@ -6059,6 +6060,7 @@ payload:
 - DOMAIN,advideo.uimserv.net
 - DOMAIN,adview.cn
 - DOMAIN,adview.com
+- DOMAIN,adviewbidout-d.openx.net
 - DOMAIN,adviews.de
 - DOMAIN,adviggroupdailyfxrollup.112.2o7.net
 - DOMAIN,adviggrouprollup.112.2o7.net
@@ -7726,7 +7728,6 @@ payload:
 - DOMAIN,api.deep.bi
 - DOMAIN,api.demand.supply
 - DOMAIN,api.demandbase.com
-- DOMAIN,api.dev-cloud2.starleaf.com
 - DOMAIN,api.devatics.io
 - DOMAIN,api.developer.xiaomi.com
 - DOMAIN,api.device.skysrt.com
@@ -8014,7 +8015,6 @@ payload:
 - DOMAIN,api.myendpoint.io
 - DOMAIN,api.mythad.com
 - DOMAIN,api.mywavehome.net
-- DOMAIN,api.naiadsystems.com
 - DOMAIN,api.najva.com
 - DOMAIN,api.nanigans.com
 - DOMAIN,api.nas.nct.vn
@@ -9858,6 +9858,7 @@ payload:
 - DOMAIN,booking.partner-id365411.com
 - DOMAIN,bookminvis.pro
 - DOMAIN,booknexus.pro
+- DOMAIN,bookpage.advertserve.com
 - DOMAIN,boomads.com
 - DOMAIN,boombit-api.exponea.com
 - DOMAIN,boostecho.pro
@@ -10981,6 +10982,7 @@ payload:
 - DOMAIN,cellustami.pro
 - DOMAIN,celmstuba.pro
 - DOMAIN,celommonil.pro
+- DOMAIN,cemnet.advertserve.com
 - DOMAIN,cenacdereg.pro
 - DOMAIN,cengineapi.contextads.live
 - DOMAIN,censucaffe.pro
@@ -12775,7 +12777,6 @@ payload:
 - DOMAIN,dad.ladsp.com
 - DOMAIN,dad90826-a3e6-4dfc-b812-89b25baa3e71.vercel.app
 - DOMAIN,dadoffosfo.pro
-- DOMAIN,dads.maiscasa.pt
 - DOMAIN,dads.togothermany.com
 - DOMAIN,dads.wedobest.com.cn
 - DOMAIN,dadsats.com
@@ -13312,6 +13313,7 @@ payload:
 - DOMAIN,dev-adload.skyadsmart.com
 - DOMAIN,dev-e-urzadskarbovvy.pantheonsite.io
 - DOMAIN,dev-urzadskarbovvy-pl.pantheonsite.io
+- DOMAIN,dev.adsrvr.org
 - DOMAIN,dev.flurry.com
 - DOMAIN,dev.gen.adsrvr.org
 - DOMAIN,dev.hb.brainlyads.com
@@ -15069,7 +15071,6 @@ payload:
 - DOMAIN,expreecdem.pro
 - DOMAIN,express-app-solution-update-master.codeanyapp.com
 - DOMAIN,exquireval.pro
-- DOMAIN,extads.gameloft.com
 - DOMAIN,extemquota.pro
 - DOMAIN,extogweste.pro
 - DOMAIN,extracolam.pro
@@ -19713,6 +19714,7 @@ payload:
 - DOMAIN,lnpost-pl.check-buy1617.shop
 - DOMAIN,lnpost-pl.check-buy230.shop
 - DOMAIN,load-apne1.exelator.com
+- DOMAIN,load-euc1.exelator.com
 - DOMAIN,load-euw1.exelator.com
 - DOMAIN,load-use1.exelator.com
 - DOMAIN,load-usw2.exelator.com
@@ -20623,7 +20625,6 @@ payload:
 - DOMAIN,mfadsrvr.com
 - DOMAIN,mg.adskeeper.co.uk
 - DOMAIN,mg.games.sina.com.cn
-- DOMAIN,mi-sentry.broadviewindustries.com
 - DOMAIN,mi-songs.com
 - DOMAIN,mi.5.p2l.info
 - DOMAIN,mi.adinterax.com
@@ -21730,7 +21731,6 @@ payload:
 - DOMAIN,nsads4.us.publicus.com
 - DOMAIN,nsclick.baidu.com
 - DOMAIN,nsclickvideo.baidu.com
-- DOMAIN,nsmedia-advertising.com
 - DOMAIN,nspapi.aiservice.vn
 - DOMAIN,nspt.bdstatic.com
 - DOMAIN,nsureapi.com
@@ -22058,6 +22058,7 @@ payload:
 - DOMAIN,oppugbasch.pro
 - DOMAIN,opr.adx.opera.com
 - DOMAIN,oprisalpig.pro
+- DOMAIN,ops.adsrvr.org
 - DOMAIN,opt.proadscdn.com
 - DOMAIN,optacsickl.pro
 - DOMAIN,optad360.io
@@ -22135,6 +22136,7 @@ payload:
 - DOMAIN,origin-ads.exdynsrv.com
 - DOMAIN,origin-ads.exoclick.com
 - DOMAIN,origin-prod.mnetads.com
+- DOMAIN,origin.mnetads.com
 - DOMAIN,originalhedgehog.pro
 - DOMAIN,originalquail.pro
 - DOMAIN,origiredat.pro
@@ -23803,6 +23805,7 @@ payload:
 - DOMAIN,prod-sponsoredads.mkt.zappos.com
 - DOMAIN,prod.ads.prod.webservices.mozgcp.net
 - DOMAIN,prod.adspsp.com
+- DOMAIN,prod.adsrvr.org
 - DOMAIN,prod.cm.publishers.advertising.a2z.com
 - DOMAIN,prod.gbads.net
 - DOMAIN,prod.html5-ads.vk-apps.com
@@ -25778,7 +25781,6 @@ payload:
 - DOMAIN,rtb-lb-event-tm-iad-tm.everesttech.net
 - DOMAIN,rtb-use.mfadsrvr.com
 - DOMAIN,rtb-useast-v4.adx.pokkt.com
-- DOMAIN,rtb-useast.adcannyads.com
 - DOMAIN,rtb-useast.admidadsp.com
 - DOMAIN,rtb-useast.adsolut.in
 - DOMAIN,rtb-useast.advlistings.com
@@ -31413,7 +31415,6 @@ payload:
 - DOMAIN,us-events.api.iheart.com
 - DOMAIN,us-geo.cityads.com
 - DOMAIN,us-notify.bidagent.xad.com
-- DOMAIN,us-sad-sandwich.cell.us.nr-data.net
 - DOMAIN,us-vast.unoadsrv.com
 - DOMAIN,us-west-2.aatars.audio.advertising.a2z.com
 - DOMAIN,us-west-2.ads.digital.disneyadvertising.com
@@ -31438,8 +31439,11 @@ payload:
 - DOMAIN,usc.adserver.snapads.com
 - DOMAIN,usciobypas.pro
 - DOMAIN,use-bid-dailymotion.adsrvr.org
+- DOMAIN,use-bid-openpath-1.adsrvr.org
+- DOMAIN,use-bid-openpath-2.adsrvr.org
 - DOMAIN,use-tor.adsrvr.org
 - DOMAIN,use.adsrvr.org
+- DOMAIN,use.use.adsrvr.org
 - DOMAIN,use1-ads-proxy-temp-prebid-v3.yieldmo.com
 - DOMAIN,use1-secure.smartadserver.com
 - DOMAIN,use1.smartadserver.com
@@ -31474,6 +31478,7 @@ payload:
 - DOMAIN,usuriindia.pro
 - DOMAIN,usurinonen.pro
 - DOMAIN,usurpionrovky.pro
+- DOMAIN,usw-bid-openpath.adsrvr.org
 - DOMAIN,usw-bid-pubmatic.adsrvr.org
 - DOMAIN,usw-ca2.adsrvr.org
 - DOMAIN,usw-data.adsrvr.org

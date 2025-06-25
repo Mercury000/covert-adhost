@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-25 09:50:19
+#更新时间: 2025-06-25 22:22:45
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -139,6 +139,7 @@ payload:
 - DOMAIN,30gtest.bj2cu.u3.ucweb.com
 - DOMAIN,31gtest.bj2cu.u3.ucweb.com
 - DOMAIN,35.adsina.allyes.com
+- DOMAIN,35y9sib5azfou7f6eyxygbr34r3x7konx32wadsabb36c4fcc8a4d183sac.d.aa.online-metrix.net
 - DOMAIN,36.adsina.allyes.com
 - DOMAIN,360-g.cn
 - DOMAIN,360.anatic.net
@@ -495,6 +496,7 @@ payload:
 - DOMAIN,abtest-ch.snssdk.com
 - DOMAIN,abtest.mistat.xiaomi.com
 - DOMAIN,abuijx.skadsdk.appsflyersdk.com
+- DOMAIN,abuijx.skadsdkless.appsflyersdk.com
 - DOMAIN,abygzwpljt.pro
 - DOMAIN,ac.mmstat.com
 - DOMAIN,ac1.cloud.net.cn
@@ -1088,6 +1090,7 @@ payload:
 - DOMAIN,ad.directrev.com
 - DOMAIN,ad.dk.doubleclick.net
 - DOMAIN,ad.dl.mainpost.de
+- DOMAIN,ad.dl.mz.de
 - DOMAIN,ad.dl.volksstimme.de
 - DOMAIN,ad.dlbooks.to
 - DOMAIN,ad.dlrwebservice.com
@@ -2277,6 +2280,8 @@ payload:
 - DOMAIN,ads-2479t.iionads.com
 - DOMAIN,ads-247bg.iionads.com
 - DOMAIN,ads-247cr.iionads.com
+- DOMAIN,ads-247cu.iionads.com
+- DOMAIN,ads-247cv.iionads.com
 - DOMAIN,ads-58hnjs.rtb.admanmedia.com
 - DOMAIN,ads-87rvqi.bidder-embi.media
 - DOMAIN,ads-a.juicyads.com
@@ -2741,6 +2746,7 @@ payload:
 - DOMAIN,ads.bridgebase.com
 - DOMAIN,ads.bridgetrack.com
 - DOMAIN,ads.bridgetrack.com.edgesuite.net
+- DOMAIN,ads.brzchecagem.com
 - DOMAIN,ads.bsplayer.com
 - DOMAIN,ads.bstlnk.com
 - DOMAIN,ads.buljobs.bg
@@ -2896,6 +2902,7 @@ payload:
 - DOMAIN,ads.digital.disneyadvertising.com
 - DOMAIN,ads.digitalacre.com
 - DOMAIN,ads.digitalalchemy.tv
+- DOMAIN,ads.digitalbee.al
 - DOMAIN,ads.digitalcaramel.com
 - DOMAIN,ads.digitalfirstmedia.com
 - DOMAIN,ads.digitalmedianet.com
@@ -5160,7 +5167,6 @@ payload:
 - DOMAIN,adservice.google.com.cu
 - DOMAIN,adservice.google.com.cy
 - DOMAIN,adservice.google.com.do
-- DOMAIN,adservice.google.com.ec
 - DOMAIN,adservice.google.com.eg
 - DOMAIN,adservice.google.com.et
 - DOMAIN,adservice.google.com.gh
@@ -7247,6 +7253,7 @@ payload:
 - DOMAIN,ap.read.mediation.pns.ap.orangeads.fr
 - DOMAIN,apa-sin.adsrvr.org
 - DOMAIN,apac-ads.flurry.com
+- DOMAIN,apac-bid-openpath.adsrvr.org
 - DOMAIN,apac-hk-ads.aralego.net
 - DOMAIN,apac-sg-ad-track.aralego.com
 - DOMAIN,apac-tw-ad-track.aralego.com
@@ -13004,6 +13011,8 @@ payload:
 - DOMAIN,dcapi.tagger.opecloud.com
 - DOMAIN,dcci.adsame.com
 - DOMAIN,dcdn.adnxs.com
+- DOMAIN,dcm-gql.digital.disneyadvertising.com
+- DOMAIN,dcm.disneyadvertising.com
 - DOMAIN,dcntr-ads.com
 - DOMAIN,dco-assets.everestads.net
 - DOMAIN,dcrfnt-us.adsmoloco.com
@@ -14945,6 +14954,7 @@ payload:
 - DOMAIN,euphoricspace.pro
 - DOMAIN,euploadatt.pro
 - DOMAIN,eur-bid-hubvisor.adsrvr.org
+- DOMAIN,eur-bid-openpath.adsrvr.org
 - DOMAIN,eur-ukp.adsrvr.org
 - DOMAIN,eurads.simpli.fi
 - DOMAIN,eurascariu.pro
@@ -31610,7 +31620,6 @@ payload:
 - DOMAIN,vads.net.vn
 - DOMAIN,vads.vn
 - DOMAIN,vae-bid.adsrvr.org
-- DOMAIN,vaes.amazon-adsystem.com
 - DOMAIN,vafw.adsafeprotected.com
 - DOMAIN,vagabondhorse.pro
 - DOMAIN,vagarumfaa.pro
@@ -32028,6 +32037,7 @@ payload:
 - DOMAIN,viridianlabradoodle.pro
 - DOMAIN,viridianrad.pro
 - DOMAIN,viridianraven.pro
+- DOMAIN,visableleads.com
 - DOMAIN,visagnonpr.pro
 - DOMAIN,viscitimpa.pro
 - DOMAIN,viscomonod.pro
@@ -49803,6 +49813,7 @@ payload:
 - DOMAIN,www.viridianlabradoodle.pro
 - DOMAIN,www.viridianrad.pro
 - DOMAIN,www.viridianraven.pro
+- DOMAIN,www.visableleads.com
 - DOMAIN,www.visagnonpr.pro
 - DOMAIN,www.viscitimpa.pro
 - DOMAIN,www.viscomonod.pro

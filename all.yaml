@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-27 09:50:03
+#更新时间: 2025-06-27 22:21:12
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -140,6 +140,7 @@ payload:
 - DOMAIN,31gtest.bj2cu.u3.ucweb.com
 - DOMAIN,35.adsina.allyes.com
 - DOMAIN,35y9sib5azfou7f6eyxygbr34r3x7konx32wadsabb36c4fcc8a4d183sac.d.aa.online-metrix.net
+- DOMAIN,35y9sib5hf23pgfvvvd4hdcmpvokxq5bsjbqjzif67c3259f12214eadsac.d.aa.online-metrix.net
 - DOMAIN,35y9sib5sbadxczxg3ligmwemu4qzcdnte6bt5ni0761cfbe219878ddsac.d.aa.online-metrix.net
 - DOMAIN,36.adsina.allyes.com
 - DOMAIN,360-g.cn
@@ -383,8 +384,10 @@ payload:
 - DOMAIN,aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-cf.eu-central.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
+- DOMAIN,aax-events-cell02-cf.us-west.3px.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02-wt.ap-southeast.aps.axp.amazon-adsystem.com
 - DOMAIN,aax-events-cell02.eu-central.3px.axp.amazon-adsystem.com
+- DOMAIN,aax-events-wt.us-west.ono.axp.amazon-adsystem.com
 - DOMAIN,aax-fe-sin.amazon-adsystem.com
 - DOMAIN,aax-fe.amazon-adsystem.com
 - DOMAIN,aax-ott-c2s.amazon-adsystem.com
@@ -2447,6 +2450,7 @@ payload:
 - DOMAIN,ads-privacy-api.prd.mz.internal.unity3d.com
 - DOMAIN,ads-privacy.gadsme.com
 - DOMAIN,ads-query.luizalabs.com
+- DOMAIN,ads-r9cddc.ortb.vdo.ai
 - DOMAIN,ads-r9cddd.ortb.vdo.ai
 - DOMAIN,ads-r9cdde.ortb.vdo.ai
 - DOMAIN,ads-r9cdds.ortb.vdo.ai
@@ -4393,6 +4397,7 @@ payload:
 - DOMAIN,ads215.adtelligent.com
 - DOMAIN,ads216.adtelligent.com
 - DOMAIN,ads217.adtelligent.com
+- DOMAIN,ads217.unoadsrv.com
 - DOMAIN,ads218.adtelligent.com
 - DOMAIN,ads219.adtelligent.com
 - DOMAIN,ads22-normal-hl.zijieapi.com
@@ -4907,6 +4912,7 @@ payload:
 - DOMAIN,adserver.asiafriendfinder.com
 - DOMAIN,adserver.asnetworks.de
 - DOMAIN,adserver.assistads.net
+- DOMAIN,adserver.associationheadquarters.com
 - DOMAIN,adserver.atdnetwork.com
 - DOMAIN,adserver.b2c.com
 - DOMAIN,adserver.bafrahaber.com
@@ -6067,6 +6073,7 @@ payload:
 - DOMAIN,advertisingbox.com
 - DOMAIN,advertisingcentral.yahoosearchmarketingin.com
 - DOMAIN,advertisingcom.122.2o7.net
+- DOMAIN,advertisinglanding3.com
 - DOMAIN,advertisinglanding4.com
 - DOMAIN,advertizmenttoyou.com
 - DOMAIN,advertlink.ru
@@ -11802,6 +11809,7 @@ payload:
 - DOMAIN,clevercoyote.pro
 - DOMAIN,cleverharbor.pro
 - DOMAIN,click-2.eu
+- DOMAIN,click-adshustle.appanalytics.in
 - DOMAIN,click-haproxy.supersonicads.com
 - DOMAIN,click-klient.go-domain.shop
 - DOMAIN,click-money-app.com
@@ -13885,6 +13893,7 @@ payload:
 - DOMAIN,diramperno.pro
 - DOMAIN,dirampyrid.pro
 - DOMAIN,diramstell.pro
+- DOMAIN,direct-ads.adtelligent.com
 - DOMAIN,direct-ads.vertamedia.com
 - DOMAIN,direct.ad-core-lb-v3.lf.bytelb.net
 - DOMAIN,direct.adsrvr.org
@@ -15142,6 +15151,7 @@ payload:
 - DOMAIN,entonstona.pro
 - DOMAIN,entroinnam.pro
 - DOMAIN,entry.baidu.com
+- DOMAIN,entry.video-ads.a2z.com
 - DOMAIN,entwismaga.pro
 - DOMAIN,enuclrecir.pro
 - DOMAIN,enumeavvin.pro
@@ -19367,6 +19377,7 @@ payload:
 - DOMAIN,ipotatrock.pro
 - DOMAIN,ipotilumin.pro
 - DOMAIN,ippobesang.pro
+- DOMAIN,iptil.richadslead.top
 - DOMAIN,ipw.metadsp.co.uk
 - DOMAIN,iq.ads.justpremium.com
 - DOMAIN,iqiyi.irs01.com
@@ -20782,6 +20793,7 @@ payload:
 - DOMAIN,lunefizz.pro
 - DOMAIN,lungfproti.pro
 - DOMAIN,luniggarib.pro
+- DOMAIN,luoqdtopebadx.store
 - DOMAIN,lupic.cdn.bcebos.com
 - DOMAIN,luridinsev.pro
 - DOMAIN,lurkingaardwolf.pro
@@ -23706,6 +23718,7 @@ payload:
 - DOMAIN,padsdel.com
 - DOMAIN,padsims.com
 - DOMAIN,padv.co.il
+- DOMAIN,padvuraqsru.com
 - DOMAIN,pafiri-banase.pro
 - DOMAIN,pagandotas.pro
 - DOMAIN,paganidiol.pro
@@ -24937,6 +24950,7 @@ payload:
 - DOMAIN,primareinv.pro
 - DOMAIN,primariech.pro
 - DOMAIN,primavera-p6-pro.online
+- DOMAIN,primeadslink.top
 - DOMAIN,primedadvisors.com
 - DOMAIN,primescate.pro
 - DOMAIN,primetime.ad.primetime.net
@@ -26536,6 +26550,7 @@ payload:
 - DOMAIN,ricetpoper.pro
 - DOMAIN,rich-media.v3.awesomeads.superawesome.tv
 - DOMAIN,richads.com
+- DOMAIN,richadslead.top
 - DOMAIN,richemater.pro
 - DOMAIN,richibis.pro
 - DOMAIN,richiscalp.pro
@@ -27151,6 +27166,7 @@ payload:
 - DOMAIN,rtb-useast.rtbflairads.com
 - DOMAIN,rtb-usw.mfadsrvr.com
 - DOMAIN,rtb-uswest.adsolut.in
+- DOMAIN,rtb-uswest.hueadsortb.com
 - DOMAIN,rtb.ad-stir.com
 - DOMAIN,rtb.admaster.com.cn
 - DOMAIN,rtb.ads.production.travelaudience.com
@@ -27163,6 +27179,7 @@ payload:
 - DOMAIN,rtb.adview.cn
 - DOMAIN,rtb.adx1.com
 - DOMAIN,rtb.adxpremium.services
+- DOMAIN,rtb.avads.net
 - DOMAIN,rtb.beesads.com
 - DOMAIN,rtb.djaxadserver.com
 - DOMAIN,rtb.ero-advertising.com
@@ -32014,6 +32031,7 @@ payload:
 - DOMAIN,tracking2.channeladvisor.com
 - DOMAIN,tracking2.propellerads.com
 - DOMAIN,trackproads.com
+- DOMAIN,trackster.avads.net
 - DOMAIN,tracodisgr.pro
 - DOMAIN,tracogreis.pro
 - DOMAIN,tractusuri.pro
@@ -33121,6 +33139,7 @@ payload:
 - DOMAIN,us-west-2.v3.awesomeads.superawesome.tv
 - DOMAIN,us-west.3px.axp.amazon-adsystem.com
 - DOMAIN,us-west.aps.axp.amazon-adsystem.com
+- DOMAIN,us-west.ono.axp.amazon-adsystem.com
 - DOMAIN,us.ads.justpremium.com
 - DOMAIN,us.adserver.yahoo.com
 - DOMAIN,us.adzmediadsp.com
@@ -54325,6 +54344,7 @@ payload:
 - DOMAIN,xml-v4.bidderads.com
 - DOMAIN,xml-v4.boffoadsfeeds.com
 - DOMAIN,xml-v4.kunvertads.com
+- DOMAIN,xml-v4.optumads.com
 - DOMAIN,xml-v4.pwr-ads.com
 - DOMAIN,xml-v4.staradsmedia.com
 - DOMAIN,xml-v4.winkleads.com
@@ -54498,6 +54518,7 @@ payload:
 - DOMAIN,yoyadsdom.com
 - DOMAIN,yoyi-cm.admaster.com.cn
 - DOMAIN,ypzoiqds.pro
+- DOMAIN,yrl7yj.skadsdkless.appsflyersdk.com
 - DOMAIN,ysdk.qq.com
 - DOMAIN,yt-adp.nosdn.127.net
 - DOMAIN,yt-adp.ws.126.net

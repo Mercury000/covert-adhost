@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-28 09:46:07
+#更新时间: 2025-06-28 22:18:24
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -1670,6 +1670,7 @@ payload:
 - DOMAIN,ad08.focalink.com
 - DOMAIN,ad09.focalink.com
 - DOMAIN,ad0besenderforward.com
+- DOMAIN,ad0c5ab94fde4532b5c2ac3faa685c61-aac473ea903c.cdn.forter.com
 - DOMAIN,ad1.ad-srv.net
 - DOMAIN,ad1.adfarm1.adition.com
 - DOMAIN,ad1.adtitan.net
@@ -1757,7 +1758,6 @@ payload:
 - DOMAIN,ad19digital.checkm8.com
 - DOMAIN,ad1digital.checkm8.com
 - DOMAIN,ad1game.ru
-- DOMAIN,ad1x7.mea5ms.com
 - DOMAIN,ad2.360yield.com
 - DOMAIN,ad2.ad-srv.net
 - DOMAIN,ad2.adecn.com
@@ -2332,6 +2332,7 @@ payload:
 - DOMAIN,ads-87rvqi.bidder-embi.media
 - DOMAIN,ads-a.juicyads.com
 - DOMAIN,ads-admin.hubs.vn
+- DOMAIN,ads-adrm.adhese.com
 - DOMAIN,ads-ads-main-awesomeads.sacdn.net
 - DOMAIN,ads-adsanddata.adhese.com
 - DOMAIN,ads-adswag.adhese.com
@@ -2367,6 +2368,7 @@ payload:
 - DOMAIN,ads-cdn.fptplay.net
 - DOMAIN,ads-cdn.loopaautomate.com
 - DOMAIN,ads-cdn.tenmax.io
+- DOMAIN,ads-cle-nfl.yinzcam.com
 - DOMAIN,ads-cloud.rovio.com
 - DOMAIN,ads-collector.luizalabs.com
 - DOMAIN,ads-colruytgroup.adhese.com
@@ -2660,6 +2662,7 @@ payload:
 - DOMAIN,ads.ami-admin.com
 - DOMAIN,ads.amigos.com
 - DOMAIN,ads.amxrtb.com
+- DOMAIN,ads.androworks.org
 - DOMAIN,ads.annabac.com
 - DOMAIN,ads.ants.vn
 - DOMAIN,ads.anura.io
@@ -3454,6 +3457,7 @@ payload:
 - DOMAIN,ads.narrowline.com
 - DOMAIN,ads.nationalreview.com
 - DOMAIN,ads.nationchannel.com
+- DOMAIN,ads.navymwr.org
 - DOMAIN,ads.ncm.com
 - DOMAIN,ads.ndtv1.com
 - DOMAIN,ads.nerve.com
@@ -5756,6 +5760,7 @@ payload:
 - DOMAIN,adv.anhsangvacuocsong.vn
 - DOMAIN,adv.aport.ru
 - DOMAIN,adv.app.qq.com
+- DOMAIN,adv.aryel.io
 - DOMAIN,adv.autosurf.vn
 - DOMAIN,adv.axiatraders.com
 - DOMAIN,adv.bandi.so
@@ -5839,6 +5844,7 @@ payload:
 - DOMAIN,adv3.clickadu.net
 - DOMAIN,advack.net
 - DOMAIN,advaction.ru
+- DOMAIN,advally-baseballamerica-tagan.adlightning.com
 - DOMAIN,advally-mcm-tagan.adlightning.com
 - DOMAIN,advally-rogerebert-tagan.adlightning.com
 - DOMAIN,advally-toyota4runner-tagan.adlightning.com
@@ -5934,6 +5940,7 @@ payload:
 - DOMAIN,adventures-nacho-social.com
 - DOMAIN,adventurostravel.com
 - DOMAIN,adventurousamount.com
+- DOMAIN,adventurouscomparison.pro
 - DOMAIN,adventuroussoul.pro
 - DOMAIN,adventurousspiritss.sbs
 - DOMAIN,adventuroustame.com
@@ -6063,6 +6070,7 @@ payload:
 - DOMAIN,advertising.paltalk.com
 - DOMAIN,advertising.thediabetesnetwork.com
 - DOMAIN,advertising.thefader.com
+- DOMAIN,advertising.twitter.com
 - DOMAIN,advertising.wellpack.fr
 - DOMAIN,advertising.yahoo.com
 - DOMAIN,advertising.yandex.ru
@@ -8895,6 +8903,7 @@ payload:
 - DOMAIN,assetrinzu.pro
 - DOMAIN,assets.adspruce.com
 - DOMAIN,assets.adstage.io
+- DOMAIN,assets.adv.aryel.io
 - DOMAIN,assets.buysellads.com
 - DOMAIN,assets.cntdy.mobi
 - DOMAIN,assets.deployads.com
@@ -9148,6 +9157,7 @@ payload:
 - DOMAIN,aweucn1-2.advanced-web-analytics.com
 - DOMAIN,aweucn1-3.advanced-web-analytics.com
 - DOMAIN,aweucn1.advanced-web-analytics.com
+- DOMAIN,aweuw3.advanced-web-analytics.com
 - DOMAIN,aweuwv.advanced-web-analytics.com
 - DOMAIN,awppcivuse1.advanced-web-analytics.com
 - DOMAIN,awpwzbbhixuo.pro
@@ -10561,6 +10571,7 @@ payload:
 - DOMAIN,c.ad-srv.co
 - DOMAIN,c.ad6media.fr
 - DOMAIN,c.admaster.com.cn
+- DOMAIN,c.ads.roku.com
 - DOMAIN,c.adsco.re
 - DOMAIN,c.adskeeper.co.uk
 - DOMAIN,c.adskeeper.com
@@ -11089,6 +11100,7 @@ payload:
 - DOMAIN,cdn.oas-c18.adnxs.com
 - DOMAIN,cdn.optoutadvertising.com
 - DOMAIN,cdn.otclick-adv.ru
+- DOMAIN,cdn.pave-ads.com
 - DOMAIN,cdn.popmyads.com
 - DOMAIN,cdn.premiumads.net
 - DOMAIN,cdn.proadscdn.com
@@ -20475,6 +20487,7 @@ payload:
 - DOMAIN,live-api.immomo.com
 - DOMAIN,live-api.oncustomer.asia
 - DOMAIN,live-trace.bilibili.com
+- DOMAIN,live.pave-ads.com
 - DOMAIN,live.rads.msn.com
 - DOMAIN,live.xunlei.com
 - DOMAIN,liveads.jp
@@ -23948,6 +23961,7 @@ payload:
 - DOMAIN,patulrasse.pro
 - DOMAIN,paucibarri.pro
 - DOMAIN,pauciuntip.pro
+- DOMAIN,pave-ads.com
 - DOMAIN,pavimunwir.pro
 - DOMAIN,pay-update.maliko.com.mx
 - DOMAIN,pay.iagadvanced.com
@@ -25304,6 +25318,7 @@ payload:
 - DOMAIN,push-ad.com
 - DOMAIN,push-api.topaz-analytics.com
 - DOMAIN,push.lx.netease.com
+- DOMAIN,push.mayads.store
 - DOMAIN,push.mob.com
 - DOMAIN,push.pgl.qq.com
 - DOMAIN,push.res.meizu.com
@@ -25603,6 +25618,7 @@ payload:
 - DOMAIN,r2.leadsy.ai
 - DOMAIN,r3.adwo.com
 - DOMAIN,ra.gtimg.com
+- DOMAIN,raadsomrmitvd.online
 - DOMAIN,rabbit.tg.meitu.com
 - DOMAIN,rabblindor.pro
 - DOMAIN,rabbomescu.pro
@@ -30043,6 +30059,7 @@ payload:
 - DOMAIN,ssp-res.flyme.cn
 - DOMAIN,ssp-sdk-config.uc.cn
 - DOMAIN,ssp-service.monetixads.com
+- DOMAIN,ssp-tr-oe.rierra-ads.com
 - DOMAIN,ssp.1rtb.com
 - DOMAIN,ssp.ad-plus.com.tr
 - DOMAIN,ssp.ads.betweendigital.com
@@ -31981,6 +31998,7 @@ payload:
 - DOMAIN,tracker4.yfanads.com
 - DOMAIN,trackerads.com
 - DOMAIN,trackers.voodoo-analytics.io
+- DOMAIN,trackerus.maticooads.com
 - DOMAIN,trackifyads.com
 - DOMAIN,tracking-ch.adsafety.net
 - DOMAIN,tracking-dev.adsafety.net
@@ -33687,6 +33705,7 @@ payload:
 - DOMAIN,videoads.creativecdn.com
 - DOMAIN,videoads.hotstar.com
 - DOMAIN,videoadschallenge.com
+- DOMAIN,videoapi-2058.smartadserver.com
 - DOMAIN,videoapi-2161.smartadserver.com
 - DOMAIN,videoapi.smartadserver.com
 - DOMAIN,videocdn.adspeed.net
@@ -33949,6 +33968,7 @@ payload:
 - DOMAIN,vowelstacc.pro
 - DOMAIN,voxofaa5.pro
 - DOMAIN,vpptv.admaster.com.cn
+- DOMAIN,vpyzbp.skadsdkless.appsflyersdk.com
 - DOMAIN,vqq.admaster.com.cn
 - DOMAIN,vrc9kq.skadsdkless.appsflyersdk.com
 - DOMAIN,vrtzads.com
@@ -54347,6 +54367,7 @@ payload:
 - DOMAIN,xml-v4.optumads.com
 - DOMAIN,xml-v4.pwr-ads.com
 - DOMAIN,xml-v4.staradsmedia.com
+- DOMAIN,xml-v4.tenxads.com
 - DOMAIN,xml-v4.winkleads.com
 - DOMAIN,xml-v4.xmladsystem.com
 - DOMAIN,xml-v4.zentrixads.com

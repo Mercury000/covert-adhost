@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-06-29 10:00:29
+#更新时间: 2025-06-29 22:18:43
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -790,6 +790,7 @@ payload:
 - DOMAIN,ad-locus.com
 - DOMAIN,ad-logging2.ap-northeast-2.elasticbeanstalk.com
 - DOMAIN,ad-m.asia
+- DOMAIN,ad-management.int.ad.dev.smartnews.net
 - DOMAIN,ad-management.srv.ad.dev.smartnews.net
 - DOMAIN,ad-mapps.com
 - DOMAIN,ad-material.ys7.com
@@ -1100,6 +1101,7 @@ payload:
 - DOMAIN,ad.cyapi.cn
 - DOMAIN,ad.cyycoy.com
 - DOMAIN,ad.da88vn.win
+- DOMAIN,ad.danawa.com
 - DOMAIN,ad.dangkygo88.in
 - DOMAIN,ad.datadeliver.net
 - DOMAIN,ad.datadrivenpromotion.com
@@ -2442,10 +2444,12 @@ payload:
 - DOMAIN,ads-nextdaymedia.adhese.com
 - DOMAIN,ads-not-by-this-site.de
 - DOMAIN,ads-nrc.adhese.com
+- DOMAIN,ads-partner-noneu.truecaller.com
 - DOMAIN,ads-partners.coupang.com
 - DOMAIN,ads-pd.nbcuni.com
 - DOMAIN,ads-pd.universalsports.com
 - DOMAIN,ads-pebblemedia.adhese.com
+- DOMAIN,ads-pit-nfl.yinzcam.com
 - DOMAIN,ads-pixiv.net
 - DOMAIN,ads-platform.zalo.me
 - DOMAIN,ads-portal.net
@@ -4533,6 +4537,7 @@ payload:
 - DOMAIN,ads31.adtelligent.com
 - DOMAIN,ads31.unoadsrv.com
 - DOMAIN,ads31.vertamedia.com
+- DOMAIN,ads32.adtelligent.com
 - DOMAIN,ads32.vertamedia.com
 - DOMAIN,ads33.adtelligent.com
 - DOMAIN,ads33.unoadsrv.com
@@ -4750,6 +4755,7 @@ payload:
 - DOMAIN,adschemist.com
 - DOMAIN,adschill.com
 - DOMAIN,adscholar.com
+- DOMAIN,adscholars.com
 - DOMAIN,adschoom.com
 - DOMAIN,adscience.nl
 - DOMAIN,adscienceltd.com
@@ -5950,7 +5956,6 @@ payload:
 - DOMAIN,adver.pengyou.com
 - DOMAIN,adver.qq.com
 - DOMAIN,adverbpublicbinding.com
-- DOMAIN,adverbrequire.com
 - DOMAIN,adverbroadmapjackknife.com
 - DOMAIN,adverdata.net
 - DOMAIN,adverity.com
@@ -6620,6 +6625,7 @@ payload:
 - DOMAIN,airbornelimpet.pro
 - DOMAIN,airbornelobster.pro
 - DOMAIN,airbuinfos.pro
+- DOMAIN,airbyte.us-west-2.v3.awesomeads.staging.superawesome.tv
 - DOMAIN,aiseet.aa.atianqi.com
 - DOMAIN,aisleunclu.pro
 - DOMAIN,aizhantj.com
@@ -7821,6 +7827,7 @@ payload:
 - DOMAIN,api.convrse.media
 - DOMAIN,api.cooladata.com
 - DOMAIN,api.coolguang.com
+- DOMAIN,api.copybara.com
 - DOMAIN,api.counterapi.dev
 - DOMAIN,api.country.is
 - DOMAIN,api.cpu.baidu.com
@@ -8039,6 +8046,7 @@ payload:
 - DOMAIN,api.kostprice.com
 - DOMAIN,api.ksapisrv.com
 - DOMAIN,api.kwaizt.com
+- DOMAIN,api.kws.staging.superawesome.tv
 - DOMAIN,api.lab.amplitude.com
 - DOMAIN,api.lab.eu.amplitude.com
 - DOMAIN,api.lanistaads.com
@@ -13051,7 +13059,6 @@ payload:
 - DOMAIN,cyberprotection.pro
 - DOMAIN,cyberquoll.pro
 - DOMAIN,cyberserval.pro
-- DOMAIN,cybertronads.com
 - DOMAIN,cyberweasel.pro
 - DOMAIN,cyborricon.pro
 - DOMAIN,cycadprove.pro
@@ -17185,7 +17192,6 @@ payload:
 - DOMAIN,goadserver.com
 - DOMAIN,goadservices.com
 - DOMAIN,goadv.com
-- DOMAIN,goadx.com
 - DOMAIN,goantuprevi.pro
 - DOMAIN,goblin.hupu.com
 - DOMAIN,gocciammut.pro
@@ -25970,7 +25976,6 @@ payload:
 - DOMAIN,raremarten.pro
 - DOMAIN,rarennondy.pro
 - DOMAIN,rarewhale.pro
-- DOMAIN,rarqadxifhi.com
 - DOMAIN,raschdiple.pro
 - DOMAIN,raschretro.pro
 - DOMAIN,rasencrede.pro
@@ -28249,7 +28254,6 @@ payload:
 - DOMAIN,sdk.kochava.com
 - DOMAIN,sdk.kochava.dewrain.life
 - DOMAIN,sdk.kochava.kvaedit.site
-- DOMAIN,sdk.kokocads.com
 - DOMAIN,sdk.ksapisrv.com
 - DOMAIN,sdk.look.360.cn
 - DOMAIN,sdk.loomi-prod.xyz
@@ -28266,7 +28270,6 @@ payload:
 - DOMAIN,sdk.mrf.io
 - DOMAIN,sdk.n-analytics.io
 - DOMAIN,sdk.native123.com
-- DOMAIN,sdk.navnow.xyz
 - DOMAIN,sdk.nsureapi.com
 - DOMAIN,sdk.ocmhood.com
 - DOMAIN,sdk.open.amp.igexin.com
@@ -32047,6 +32050,7 @@ payload:
 - DOMAIN,tracking08.ad4game.com
 - DOMAIN,tracking1.chongdaads.com
 - DOMAIN,tracking2.channeladvisor.com
+- DOMAIN,tracking2.chongdaads.com
 - DOMAIN,tracking2.propellerads.com
 - DOMAIN,trackproads.com
 - DOMAIN,trackster.avads.net
@@ -33154,6 +33158,7 @@ payload:
 - DOMAIN,us-west-2.prod.pr.analytics.console.aws.a2z.com
 - DOMAIN,us-west-2.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,us-west-2.stinger-ad.bidr.io
+- DOMAIN,us-west-2.v3.awesomeads.staging.superawesome.tv
 - DOMAIN,us-west-2.v3.awesomeads.superawesome.tv
 - DOMAIN,us-west.3px.axp.amazon-adsystem.com
 - DOMAIN,us-west.aps.axp.amazon-adsystem.com

@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-07-01 10:01:06
+#更新时间: 2025-07-01 22:21:36
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -225,6 +225,7 @@ payload:
 - DOMAIN,64.adsco.re
 - DOMAIN,66926e18fb422e99217bead821bfa976.groupsorlink.com
 - DOMAIN,6744373190.rtb.monetixads.com
+- DOMAIN,6856351990.rtb.monetixads.com
 - DOMAIN,69vip.pro
 - DOMAIN,6gtest.bj2cu.u3.ucweb.com
 - DOMAIN,6gvef.pro
@@ -1524,7 +1525,6 @@ payload:
 - DOMAIN,ad.rtl.hr
 - DOMAIN,ad.ru.doubleclick.net
 - DOMAIN,ad.samsungadhub.com
-- DOMAIN,ad.sbb.bg
 - DOMAIN,ad.scadnet.com
 - DOMAIN,ad.se.doubleclick.net
 - DOMAIN,ad.seagulltracer.com
@@ -2428,6 +2428,7 @@ payload:
 - DOMAIN,ads-dev.ad4game.com
 - DOMAIN,ads-dev.pinterest.com
 - DOMAIN,ads-dev.sportradar.com
+- DOMAIN,ads-dmp-collect.kr.karrotmarket.com
 - DOMAIN,ads-dpgmediabe.adhese.com
 - DOMAIN,ads-drcn.platform.dbankcloud.cn
 - DOMAIN,ads-drcn.platform.dbankcloud.com
@@ -4243,6 +4244,7 @@ payload:
 - DOMAIN,ads101.unoadsrv.com
 - DOMAIN,ads101.vertamedia.com
 - DOMAIN,ads102.adtelligent.com
+- DOMAIN,ads102.bidmatic.io
 - DOMAIN,ads103.unoadsrv.com
 - DOMAIN,ads103.vertamedia.com
 - DOMAIN,ads104.unoadsrv.com
@@ -8384,6 +8386,7 @@ payload:
 - DOMAIN,api.richlifeads.ru
 - DOMAIN,api.ril.com
 - DOMAIN,api.ringlead.com
+- DOMAIN,api.rjmetrics.com
 - DOMAIN,api.rlcdn.com
 - DOMAIN,api.rnet.plus
 - DOMAIN,api.rollbar.com
@@ -29110,6 +29113,7 @@ payload:
 - DOMAIN,sdk-api-fra.maticooads.com
 - DOMAIN,sdk-api-linode1.maticooads.com
 - DOMAIN,sdk-api-us.maticooads.com
+- DOMAIN,sdk-api-usa.maticooads.com
 - DOMAIN,sdk-api-v1.singular.net
 - DOMAIN,sdk-api.justtrack.io
 - DOMAIN,sdk-api.maticooads.com
@@ -33585,6 +33589,7 @@ payload:
 - DOMAIN,ts-demo.audio.advertising.a2z.com
 - DOMAIN,ts.amazon-adsystem.com
 - DOMAIN,tsdflsdk.cypcb.net
+- DOMAIN,tsm-951790kfyo.adsbynimbus.com
 - DOMAIN,tsm-nj1015.adsbynimbus.com
 - DOMAIN,tt.agrantsem.com
 - DOMAIN,tt.toponad.com

@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-07-02 09:50:02
+#更新时间: 2025-07-02 22:22:07
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -1791,7 +1791,6 @@ payload:
 - DOMAIN,ad1digital.checkm8.com
 - DOMAIN,ad1game.ru
 - DOMAIN,ad1ular.pics
-- DOMAIN,ad1x7.mea5ms.com
 - DOMAIN,ad2.360yield.com
 - DOMAIN,ad2.ad-srv.net
 - DOMAIN,ad2.adecn.com
@@ -3897,6 +3896,7 @@ payload:
 - DOMAIN,ads.tarrobads.com
 - DOMAIN,ads.tbs.com
 - DOMAIN,ads.tcsemotion.com
+- DOMAIN,ads.teads.tv
 - DOMAIN,ads.technoratimedia.com
 - DOMAIN,ads.techvibes.com
 - DOMAIN,ads.techweb.com
@@ -4933,6 +4933,7 @@ payload:
 - DOMAIN,adserver-espnet.sportszone.net
 - DOMAIN,adserver-eu.adtech.advertising.com
 - DOMAIN,adserver-images.adikteev.com
+- DOMAIN,adserver-prod.tronads.io
 - DOMAIN,adserver-toy.adtechjp.com
 - DOMAIN,adserver-us.adtech.advertising.com
 - DOMAIN,adserver-voice-online.co.uk
@@ -5940,6 +5941,7 @@ payload:
 - DOMAIN,advancedworld.site
 - DOMAIN,advanceinvader.com
 - DOMAIN,advancelocal.blueconic.net
+- DOMAIN,advancelocalmediallc-lehighvalleylivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-mlivecom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-njcom.adsbynimbus.com
 - DOMAIN,advancelocalmediallc-oregonlivecom.adsbynimbus.com
@@ -7867,6 +7869,7 @@ payload:
 - DOMAIN,api.ca.looker.com
 - DOMAIN,api.cactusglobal.io
 - DOMAIN,api.callget.cn
+- DOMAIN,api.callrail.com
 - DOMAIN,api.calltrackingmetrics.com
 - DOMAIN,api.campaigns.notino.com
 - DOMAIN,api.caroda.io
@@ -11505,6 +11508,7 @@ payload:
 - DOMAIN,cf.insurads.com
 - DOMAIN,cf.xad.com
 - DOMAIN,cf04.kanade-ad.net
+- DOMAIN,cfapi.upstackdata.io
 - DOMAIN,cfd.analytics-iceberg.ltd
 - DOMAIN,cfd.blackrockadvisorsltd.bcpl9m7tbz955en94bnn.com
 - DOMAIN,cfd.blackrockadvisorsltd.com
@@ -16130,6 +16134,7 @@ payload:
 - DOMAIN,fclog.baidu.com
 - DOMAIN,fcs23-1.naiadsystems.com
 - DOMAIN,fcvutavuonar.pro
+- DOMAIN,fcwx3i.skadsdkless.appsflyersdk.com
 - DOMAIN,fdads.sv.publicus.com
 - DOMAIN,fds.api.moji.com
 - DOMAIN,fe.ono.axp.amazon-adsystem.com
@@ -22250,6 +22255,7 @@ payload:
 - DOMAIN,mfadsrvr.com
 - DOMAIN,mg.adskeeper.co.uk
 - DOMAIN,mg.games.sina.com.cn
+- DOMAIN,mi-sentry.broadviewindustries.com
 - DOMAIN,mi-songs.com
 - DOMAIN,mi.5.p2l.info
 - DOMAIN,mi.adinterax.com
@@ -25505,6 +25511,7 @@ payload:
 - DOMAIN,post.xapads.com
 - DOMAIN,post1.voiceads.cn
 - DOMAIN,postback.adsmoloco.com
+- DOMAIN,postback.hilltopads.com
 - DOMAIN,postesfrig.pro
 - DOMAIN,postfproge.pro
 - DOMAIN,postibalon.pro

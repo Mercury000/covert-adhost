@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-07-04 09:50:20
+#更新时间: 2025-07-04 22:21:02
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -889,6 +889,7 @@ payload:
 - DOMAIN,ad-server.proboards.com
 - DOMAIN,ad-server.unlimapps.com
 - DOMAIN,ad-serverparc.nl
+- DOMAIN,ad-serving.d-o-ads.com
 - DOMAIN,ad-serving.de
 - DOMAIN,ad-sfo.pubmatic.com
 - DOMAIN,ad-sh-sz-zb.wagbridge.tanx.alimama.com
@@ -2557,6 +2558,7 @@ payload:
 - DOMAIN,ads-trk.vidible.tv
 - DOMAIN,ads-twitter.com
 - DOMAIN,ads-uk.jiwire.com
+- DOMAIN,ads-unibet.adhese.com
 - DOMAIN,ads-us.amillionads.com
 - DOMAIN,ads-us.loopaautomate.com
 - DOMAIN,ads-us.pictela.net
@@ -4298,6 +4300,7 @@ payload:
 - DOMAIN,ads12.vertamedia.com
 - DOMAIN,ads120.adtelligent.com
 - DOMAIN,ads121.adtelligent.com
+- DOMAIN,ads124.adtelligent.com
 - DOMAIN,ads13-normal-hl.zijieapi.com
 - DOMAIN,ads13-normal-lf.zijieapi.com
 - DOMAIN,ads13-normal-lq.zijieapi.com
@@ -5911,6 +5914,7 @@ payload:
 - DOMAIN,adv2.expres.ua
 - DOMAIN,adv2.rcspubblicita.it
 - DOMAIN,adv3.clickadu.net
+- DOMAIN,adv6.grupopreferente.com
 - DOMAIN,advack.net
 - DOMAIN,advaction.ru
 - DOMAIN,advally-baseballamerica-tagan.adlightning.com
@@ -6181,7 +6185,6 @@ payload:
 - DOMAIN,adverum.lt
 - DOMAIN,advg.agency
 - DOMAIN,advgalaxy.com
-- DOMAIN,advgame.org
 - DOMAIN,adviad.com
 - DOMAIN,adviap.goforandroid.com
 - DOMAIN,advice-ads-cdn.vice.com
@@ -7907,6 +7910,7 @@ payload:
 - DOMAIN,api.calltrackingmetrics.com
 - DOMAIN,api.campaigns.notino.com
 - DOMAIN,api.caroda.io
+- DOMAIN,api.cartbooster.io
 - DOMAIN,api.cartsee.cartx.cloud
 - DOMAIN,api.cashback.co.uk
 - DOMAIN,api.cazamba.com
@@ -8116,6 +8120,7 @@ payload:
 - DOMAIN,api.img-static.tech
 - DOMAIN,api.immomo.com
 - DOMAIN,api.impactradius.com
+- DOMAIN,api.impressions.vupulse.com
 - DOMAIN,api.inboxdollars.com
 - DOMAIN,api.indexexchange.com
 - DOMAIN,api.indicative.com
@@ -8265,6 +8270,7 @@ payload:
 - DOMAIN,api.mu9.com
 - DOMAIN,api.mumuglobal.com
 - DOMAIN,api.mutinyhq.io
+- DOMAIN,api.mw-ads.com
 - DOMAIN,api.mxvietnam.com
 - DOMAIN,api.myads.telkomsel.com
 - DOMAIN,api.myadsget.com
@@ -13435,6 +13441,7 @@ payload:
 - DOMAIN,cyberprotection.pro
 - DOMAIN,cyberquoll.pro
 - DOMAIN,cyberserval.pro
+- DOMAIN,cybertronads.com
 - DOMAIN,cyberweasel.pro
 - DOMAIN,cyborricon.pro
 - DOMAIN,cycadprove.pro
@@ -15386,6 +15393,7 @@ payload:
 - DOMAIN,ecollector-advancelocal.sophi.io
 - DOMAIN,ecom-app.rakutenadvertising.io
 - DOMAIN,ecomadserver.com
+- DOMAIN,ecommerce-events.adscale.com
 - DOMAIN,economicara.pro
 - DOMAIN,econosopru.pro
 - DOMAIN,ecoutrimpr.pro
@@ -19245,6 +19253,7 @@ payload:
 - DOMAIN,img.alimama.cn
 - DOMAIN,img.amp.ad.sina.com.cn
 - DOMAIN,img.blogads.com
+- DOMAIN,img.flipp-ads.com
 - DOMAIN,img.jizzads.com
 - DOMAIN,img.layer-ads.de
 - DOMAIN,img.ll.impact-ad.jp
@@ -19256,6 +19265,7 @@ payload:
 - DOMAIN,img02.ad-tech.ru
 - DOMAIN,img1.360buyimg.com
 - DOMAIN,img1.mini.cache.wps.cn
+- DOMAIN,img1.tronads.io
 - DOMAIN,img2.ad.agrantsem.com
 - DOMAIN,img3.ad.agrantsem.com
 - DOMAIN,imgad.thepaper.cn
@@ -20907,6 +20917,7 @@ payload:
 - DOMAIN,kryptplagi.pro
 - DOMAIN,kstj.baidu.com
 - DOMAIN,kt88.pro
+- DOMAIN,ktk7k-1eakg.ads.tremorhub.com
 - DOMAIN,ktokto.mobi
 - DOMAIN,ktqtyggmqgug.pro
 - DOMAIN,ku11.pro
@@ -25481,6 +25492,7 @@ payload:
 - DOMAIN,pittabrule.pro
 - DOMAIN,pittadisap.pro
 - DOMAIN,pittodisme.pro
+- DOMAIN,piwik.advantic.de
 - DOMAIN,piwik.ero-advertising.com
 - DOMAIN,piwik.unoadsrv.com
 - DOMAIN,pix.ahs.prod-na.turntable.sonic.advertising.amazon.dev
@@ -29839,6 +29851,7 @@ payload:
 - DOMAIN,seguivolut.pro
 - DOMAIN,sehejii1.pro
 - DOMAIN,seismfullo.pro
+- DOMAIN,sej3y5.skadsdkless.appsflyersdk.com
 - DOMAIN,sejs.moatads.com
 - DOMAIN,sejujeo9.pro
 - DOMAIN,seks-partner.com
@@ -31737,6 +31750,7 @@ payload:
 - DOMAIN,static-ssl.mediav.com
 - DOMAIN,static.4chan-ads.org
 - DOMAIN,static.a-ads.com
+- DOMAIN,static.ad-adserver.com
 - DOMAIN,static.ad-lancers.jp
 - DOMAIN,static.ad-maven.com
 - DOMAIN,static.ad-tech.ru
@@ -33999,6 +34013,7 @@ payload:
 - DOMAIN,trifosuici.pro
 - DOMAIN,triggdival.pro
 - DOMAIN,trincbever.pro
+- DOMAIN,trinidadexpress-tto-ads.sitenm.com
 - DOMAIN,trinielixa.pro
 - DOMAIN,trinoscier.pro
 - DOMAIN,trinuimper.pro
@@ -34982,6 +34997,7 @@ payload:
 - DOMAIN,uuidapi.yunos.com
 - DOMAIN,uusee.adsame.com
 - DOMAIN,uvnbrvbmsvtg.pro
+- DOMAIN,uw2-n.adv.lijit.com
 - DOMAIN,uwxcwa.pro
 - DOMAIN,ux13.juicyads.com
 - DOMAIN,uxip-res.meizu.com
@@ -35333,6 +35349,7 @@ payload:
 - DOMAIN,vfw-us.amazon-adsystem.com
 - DOMAIN,vfw.amazon-adsystem.com
 - DOMAIN,vfw.prod.skywave.jetstream.advertising.a2z.com
+- DOMAIN,vfwm-us.amazon-adsystem.com
 - DOMAIN,vfwm.amazon-adsystem.com
 - DOMAIN,vfwm.prod.skywave.jetstream.advertising.a2z.com
 - DOMAIN,vfws.amazon-adsystem.com
@@ -36575,6 +36592,7 @@ payload:
 - DOMAIN,wittywombats.pro
 - DOMAIN,wittywonderscape.pro
 - DOMAIN,wixlabs-adsense-v3.uc.r.appspot.com
+- DOMAIN,wjj3n-h193w.ads.tremorhub.com
 - DOMAIN,wjj3n-vjpmh.ads.tremorhub.com
 - DOMAIN,wjj3n-yx4rt.ads.tremorhub.com
 - DOMAIN,wks.ero-advertising.com
@@ -56888,6 +56906,7 @@ payload:
 - DOMAIN,www.vryndolar.pro
 - DOMAIN,www.vsiogladko.pro
 - DOMAIN,www.vtqvkf.pro
+- DOMAIN,www.vtyfzokadxi.com
 - DOMAIN,www.vubogoy6.pro
 - DOMAIN,www.vulcarabbo.pro
 - DOMAIN,www.vulgasorbe.pro
@@ -57715,6 +57734,7 @@ payload:
 - DOMAIN,www13.smartadserver.com
 - DOMAIN,www14.smartadserver.com
 - DOMAIN,www15.smartadserver.com
+- DOMAIN,www17.smartadserver.com
 - DOMAIN,www18.smartadserver.com
 - DOMAIN,www2.ad-server.online
 - DOMAIN,www2.adserverpub.com

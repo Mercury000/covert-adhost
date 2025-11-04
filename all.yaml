@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-11-03 22:22:55
+#更新时间: 2025-11-04 09:43:50
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -423,7 +423,6 @@ payload:
 - DOMAIN,abroad-sdk-push.dutils.com
 - DOMAIN,abrts.pro
 - DOMAIN,abtest-ch.snssdk.com
-- DOMAIN,abtest.mistat.xiaomi.com
 - DOMAIN,abuijx.skadsdk.appsflyersdk.com
 - DOMAIN,abuijx.skadsdkless.appsflyersdk.com
 - DOMAIN,ac.mmstat.com
@@ -436,7 +435,6 @@ payload:
 - DOMAIN,acads.net
 - DOMAIN,acceptable.a-ads.com
 - DOMAIN,acceptancecrowdadvertising.com
-- DOMAIN,access1.tpns.tencent.com
 - DOMAIN,accidentadvicehelpline.co.uk
 - DOMAIN,accivdisve.pro
 - DOMAIN,accounts.doubleclick.net
@@ -451,7 +449,6 @@ payload:
 - DOMAIN,ace-tag.advertising.com
 - DOMAIN,aclickads.com
 - DOMAIN,acookie.alimama.com
-- DOMAIN,acs4baichuan.m.taobao.com
 - DOMAIN,acspaces.ero-advertising.com
 - DOMAIN,act.commercial.shouji.360.cn
 - DOMAIN,act.flat-ads.com
@@ -681,7 +678,6 @@ payload:
 - DOMAIN,ad-wisteria.excite.co.jp
 - DOMAIN,ad-x.co.uk
 - DOMAIN,ad.103092804.com
-- DOMAIN,ad.12306.cn
 - DOMAIN,ad.163.com
 - DOMAIN,ad.1k3.com
 - DOMAIN,ad.1kxun.com
@@ -917,7 +913,6 @@ payload:
 - DOMAIN,ad.dongdong.madserving.com
 - DOMAIN,ad.doorigo.co.kr
 - DOMAIN,ad.doubanio.com
-- DOMAIN,ad.doubleclick.net
 - DOMAIN,ad.doublemax.net
 - DOMAIN,ad.douga-kan.com
 - DOMAIN,ad.download.cnet.com
@@ -1330,7 +1325,6 @@ payload:
 - DOMAIN,ad.thetyee.ca
 - DOMAIN,ad.thewheelof.com
 - DOMAIN,ad.thisav.com
-- DOMAIN,ad.thsi.cn
 - DOMAIN,ad.tjserv.media
 - DOMAIN,ad.tjtune.com
 - DOMAIN,ad.tom.com
@@ -1982,7 +1976,6 @@ payload:
 - DOMAIN,adnetwork-adserver.aiactiv.io
 - DOMAIN,adnewnc.app.autohome.com.cn
 - DOMAIN,adnxs-simple.com
-- DOMAIN,adnxs.com
 - DOMAIN,adnxs.revsci.net
 - DOMAIN,ado.pro-market.net
 - DOMAIN,adobe-dns.adobe.com
@@ -2640,7 +2633,6 @@ payload:
 - DOMAIN,ads.ctasnet.com
 - DOMAIN,ads.ctvdigital.net
 - DOMAIN,ads.cungcau.vn
-- DOMAIN,ads.cup.com.cn
 - DOMAIN,ads.currantbun.com
 - DOMAIN,ads.cvut.cz
 - DOMAIN,ads.cyberctm.com
@@ -3349,7 +3341,6 @@ payload:
 - DOMAIN,ads.priel.co.kr
 - DOMAIN,ads.printscr.com
 - DOMAIN,ads.prisacom.com
-- DOMAIN,ads.privacy.qq.com
 - DOMAIN,ads.prnt.sc
 - DOMAIN,ads.prntscr.com
 - DOMAIN,ads.pro-market.net
@@ -5545,7 +5536,6 @@ payload:
 - DOMAIN,adv.rtbuzz.net
 - DOMAIN,adv.s8bbs.com
 - DOMAIN,adv.sec.intl.miui.com
-- DOMAIN,adv.sec.miui.com
 - DOMAIN,adv.speednet.bg
 - DOMAIN,adv.starozagorci.com
 - DOMAIN,adv.strategy.it
@@ -6156,7 +6146,6 @@ payload:
 - DOMAIN,ae.iads.unity3d.com
 - DOMAIN,ae888.mobi
 - DOMAIN,aecpm.alicdn.com
-- DOMAIN,aegis.qq.com
 - DOMAIN,aes.ap-southeast.3px.axp.amazon-adsystem.com
 - DOMAIN,aes.eu-south.ono.axp.amazon-adsystem.com
 - DOMAIN,aes.eu-west.3px.axp.amazon-adsystem.com
@@ -6213,9 +6202,7 @@ payload:
 - DOMAIN,aibuy-api.aibuy.io
 - DOMAIN,aicleaner.shouji.360.cn
 - DOMAIN,aid-ad.jp
-- DOMAIN,aider-res.meizu.com
 - DOMAIN,aigleinsightstream.pro
-- DOMAIN,aikanvod.miguvideo.com
 - DOMAIN,aio.lp.mydas.mobi
 - DOMAIN,aiqua-sdk.c.appier.net
 - DOMAIN,airbyte.us-west-2.v3.awesomeads.staging.superawesome.tv
@@ -6256,7 +6243,6 @@ payload:
 - DOMAIN,alphaads.de
 - DOMAIN,alphaapi.autoads.asia
 - DOMAIN,alphaleateve.pro
-- DOMAIN,als.baidu.com
 - DOMAIN,alternativos.iw-advertising.com
 - DOMAIN,altronexis-pro-platform.com
 - DOMAIN,alturaadvertising-d.openx.net
@@ -6267,7 +6253,6 @@ payload:
 - DOMAIN,amazon-adsystem.amazon.com
 - DOMAIN,amazon-adsystem.com
 - DOMAIN,ambassadors.propellerads.com
-- DOMAIN,amdc.m.taobao.com
 - DOMAIN,amdcopen.m.taobao.com
 - DOMAIN,amebotorsi.pro
 - DOMAIN,amer.rel.msn.com
@@ -6794,7 +6779,6 @@ payload:
 - DOMAIN,api-pixels.easyadsapp.com
 - DOMAIN,api-proxy.bee7.com
 - DOMAIN,api-public.addthis.com
-- DOMAIN,api-push.meizu.com
 - DOMAIN,api-resource.youzicheng.net
 - DOMAIN,api-rewarded-video.fyber.com
 - DOMAIN,api-rssocks.youzicheng.net
@@ -6943,7 +6927,6 @@ payload:
 - DOMAIN,api.aimtell.com
 - DOMAIN,api.aio.media
 - DOMAIN,api.airbrake.io
-- DOMAIN,api.airpush.com
 - DOMAIN,api.aixifan.com
 - DOMAIN,api.aklamio.com
 - DOMAIN,api.allnews.uodoo.com
@@ -8045,7 +8028,6 @@ payload:
 - DOMAIN,auction.unityads.unity3d.com
 - DOMAIN,auctionads.com
 - DOMAIN,auctionads.net
-- DOMAIN,audid-api.taobao.com
 - DOMAIN,audio.advertising.a2z.com
 - DOMAIN,audiomack.adsbynimbus.com
 - DOMAIN,augustads.com
@@ -8309,7 +8291,6 @@ payload:
 - DOMAIN,bc.ad.daum.net
 - DOMAIN,bcc-ads.com
 - DOMAIN,bcdn-god.we-stats.com
-- DOMAIN,bce.baidu.com
 - DOMAIN,bce.bj.ad.track.66mobi.com
 - DOMAIN,bclays-ads.aimatch.com
 - DOMAIN,bdapi-ads.realmemobile.com
@@ -9443,7 +9424,6 @@ payload:
 - DOMAIN,counciladvertising.net
 - DOMAIN,count.advanseads.com
 - DOMAIN,count.channeladvisor.com
-- DOMAIN,count.mail.163.com
 - DOMAIN,count.video.sina.com.cn
 - DOMAIN,counter.adultrevenueservice.com
 - DOMAIN,counter.advancewebhosting.com
@@ -9615,7 +9595,6 @@ payload:
 - DOMAIN,d0.sinaimg.cn
 - DOMAIN,d00.sina.com.cn
 - DOMAIN,d1.adsplay.net
-- DOMAIN,d1.music.126.net
 - DOMAIN,d1.sina.com.cn
 - DOMAIN,d1.sinaimg.cn
 - DOMAIN,d16-ad.kwai.net
@@ -9905,7 +9884,6 @@ payload:
 - DOMAIN,dm.oadz.com
 - DOMAIN,dm.pstatp.com
 - DOMAIN,dm.shouwangba.cn
-- DOMAIN,dm.toutiao.com
 - DOMAIN,dm.travelocity.com
 - DOMAIN,dmp.adspend.space
 - DOMAIN,dmp.adviad.com
@@ -10033,7 +10011,6 @@ payload:
 - DOMAIN,dpush-api.domob.cn
 - DOMAIN,dqapp.cdn.bcebos.com
 - DOMAIN,dra.amazon-adsystem.com
-- DOMAIN,dragate-cn.dc.heytapmobi.com
 - DOMAIN,dravexoly-pro.com
 - DOMAIN,drive-new.qyronto.pro
 - DOMAIN,drm-google-analtyic.com
@@ -10089,7 +10066,6 @@ payload:
 - DOMAIN,dtscout.rtb.adx1.com
 - DOMAIN,dtta.ero-advertising.com
 - DOMAIN,dtvc.adsafeprotected.com
-- DOMAIN,du.163.com
 - DOMAIN,dub.mobileads.msn.com
 - DOMAIN,dunandbradstreet.122.2o7.net
 - DOMAIN,dunbradstreetinc.demdex.net
@@ -10171,11 +10147,8 @@ payload:
 - DOMAIN,ecdn.firstimpression.io
 - DOMAIN,eclick.baidu.com
 - DOMAIN,eclipse-earn-pro.net
-- DOMAIN,ecma.bdimg.com
-- DOMAIN,ecmb.bdimg.com
 - DOMAIN,ecmc.bdimg.com
 - DOMAIN,eco-api.meiqia.com
-- DOMAIN,eco.taobao.com
 - DOMAIN,ecollector-advancelocal.sophi.io
 - DOMAIN,ecom-app.rakutenadvertising.io
 - DOMAIN,ecomadserver.com
@@ -10245,7 +10218,6 @@ payload:
 - DOMAIN,eqx-secure.smartadserver.com
 - DOMAIN,eqx.smartadserver.com
 - DOMAIN,erebor.douban.com
-- DOMAIN,ereg.adobe.com
 - DOMAIN,erexol24.pro
 - DOMAIN,erf4d-apmlm.ads.tremorhub.com
 - DOMAIN,erf4d-mpbzg.ads.tremorhub.com
@@ -10381,7 +10353,6 @@ payload:
 - DOMAIN,evex-pro.net
 - DOMAIN,evofinvex-union-app.com
 - DOMAIN,evolutionadv.it
-- DOMAIN,evtubescms.phncdn.com
 - DOMAIN,ex-traffic.com
 - DOMAIN,ex.mobmore.com
 - DOMAIN,ex.puata.info
@@ -10448,6 +10419,7 @@ payload:
 - DOMAIN,fcs23-1.naiadsystems.com
 - DOMAIN,fcwx3i.skadsdkless.appsflyersdk.com
 - DOMAIN,fdads.sv.publicus.com
+- DOMAIN,fdkss.sbs
 - DOMAIN,fds.api.moji.com
 - DOMAIN,fe.ono.axp.amazon-adsystem.com
 - DOMAIN,federated.ui.ssa.advertising.amazon.dev
@@ -10463,7 +10435,6 @@ payload:
 - DOMAIN,fei.pro-market.net
 - DOMAIN,feriapeati.pro
 - DOMAIN,fex.bdstatic.com
-- DOMAIN,fexclick.baidu.com
 - DOMAIN,ff.doubleclick.net
 - DOMAIN,ffg-analytics-functionsk3nvxfne4dp4s.azurewebsites.net
 - DOMAIN,fhatfee.ero-advertising.com
@@ -10669,9 +10640,7 @@ payload:
 - DOMAIN,gallery.pandora.xiaomi.com
 - DOMAIN,gam.adnxs.com
 - DOMAIN,game-advertising-online.com
-- DOMAIN,game-res.meizu.com
 - DOMAIN,game.adwo.com
-- DOMAIN,game.res.meizu.com
 - DOMAIN,game.weibo.cn
 - DOMAIN,game.weibo.com
 - DOMAIN,game88.pro
@@ -10808,7 +10777,6 @@ payload:
 - DOMAIN,glsdk.logsss.com
 - DOMAIN,gluco.native-ad.net
 - DOMAIN,gm.gds.mmstat.com
-- DOMAIN,gm.mmstat.com
 - DOMAIN,gm.mob.com
 - DOMAIN,gma.alicdn.com
 - DOMAIN,gmads.mookie1.com
@@ -11084,7 +11052,6 @@ payload:
 - DOMAIN,httpdns.ocloud.oppomobile.com
 - DOMAIN,httpdns.platform.dbankcloud.cn
 - DOMAIN,httpdns.platform.dbankcloud.com
-- DOMAIN,httpdns.push.oppomobile.com
 - DOMAIN,httpdns.qq.com
 - DOMAIN,httpdns.qqcdn.com
 - DOMAIN,httpdns.volcengineapi.com
@@ -11307,7 +11274,6 @@ payload:
 - DOMAIN,imagevenue.advertserve.com
 - DOMAIN,imap.adx1.com
 - DOMAIN,imapi-sg.isnssdk.com
-- DOMAIN,imasdk.googleapis.com
 - DOMAIN,imdb.amazon-adsystem.com
 - DOMAIN,imdb.eu-west-1.prod.paets.advertising.amazon.dev
 - DOMAIN,imdb.us-east-1.prod.paets.advertising.amazon.dev
@@ -11634,7 +11600,6 @@ payload:
 - DOMAIN,irrupnonpo.pro
 - DOMAIN,is-gateway.supersonicads.com
 - DOMAIN,is-tracking-pixel-api-prod.appspot.com
-- DOMAIN,is.snssdk.com
 - DOMAIN,isafe.pro
 - DOMAIN,isite.baidu.com
 - DOMAIN,isub.snssdk.com
@@ -11851,7 +11816,6 @@ payload:
 - DOMAIN,l.aaxads.com
 - DOMAIN,l.flat-ads.com
 - DOMAIN,l.gm.mob.com
-- DOMAIN,l.qq.com
 - DOMAIN,l.tcp.push.mob.com
 - DOMAIN,l.teads.tv
 - DOMAIN,l.teads.tv.edgekey.net
@@ -12005,7 +11969,6 @@ payload:
 - DOMAIN,liteapi.ekatox.com
 - DOMAIN,live-api.immomo.com
 - DOMAIN,live-api.oncustomer.asia
-- DOMAIN,live-trace.bilibili.com
 - DOMAIN,live.pave-ads.com
 - DOMAIN,live.rads.msn.com
 - DOMAIN,live.xunlei.com
@@ -12281,8 +12244,6 @@ payload:
 - DOMAIN,mclean.uk.cloud.360safe.com
 - DOMAIN,mclick.mobi
 - DOMAIN,mclick.simba.taobao.com
-- DOMAIN,mcs.snssdk.com
-- DOMAIN,mdevstat.qqlive.qq.com
 - DOMAIN,mdp-appconf-sg.heytapdl.com
 - DOMAIN,me.ads.justpremium.com
 - DOMAIN,me.xdrig.com
@@ -12480,7 +12441,6 @@ payload:
 - DOMAIN,mon.ad-stir.com
 - DOMAIN,mon.ad.xelements.cn
 - DOMAIN,mon.adx.vn
-- DOMAIN,mon.snssdk.com
 - DOMAIN,monarchads.com
 - DOMAIN,mondoads.s3.amazonaws.com
 - DOMAIN,monetixads.com
@@ -12739,7 +12699,6 @@ payload:
 - DOMAIN,newads.cmpnet.com
 - DOMAIN,newadserver.interfree.it
 - DOMAIN,news-flash.net
-- DOMAIN,news-l.play.aiseet.atianqi.com
 - DOMAIN,news-l.play.cp81.ott.cibntv.net
 - DOMAIN,news-l.play.ott.video.qq.com
 - DOMAIN,news.iadsdk.apple.com
@@ -12951,7 +12910,6 @@ payload:
 - DOMAIN,open.oneplus.net
 - DOMAIN,open.phone.igexin.com
 - DOMAIN,open.play.cn
-- DOMAIN,open.snssdk.com
 - DOMAIN,open.talk.igexin.com
 - DOMAIN,openads.ai
 - DOMAIN,openads.dimcab.com
@@ -13054,7 +13012,6 @@ payload:
 - DOMAIN,owpapi.tapjoy.com
 - DOMAIN,ox-d.hypeads.org
 - DOMAIN,ozone.advertising.a2z.com
-- DOMAIN,p-l.play.aiseet.atianqi.com
 - DOMAIN,p.aaxads.com
 - DOMAIN,p.ad.gt
 - DOMAIN,p.admaster.com.cn
@@ -14118,7 +14075,6 @@ payload:
 - DOMAIN,rescn.u3.ucweb.com
 - DOMAIN,reseller.sexyads.com
 - DOMAIN,reselling-corp.com
-- DOMAIN,resolver.msg.xiaomi.net
 - DOMAIN,resource.ad-scope.com.cn
 - DOMAIN,responsiveads.com
 - DOMAIN,rest.iad-01.braze.com
@@ -14587,7 +14543,6 @@ payload:
 - DOMAIN,saturn2.appads.com
 - DOMAIN,saturn3.appads.com
 - DOMAIN,sax.sina.cn
-- DOMAIN,sax.sina.com.cn
 - DOMAIN,sax1.sina.com.cn
 - DOMAIN,sax2.sina.com.cn
 - DOMAIN,sax3.sina.com.cn
@@ -14850,11 +14805,6 @@ payload:
 - DOMAIN,sdkapp.uve.weibo.com
 - DOMAIN,sdkcfg.adintl.cn
 - DOMAIN,sdkclick.mobile.sina.cn
-- DOMAIN,sdkconfig.ad.global.xiaomi.com
-- DOMAIN,sdkconfig.ad.india.xiaomi.com
-- DOMAIN,sdkconfig.ad.intl.xiaomi.com
-- DOMAIN,sdkconfig.ad.rus.xiaomi.com
-- DOMAIN,sdkconfig.ad.xiaomi.com
 - DOMAIN,sdkconfig.play.aiseet.atianqi.com
 - DOMAIN,sdkrec.tf.360.cn
 - DOMAIN,sdkserver-drcn.op.dbankcloud.cn
@@ -15219,7 +15169,6 @@ payload:
 - DOMAIN,socadvnet.com
 - DOMAIN,social-ad-builder.fresh8.co
 - DOMAIN,sofaitdoo-sofascore.adsbynimbus.com
-- DOMAIN,sofire.baidu.com
 - DOMAIN,softsmart.mobi
 - DOMAIN,sohu-dtv.m.cn.miaozhen.com
 - DOMAIN,sohutv.cm.admaster.com.cn
@@ -15238,7 +15187,6 @@ payload:
 - DOMAIN,sor-sdk.follow-apps.com
 - DOMAIN,sorteptoadsalr.com
 - DOMAIN,soul-ad.soulapp.cn
-- DOMAIN,soup.v.qq.com
 - DOMAIN,source.advisible.com
 - DOMAIN,source.pubadx.one
 - DOMAIN,sovonextrader.pro
@@ -15248,7 +15196,6 @@ payload:
 - DOMAIN,sp-east.adsrvr.org
 - DOMAIN,sp.advertising.com
 - DOMAIN,sp.analytics.yahoo.com
-- DOMAIN,sp0.baidu.com
 - DOMAIN,spaceleadster.com
 - DOMAIN,spaces.ero-advertising.com
 - DOMAIN,spads.yamx.com
@@ -15503,7 +15450,6 @@ payload:
 - DOMAIN,static.nectarads.com
 - DOMAIN,static.popads.net
 - DOMAIN,static.premiumads.com.br
-- DOMAIN,static.res.qq.com
 - DOMAIN,static.sf-ads.io
 - DOMAIN,static.share-videos.se
 - DOMAIN,static.smoads.com
@@ -15527,7 +15473,6 @@ payload:
 - DOMAIN,staticjs.adsafeprotected.com
 - DOMAIN,statics.adanxing.com
 - DOMAIN,statics.woozooo.com
-- DOMAIN,staticsns.cdn.bcebos.com
 - DOMAIN,staticupload-eu.oct8ne.com
 - DOMAIN,statika.mpsuadv.ru
 - DOMAIN,statis.push.netease.com
@@ -15623,7 +15568,6 @@ payload:
 - DOMAIN,su.bdimg.com
 - DOMAIN,su.bdstatic.com
 - DOMAIN,subwayfranchiseeadvertising.sc.omtrdc.net
-- DOMAIN,sugar.zhihu.com
 - DOMAIN,sumangex-app.pro
 - DOMAIN,summerwaveadventures.com
 - DOMAIN,sun-cdn.advividnetwork.com
@@ -16443,7 +16387,6 @@ payload:
 - DOMAIN,tubefsilen.pro
 - DOMAIN,tui.gtimg.com
 - DOMAIN,tuijian.baidu.com
-- DOMAIN,tunion-api.m.taobao.com
 - DOMAIN,turbo.adsbynimbus.com
 - DOMAIN,turbo2sdk-push.oupeng.com
 - DOMAIN,turboadv.com
@@ -16877,7 +16820,6 @@ payload:
 - DOMAIN,vcdn.anthill.vn
 - DOMAIN,vcdn.media.innity.net
 - DOMAIN,vcdn.subiz-cdn.com
-- DOMAIN,vd.l.qq.com
 - DOMAIN,ve.ads.justpremium.com
 - DOMAIN,veads.veinteractive.com
 - DOMAIN,vecchpirog.pro
@@ -17340,7 +17282,6 @@ payload:
 - DOMAIN,wattpad.adsbynimbus.com
 - DOMAIN,wb.gtimg.com
 - DOMAIN,wbads.vo.llnwd.net
-- DOMAIN,wbapp.mobile.sina.cn
 - DOMAIN,wbapp.uve.weibo.com
 - DOMAIN,wbclick.mobile.sina.cn
 - DOMAIN,wbjournal.advertserve.com
@@ -19303,7 +19244,6 @@ payload:
 - DOMAIN,zapadserver1.com
 - DOMAIN,zawayaai.pro
 - DOMAIN,zazerygu.pro
-- DOMAIN,zconfig.alibabausercontent.com
 - DOMAIN,zdads.e-media.com
 - DOMAIN,zelvasparkai.pro
 - DOMAIN,zenadservices.net

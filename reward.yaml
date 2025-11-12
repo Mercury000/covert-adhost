@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2025-11-12 09:45:31
+#更新时间: 2025-11-12 22:23:05
 payload:
 - DOMAIN,0-bloghkgadv.app.salemove.com
 - DOMAIN,0.r.msn.com
@@ -9057,6 +9057,7 @@ payload:
 - DOMAIN,christianbluepages.advertserve.com
 - DOMAIN,christianbusinessadvertising.com
 - DOMAIN,chroniclewatchdaily.pro
+- DOMAIN,chuguadventures.co.tz
 - DOMAIN,chykohija.pro
 - DOMAIN,cidr1.ads.stickyadstv.com.akadns.net
 - DOMAIN,cielitoprofitron.pro
@@ -10839,7 +10840,6 @@ payload:
 - DOMAIN,godsadvice.com
 - DOMAIN,goldlayer-api.prod.gbads.net
 - DOMAIN,golds.lp.mydas.mobi
-- DOMAIN,golesya.pro
 - DOMAIN,gonet-ads.com
 - DOMAIN,good-ads-online.com
 - DOMAIN,google-ads.hara.vn
@@ -11012,7 +11012,6 @@ payload:
 - DOMAIN,hipersushiads.com
 - DOMAIN,hippo.vlion.cn
 - DOMAIN,hiram.iad-03.braze.com
-- DOMAIN,hitman-pro.ru
 - DOMAIN,hj67fadszx.appspot.com
 - DOMAIN,hk.adserver.yahoo.com
 - DOMAIN,hk.napi.ucweb.com
@@ -15942,7 +15941,6 @@ payload:
 - DOMAIN,telemetry.sdk.inmobi.com
 - DOMAIN,temai.snssdk.com
 - DOMAIN,temai.taobao.com
-- DOMAIN,temirtau-adm.ru
 - DOMAIN,temp.163.com
 - DOMAIN,ten.sngapm.qq.com
 - DOMAIN,tencent-dtv.m.cn.miaozhen.com
@@ -16665,7 +16663,6 @@ payload:
 - DOMAIN,uploaded.yieldlove-ad-serving.net
 - DOMAIN,uploads.convertflow.co
 - DOMAIN,uploads.salemove.com
-- DOMAIN,uploadsfre.com
 - DOMAIN,upoll.umengcloud.com
 - DOMAIN,uppyads.com
 - DOMAIN,uprivaladserver.net

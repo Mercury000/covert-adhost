@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2026-01-07 22:26:41
+#更新时间: 2026-01-08 12:18:05
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0gtest.bj2cu.u3.ucweb.com
@@ -588,6 +588,7 @@ payload:
 - DOMAIN,ad.dzwindows.com
 - DOMAIN,ad.dzwww.com
 - DOMAIN,ad.e-kolay.net
+- DOMAIN,ad.e.waimai.sankuai.com
 - DOMAIN,ad.ecplaza.net
 - DOMAIN,ad.egloos.com
 - DOMAIN,ad.egou.com
@@ -1401,6 +1402,7 @@ payload:
 - DOMAIN,ads-api.playfun.vn
 - DOMAIN,ads-api.tiktok.com
 - DOMAIN,ads-api.twitter.com
+- DOMAIN,ads-api.xiaohongshu.com
 - DOMAIN,ads-backend.chaincliq.com
 - DOMAIN,ads-bi.zenkube.com
 - DOMAIN,ads-bid.l.doubleclick.net
@@ -1459,6 +1461,7 @@ payload:
 - DOMAIN,ads-us.pictela.net
 - DOMAIN,ads-v-darwin.hulu.com
 - DOMAIN,ads-verify.flurry.com
+- DOMAIN,ads-video-qc.xhscdn.com
 - DOMAIN,ads-wc.adaptv.advertising.com
 - DOMAIN,ads.1thegioi.vn
 - DOMAIN,ads.359group.com
@@ -2624,6 +2627,7 @@ payload:
 - DOMAIN,ads.xedoisong.vn
 - DOMAIN,ads.xemphimso.com
 - DOMAIN,ads.xhamster.com
+- DOMAIN,ads.xiaohongshu.com
 - DOMAIN,ads.xtargeting.com
 - DOMAIN,ads.xtra.ca
 - DOMAIN,ads.xtra.co.nz
@@ -3809,6 +3813,7 @@ payload:
 - DOMAIN,adwin.startappservice.com
 - DOMAIN,adwpaces.ero-advertising.com
 - DOMAIN,adx-api.hupu.com
+- DOMAIN,adx-api.yfanads.com
 - DOMAIN,adx-asia-imp.aarki.net
 - DOMAIN,adx-asia.aarki.net
 - DOMAIN,adx-bid.tianzhuobj.com
@@ -3989,8 +3994,6 @@ payload:
 - DOMAIN,all.cnzz.com.danuoyi.tbcache.com
 - DOMAIN,all.orfr.adgtw.orangeads.fr
 - DOMAIN,allitirmi.pro
-- DOMAIN,alogsus.umeng.com
-- DOMAIN,alogus.umeng.com
 - DOMAIN,alpfund-pro.net
 - DOMAIN,alpha2.autoads.asia
 - DOMAIN,alphaapi.autoads.asia
@@ -6659,7 +6662,6 @@ payload:
 - DOMAIN,erexol24.pro
 - DOMAIN,ero-advertising.com
 - DOMAIN,erp.garan.pro
-- DOMAIN,errnewlog.umeng.com
 - DOMAIN,ers.baidu.com
 - DOMAIN,ers.ero-advertising.com
 - DOMAIN,es-res.flyme.cn
@@ -6967,8 +6969,6 @@ payload:
 - DOMAIN,gj.gds.mmstat.com
 - DOMAIN,gj.mmstat.com
 - DOMAIN,gj.track.uc.cn
-- DOMAIN,gjapplog.uc.cn
-- DOMAIN,gjapplog.ucweb.com
 - DOMAIN,gjtrack.ucweb.com
 - DOMAIN,gklfs-0vg08.ads.tremorhub.com
 - DOMAIN,gklfs-fvifs.ads.tremorhub.com
@@ -7783,7 +7783,6 @@ payload:
 - DOMAIN,local-update.com
 - DOMAIN,location.ximalaya.com
 - DOMAIN,lofter.httpdns.c.163.com
-- DOMAIN,logging.api.intuit.com
 - DOMAIN,logicfreumond.pro
 - DOMAIN,logserver.insight.ucweb.com
 - DOMAIN,logssug.ucweb.com
@@ -8433,6 +8432,7 @@ payload:
 - DOMAIN,optimized-by.vitalads.net
 - DOMAIN,optimized.by.vitalads.net
 - DOMAIN,optimus-ads.amap.com
+- DOMAIN,optimus-ads.amap.com.w.alikunlun.com
 - DOMAIN,optimus.ipinyou.com
 - DOMAIN,opus.analytics.yahoo.com
 - DOMAIN,opuscschna.pro
@@ -9128,6 +9128,7 @@ payload:
 - DOMAIN,pv.vipads.cc
 - DOMAIN,pw.analytics.console.aws.a2z.com
 - DOMAIN,pw.cnzz.com
+- DOMAIN,px.ads.linkedin.cn
 - DOMAIN,px.ads.linkedin.com
 - DOMAIN,px.moatads.com
 - DOMAIN,px.tvadsync.com
@@ -9367,6 +9368,7 @@ payload:
 - DOMAIN,rtb.admaster.com.cn
 - DOMAIN,rtb.adview.cn
 - DOMAIN,rtb.adx1.com
+- DOMAIN,rtb.adxsenmeng.com
 - DOMAIN,rtb.mfadsrvr.com
 - DOMAIN,rtb.nativeads.com
 - DOMAIN,rtb.tamura.ad.dev.nend.net
@@ -9637,6 +9639,7 @@ payload:
 - DOMAIN,sac.ayads.co
 - DOMAIN,sacchetnic.pro
 - DOMAIN,sadc1.outbrain.org
+- DOMAIN,sadfasdfa962.com
 - DOMAIN,sadisperli.pro
 - DOMAIN,safe.res.meizu.com
 - DOMAIN,sagan.iad-03.braze.com
@@ -10016,8 +10019,6 @@ payload:
 - DOMAIN,slckg-nugvu.ads.tremorhub.com
 - DOMAIN,slckg-qrmhc.ads.tremorhub.com
 - DOMAIN,slimads.vn
-- DOMAIN,slog.sina.cn
-- DOMAIN,slog.sina.com.cn
 - DOMAIN,sltint.adv.ott.cibntv.net
 - DOMAIN,sm.domob.cn
 - DOMAIN,sm.domobcdn.com
@@ -10140,6 +10141,7 @@ payload:
 - DOMAIN,ssp.vivo.com.cn
 - DOMAIN,ssp15.adview.cn
 - DOMAIN,ssp16.adview.cn
+- DOMAIN,sspapi.youxiaoad.com
 - DOMAIN,sspmservice.ad-survey.com
 - DOMAIN,sspservice.ad-survey.com
 - DOMAIN,sstats.adobe.com
@@ -10387,6 +10389,7 @@ payload:
 - DOMAIN,syndication.trafficreps.com
 - DOMAIN,syzbh66.xyz
 - DOMAIN,t-ads.adap.tv
+- DOMAIN,t-ads.xiaohongshu.com
 - DOMAIN,t-e.flyme.cn
 - DOMAIN,t-flow.flyme.cn
 - DOMAIN,t-id.ads.heytapmobile.com
@@ -10396,6 +10399,7 @@ payload:
 - DOMAIN,t.ads.pof.com
 - DOMAIN,t.ads.sohu.com
 - DOMAIN,t.adx.opera.com
+- DOMAIN,t.adxchina.cn
 - DOMAIN,t.agrantsem.com
 - DOMAIN,t.alimama.com
 - DOMAIN,t.channeladvisor.com
@@ -13002,6 +13006,7 @@ payload:
 - DOMAIN,yepdigital.adk2x.com
 - DOMAIN,yesads.com
 - DOMAIN,yesadvertising.com
+- DOMAIN,yfanads.com
 - DOMAIN,yieldads.com
 - DOMAIN,yildun.iad-03.appboy.com
 - DOMAIN,yildun.iad-03.braze.com

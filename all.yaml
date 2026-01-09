@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2026-01-09 09:55:53
+#更新时间: 2026-01-09 22:27:13
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0gtest.bj2cu.u3.ucweb.com
@@ -7646,6 +7646,7 @@ payload:
 - DOMAIN,k5ads.osdn.com
 - DOMAIN,k88.pro
 - DOMAIN,kabarbioec.pro
+- DOMAIN,kadmimage.biz.weibo.com
 - DOMAIN,kazakaffab.pro
 - DOMAIN,kd.api.agrantsem.com
 - DOMAIN,kde.qq.com
@@ -7755,6 +7756,7 @@ payload:
 - DOMAIN,lf24-common-ckv-tos.pstatp.com
 - DOMAIN,lf25-common-ckv-tos.pstatp.com
 - DOMAIN,lf26-common-ckv-tos.pstatp.com
+- DOMAIN,lf26-sf-be-pack-sign.pglstatp-toutiao.com
 - DOMAIN,lf27-common-ckv-tos.pstatp.com
 - DOMAIN,lf28-common-ckv-tos.pstatp.com
 - DOMAIN,lf29-common-ckv-tos.pstatp.com
@@ -7769,6 +7771,7 @@ payload:
 - DOMAIN,lf7-common-ckv-tos.pstatp.com
 - DOMAIN,lf8-common-ckv-tos.pstatp.com
 - DOMAIN,lf9-common-ckv-tos.pstatp.com
+- DOMAIN,lf9-sf-be-pack-sign.pglstatp-toutiao.com
 - DOMAIN,liberty.gedads.com
 - DOMAIN,libro-solethium-pro.com
 - DOMAIN,lightstep-collector.api.ua.com

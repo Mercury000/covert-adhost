@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2026-07-01 00:23:19
+#更新时间: 2026-07-01 12:06:30
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0gtest.bj2cu.u3.ucweb.com
@@ -4730,6 +4730,7 @@ payload:
 - DOMAIN,api.growingio.com
 - DOMAIN,api.growthbeat.com
 - DOMAIN,api.growthpush.com
+- DOMAIN,api.haybet.ws
 - DOMAIN,api.hb8887.com
 - DOMAIN,api.hdbet.com
 - DOMAIN,api.hdtv.letv.com
@@ -6559,6 +6560,7 @@ payload:
 - DOMAIN,echoobywatelskie.pro
 - DOMAIN,echoportalowe.pro
 - DOMAIN,echowieczorne.pro
+- DOMAIN,echozblokowych.pro
 - DOMAIN,echozpodmorza.pro
 - DOMAIN,echozskweru.pro
 - DOMAIN,eclick.baidu.com
@@ -6809,6 +6811,7 @@ payload:
 - DOMAIN,frwrz661fasv.s4.adsco.re
 - DOMAIN,fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 - DOMAIN,ftp.dns-info.dyndns.pro
+- DOMAIN,fudelua.pro
 - DOMAIN,fumiad.dxys.pro
 - DOMAIN,fun-adx.admaster.com.cn
 - DOMAIN,fun.adx.admaster.com.cn
@@ -7611,7 +7614,6 @@ payload:
 - DOMAIN,legjava.pro
 - DOMAIN,letv.axp.admaster.com.cn
 - DOMAIN,letv.m.cn.miaozhen.com
-- DOMAIN,leukoalbif.pro
 - DOMAIN,level.turboads.de
 - DOMAIN,lever-analytics.com
 - DOMAIN,lewymyt.pro
@@ -9748,6 +9750,7 @@ payload:
 - DOMAIN,sensors.snaptube.app
 - DOMAIN,seosoftware.onlinedownloads.org
 - DOMAIN,september.cityads.com
+- DOMAIN,serendiptyless.pro
 - DOMAIN,serpens.iad-01.braze.com
 - DOMAIN,serpens.iad.appboy.com
 - DOMAIN,serv-api.target2sell.com
@@ -10326,6 +10329,7 @@ payload:
 - DOMAIN,teads.tv.edgekey.net
 - DOMAIN,teads245638586802.s.moatpixel.com
 - DOMAIN,techain.baidu.com
+- DOMAIN,techartadverts.com
 - DOMAIN,techweb.iv.adsame.com
 - DOMAIN,teieqlpdr.mobi
 - DOMAIN,teinfo.wps.cn
@@ -10697,7 +10701,6 @@ payload:
 - DOMAIN,umengcloud.com
 - DOMAIN,umengjmacs.m.taobao.com
 - DOMAIN,umid.orion.meizu.com
-- DOMAIN,unagladst.shop
 - DOMAIN,unconf.mobad.ijinshan.com
 - DOMAIN,unet.ucweb.com
 - DOMAIN,unidesk.alicdn.com
@@ -11389,7 +11392,6 @@ payload:
 - DOMAIN,worker72.advertnative.com
 - DOMAIN,worker73.advertnative.com
 - DOMAIN,world.popadscdn.net
-- DOMAIN,worldmediaiqora.pro
 - DOMAIN,worldpulseiq.pro
 - DOMAIN,worldtrendingalert.pro
 - DOMAIN,worldwideupdates.pro
@@ -11862,6 +11864,7 @@ payload:
 - DOMAIN,www.echoobywatelskie.pro
 - DOMAIN,www.echoportalowe.pro
 - DOMAIN,www.echowieczorne.pro
+- DOMAIN,www.echozblokowych.pro
 - DOMAIN,www.echozpodmorza.pro
 - DOMAIN,www.echozskweru.pro
 - DOMAIN,www.eedclicks.ero-advertising.com
@@ -11929,6 +11932,7 @@ payload:
 - DOMAIN,www.frontlineflashreport.pro
 - DOMAIN,www.frontlinepulsewire.pro
 - DOMAIN,www.frontlinevanguardalert.pro
+- DOMAIN,www.fudelua.pro
 - DOMAIN,www.fxadviceformeandyou.com
 - DOMAIN,www.fyzoceu.pro
 - DOMAIN,www.game-advertising-online.com
@@ -12027,7 +12031,6 @@ payload:
 - DOMAIN,www.lanzouz.com
 - DOMAIN,www.latestupdates.pro
 - DOMAIN,www.layers.ero-advertising.com
-- DOMAIN,www.leukoalbif.pro
 - DOMAIN,www.lewymyt.pro
 - DOMAIN,www.links-and-traffic.com
 - DOMAIN,www.liptonadventures.com
@@ -12284,6 +12287,7 @@ payload:
 - DOMAIN,www.security-update.ddns.info
 - DOMAIN,www.security-update.ocry.com
 - DOMAIN,www.security-update.qhigh.com
+- DOMAIN,www.serendiptyless.pro
 - DOMAIN,www.servedby-buysellads.com
 - DOMAIN,www.sesquipedaeie.pro
 - DOMAIN,www.seure-update.fartit.com
@@ -12345,6 +12349,7 @@ payload:
 - DOMAIN,www.talkingdata.com
 - DOMAIN,www.tcm.optica.ero-advertising.com
 - DOMAIN,www.techadvisorpro.name
+- DOMAIN,www.techartadverts.com
 - DOMAIN,www.teieqlpdr.mobi
 - DOMAIN,www.tejeadventur.fit
 - DOMAIN,www.tejeadventur.luxe
@@ -12399,7 +12404,6 @@ payload:
 - DOMAIN,www.ultimateinsights.pro
 - DOMAIN,www.umbs.ero-advertising.com
 - DOMAIN,www.umeng.com
-- DOMAIN,www.unagladst.shop
 - DOMAIN,www.universal-traffic.com
 - DOMAIN,www.update-information.zzux.com
 - DOMAIN,www.update-java.kit.net
@@ -12451,7 +12455,6 @@ payload:
 - DOMAIN,www.winads.cn
 - DOMAIN,www.witnessinstantfeed.pro
 - DOMAIN,www.wks.ero-advertising.com
-- DOMAIN,www.worldmediaiqora.pro
 - DOMAIN,www.worldpulseiq.pro
 - DOMAIN,www.worldtrendingalert.pro
 - DOMAIN,www.worldwideupdates.pro

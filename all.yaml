@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2026-09-10 01:39:42
+#更新时间: 2026-09-10 11:38:35
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0162advanced-technologythbbhxwfacth.gpirnfras.vu
@@ -203,7 +203,6 @@ payload:
 - DOMAIN,8gtest.bj2cu.u3.ucweb.com
 - DOMAIN,8le8le.com
 - DOMAIN,8live.mobi
-- DOMAIN,905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com
 - DOMAIN,91.isafe.pro
 - DOMAIN,9308935.com
 - DOMAIN,9aad7115.amy.gs
@@ -294,6 +293,7 @@ payload:
 - DOMAIN,acceptable.a-ads.com
 - DOMAIN,accidentadvicehelpline.co.uk
 - DOMAIN,accounts.doubleclick.net
+- DOMAIN,accounts.m-google.net
 - DOMAIN,acd.op.hicloud.com
 - DOMAIN,acd.op.hihonorcloud.com
 - DOMAIN,acdn.adnxs-simple.com
@@ -1374,6 +1374,7 @@ payload:
 - DOMAIN,adpretirementservices.122.2o7.net
 - DOMAIN,adpro.pro.cn
 - DOMAIN,adproxy.autohome.com.cn
+- DOMAIN,adps.pro
 - DOMAIN,adpulse.ads.targetnet.com
 - DOMAIN,adpush.goforandroid.com
 - DOMAIN,adpushsdk.goforandroid.com
@@ -1382,6 +1383,7 @@ payload:
 - DOMAIN,adr.adplus.co.id
 - DOMAIN,adrdir.qq.com
 - DOMAIN,adres.myaora.net
+- DOMAIN,adrianova.pro
 - DOMAIN,ads-a.juicyads.com
 - DOMAIN,ads-admin.hubs.vn
 - DOMAIN,ads-ap.adaptv.advertising.com
@@ -3994,6 +3996,7 @@ payload:
 - DOMAIN,afpssp.alimama.com
 - DOMAIN,afptrack.alimama.com
 - DOMAIN,afraud-cse.avlyun.com
+- DOMAIN,afriwealthx-click.pages.dev
 - DOMAIN,afs.ero-advertising.com
 - DOMAIN,afs.googlesyndication.com
 - DOMAIN,agd.p.360.cn
@@ -4497,6 +4500,7 @@ payload:
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.adjustapost.com
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.asusboards.com
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.blogwogin.com
+- DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.ctotto.com
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.defilecafe.com
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.dotnetspurt.com
 - DOMAIN,api-data-contacts-digitals-vu-configurations-region-amazonaws.dvdunlocker.com
@@ -4677,6 +4681,7 @@ payload:
 - DOMAIN,api.bugsee.com
 - DOMAIN,api.c.avazunativeads.com
 - DOMAIN,api.callget.cn
+- DOMAIN,api.cdn22.net
 - DOMAIN,api.chartbeat.com
 - DOMAIN,api.cheatsheet.me
 - DOMAIN,api.circularhub.com
@@ -5094,6 +5099,7 @@ payload:
 - DOMAIN,arc1.msn.com
 - DOMAIN,archive.coolerads.com
 - DOMAIN,argentiscapora.pro
+- DOMAIN,argento-bitfundix.pro
 - DOMAIN,ark.cp21.ott.cibntv.net
 - DOMAIN,as.ad.impact-ad.jp
 - DOMAIN,as.ao.impact-ad.jp
@@ -5340,7 +5346,6 @@ payload:
 - DOMAIN,baofeng.m.cn.miaozhen.com
 - DOMAIN,baogia.vads.vn
 - DOMAIN,bar.baidu.com
-- DOMAIN,barberpet.pro
 - DOMAIN,base.api.my7v.com
 - DOMAIN,batch.upsight-api.com
 - DOMAIN,bavners2.ero-advertising.com
@@ -5411,6 +5416,7 @@ payload:
 - DOMAIN,bitcoin-millionaire-pro.com
 - DOMAIN,bitcoingoldmineplatform.pro
 - DOMAIN,bitcoinup-pro.com
+- DOMAIN,bivoltis960-ai-pro.pages.dev
 - DOMAIN,biz.live.xunlei.com
 - DOMAIN,bj.ad.track.66mobi.com
 - DOMAIN,bj.appsrv1.madserving.com
@@ -5443,7 +5449,6 @@ payload:
 - DOMAIN,bnr6txockztw.l.adsco.re
 - DOMAIN,bo.goadservices.com
 - DOMAIN,boffoadsapi.com
-- DOMAIN,bohats-fondi.pro
 - DOMAIN,boilingmadsoup.com
 - DOMAIN,bond.iad-03.braze.com
 - DOMAIN,bong88.pro
@@ -5484,7 +5489,11 @@ payload:
 - DOMAIN,bskn.pro
 - DOMAIN,bss.pandora.xiaomi.com
 - DOMAIN,btc-alturan-v34.pro
+- DOMAIN,btc-mentralix-v7.pro
+- DOMAIN,btc-stoneley-pro-870.com
 - DOMAIN,btcadverant.com
+- DOMAIN,btcmentralixv7-pro.pages.dev
+- DOMAIN,btcsolgreen-ai-pro.pages.dev
 - DOMAIN,btrace.play.aiseet.atianqi.com
 - DOMAIN,btrace.qq.com
 - DOMAIN,btw.ero-advertising.com
@@ -5778,6 +5787,7 @@ payload:
 - DOMAIN,cfg.flurry.com
 - DOMAIN,cguke-9h64o.ads.tremorhub.com
 - DOMAIN,ch615.wx.11h5.com
+- DOMAIN,chainatarax500.pro
 - DOMAIN,challenge.cityads.com
 - DOMAIN,chanalytics.merchantadvantage.com
 - DOMAIN,channel.api.duapp.com
@@ -5789,7 +5799,6 @@ payload:
 - DOMAIN,check-tcp.rayjump.com
 - DOMAIN,check.rayjump.com
 - DOMAIN,checker.cityads.com
-- DOMAIN,chekmeseger-adspager.online
 - DOMAIN,chineseinla.com
 - DOMAIN,christianbusinessadvertising.com
 - DOMAIN,chuguadventures.co.tz
@@ -6116,11 +6125,11 @@ payload:
 - DOMAIN,creator-network-api.infludo.online
 - DOMAIN,crebriotrade92.com
 - DOMAIN,creditburner.blueadvertise.com
+- DOMAIN,crestfundgroveai-click.pages.dev
 - DOMAIN,crispadvertising.com
 - DOMAIN,criteo-sync.teads.tv
 - DOMAIN,criteo-sync.teads.tv.edgekey.net
 - DOMAIN,crs.baidu.com
-- DOMAIN,cryptostamp-art-pro.com
 - DOMAIN,crystaldawn.pro
 - DOMAIN,cs.analytics.lego.com
 - DOMAIN,cs.r-ad.ne.jp
@@ -6396,6 +6405,7 @@ payload:
 - DOMAIN,download.adsage.com
 - DOMAIN,download.bav.baidu.com
 - DOMAIN,download.browseraccelerator.com
+- DOMAIN,download.caihong.com
 - DOMAIN,download.cdn.sharelive.net
 - DOMAIN,download.cdn.torchbrowser.com
 - DOMAIN,download.coolguang.com
@@ -6563,6 +6573,7 @@ payload:
 - DOMAIN,engineering.adsplay.net
 - DOMAIN,entertainment.msn.us.intellitxt.com
 - DOMAIN,entry.baidu.com
+- DOMAIN,epiclotemaxfin-pro.pages.dev
 - DOMAIN,epmads.com
 - DOMAIN,epoch-cn.cdo.heytapmobi.com
 - DOMAIN,epomads2.4shared.com
@@ -6570,6 +6581,7 @@ payload:
 - DOMAIN,eq97f-3ak3i.ads.tremorhub.com
 - DOMAIN,eq97f-d6025.ads.tremorhub.com
 - DOMAIN,eqads.com
+- DOMAIN,equiloom-pro-official.com
 - DOMAIN,equuleus.iad.appboy.com
 - DOMAIN,eqx-secure.smartadserver.com
 - DOMAIN,eqx.smartadserver.com
@@ -6657,7 +6669,6 @@ payload:
 - DOMAIN,fastdownload10.com
 - DOMAIN,fastlane-adv.rubiconproject.com
 - DOMAIN,fasts-downloads.com
-- DOMAIN,fasttrackheadlines.pro
 - DOMAIN,fata.ero-advertising.com
 - DOMAIN,fathed.pro
 - DOMAIN,fav.simba.taobao.com
@@ -6696,7 +6707,6 @@ payload:
 - DOMAIN,finlab1-ad57.sbs
 - DOMAIN,finlab2-ad33.sbs
 - DOMAIN,finlab3-ad63.sbs
-- DOMAIN,finlab4-ad81.sbs
 - DOMAIN,fireads.online
 - DOMAIN,fireads.org
 - DOMAIN,fireworkadservices.com
@@ -6732,7 +6742,6 @@ payload:
 - DOMAIN,fmsads.com
 - DOMAIN,fnatfee.ero-advertising.com
 - DOMAIN,fo-api.omnitagjs.com
-- DOMAIN,foc-share.com
 - DOMAIN,focusin.ads.targetnet.com
 - DOMAIN,fod-cm-ad-v.webcdn.stream.ne.jp
 - DOMAIN,folder.adsunflower.com
@@ -6816,6 +6825,7 @@ payload:
 - DOMAIN,games.cityads.com
 - DOMAIN,gamesiteads.com
 - DOMAIN,gan.doubleclick.net
+- DOMAIN,garlenixai-pro.pages.dev
 - DOMAIN,gaspra.iad-03.braze.com
 - DOMAIN,gata.ero-advertising.com
 - DOMAIN,gateway.ttpsdk.info
@@ -6991,7 +7001,6 @@ payload:
 - DOMAIN,hdj.baidu.com
 - DOMAIN,hdns.ksyun.com
 - DOMAIN,hdt.adx.admaster.com.cn
-- DOMAIN,headlinespotty.pro
 - DOMAIN,health-partner.net
 - DOMAIN,helmmarginvale-pro.pages.dev
 - DOMAIN,help.cnzz.com
@@ -7284,6 +7293,7 @@ payload:
 - DOMAIN,in.api.glance.inmobi.com
 - DOMAIN,inc2.igexin.com
 - DOMAIN,inceptionads.go2cloud.org
+- DOMAIN,indexexelon-x-click.pages.dev
 - DOMAIN,indo.autoads.asia
 - DOMAIN,indus.iad-01.braze.com
 - DOMAIN,inferna.iad-03.braze.com
@@ -7298,6 +7308,7 @@ payload:
 - DOMAIN,ingameads.gameloft.com
 - DOMAIN,ingameads2.gameloft.com
 - DOMAIN,ingamesads.gameloft.com
+- DOMAIN,ingresointeligente.pro
 - DOMAIN,ini.update.360safe.com
 - DOMAIN,init.sms.mob.com
 - DOMAIN,init.supersonicads.com
@@ -7472,6 +7483,7 @@ payload:
 - DOMAIN,kadmimage.biz.weibo.com
 - DOMAIN,kalduremovexa.pro
 - DOMAIN,kaoos-kdidjhcv.pro
+- DOMAIN,katoen-invest.pro
 - DOMAIN,kd.api.agrantsem.com
 - DOMAIN,kde.qq.com
 - DOMAIN,kds.ero-advertising.com
@@ -7494,7 +7506,6 @@ payload:
 - DOMAIN,korndixzone.pro
 - DOMAIN,kpstaticbj.wx.ckjr001.com
 - DOMAIN,kraenolhavi.pro
-- DOMAIN,kramugzek.pro
 - DOMAIN,krestwaultshire.pro
 - DOMAIN,kriptorvads.com
 - DOMAIN,kritlokapitmir.pro
@@ -7630,6 +7641,7 @@ payload:
 - DOMAIN,location.ximalaya.com
 - DOMAIN,lofter.httpdns.c.163.com
 - DOMAIN,logicapp.pro
+- DOMAIN,logicfundvex-click.pages.dev
 - DOMAIN,logiclevora-2u-pro.pages.dev
 - DOMAIN,logserver.insight.ucweb.com
 - DOMAIN,logssug.ucweb.com
@@ -7854,7 +7866,6 @@ payload:
 - DOMAIN,miav-cse.avlyun.com
 - DOMAIN,mibet.mobi
 - DOMAIN,mic.mob.com
-- DOMAIN,michiadvis.cyou
 - DOMAIN,microsoft-update.name
 - DOMAIN,microsoftadvertisingdevcenter.112.2o7.net
 - DOMAIN,mig.str.mdt.qq.com
@@ -8045,7 +8056,6 @@ payload:
 - DOMAIN,nad.ad-stir.com
 - DOMAIN,nad.leadboltads.net
 - DOMAIN,naiadsystems.com
-- DOMAIN,nairapulse.pro
 - DOMAIN,nameketathar.pro
 - DOMAIN,narvuliora.pro
 - DOMAIN,nashira.iad-06.braze.com
@@ -8098,6 +8108,8 @@ payload:
 - DOMAIN,newsfeed-drcn.cloud.hihonorcloud.com
 - DOMAIN,newsyoucanread24.com
 - DOMAIN,nex.163.com
+- DOMAIN,nexorentis.pro
+- DOMAIN,nexoriumbit.pro
 - DOMAIN,ng3.ads.warnerbros.com
 - DOMAIN,ngads.go.com
 - DOMAIN,ngads.smartage.com
@@ -8186,6 +8198,8 @@ payload:
 - DOMAIN,offmsg.umeng.com
 - DOMAIN,ogads-pa.googleapis.com
 - DOMAIN,oia.zhihu.com
+- DOMAIN,okafintralis-click.pages.dev
+- DOMAIN,okningfundex-pro.pages.dev
 - DOMAIN,okvip.pro
 - DOMAIN,olcenari.pro
 - DOMAIN,omgmta.play.aiseet.atianqi.com
@@ -8836,6 +8850,7 @@ payload:
 - DOMAIN,promo.propellerads.com
 - DOMAIN,promote.biz.weibo.cn
 - DOMAIN,promotionalads.yahoo.co.jp
+- DOMAIN,promptimovax-lab-click.pages.dev
 - DOMAIN,pronetadvertising.com
 - DOMAIN,propellerad.adk2x.com
 - DOMAIN,propellerads.com
@@ -8936,6 +8951,7 @@ payload:
 - DOMAIN,qsptv.net
 - DOMAIN,qstore.inner.api.sj.360.cn
 - DOMAIN,quanjing.cnzz.com
+- DOMAIN,quantexcroatia.pro
 - DOMAIN,quantum-flowbit.pro
 - DOMAIN,queue.adspruce.com
 - DOMAIN,quickadsmedia.gotrackier.com
@@ -8968,6 +8984,7 @@ payload:
 - DOMAIN,rapidbasedump.pro
 - DOMAIN,rata.ero-advertising.com
 - DOMAIN,rationalan.pro
+- DOMAIN,ravelizia-click.pages.dev
 - DOMAIN,ravexundi.pro
 - DOMAIN,rayli.adsame.com
 - DOMAIN,rb.adnxs.com
@@ -9068,6 +9085,7 @@ payload:
 - DOMAIN,rescn.u3.ucweb.com
 - DOMAIN,reseller.sexyads.com
 - DOMAIN,reselling-corp.com
+- DOMAIN,reservaplatform-pro.pages.dev
 - DOMAIN,responsiveads.com
 - DOMAIN,rest.iad-01.braze.com
 - DOMAIN,rest.iad-03.braze.com
@@ -9604,6 +9622,7 @@ payload:
 - DOMAIN,seginus.iad-03.braze.com
 - DOMAIN,segment-api.humann.com
 - DOMAIN,segment.api.useinsider.com
+- DOMAIN,seinavoraai-pro.pages.dev
 - DOMAIN,sejs.moatads.com
 - DOMAIN,seks-partner.com
 - DOMAIN,sensors.snaptube.app
@@ -9734,6 +9753,7 @@ payload:
 - DOMAIN,slckg-lyoc5.ads.tremorhub.com
 - DOMAIN,slckg-nugvu.ads.tremorhub.com
 - DOMAIN,slckg-qrmhc.ads.tremorhub.com
+- DOMAIN,slide-aloxi-ark.pro
 - DOMAIN,slimads.vn
 - DOMAIN,sltint.adv.ott.cibntv.net
 - DOMAIN,sm.domob.cn
@@ -9774,6 +9794,8 @@ payload:
 - DOMAIN,sohu-dtv.m.cn.miaozhen.com
 - DOMAIN,sohutv.cm.admaster.com.cn
 - DOMAIN,sohutv.m.cn.miaozhen.com
+- DOMAIN,solevefundex-pro.pages.dev
+- DOMAIN,solevefundex.pro
 - DOMAIN,sonar-iad.xx.fbcdn.net
 - DOMAIN,sonic-us.supersonicads.com
 - DOMAIN,sonorarentestra.pro
@@ -10019,7 +10041,6 @@ payload:
 - DOMAIN,subwayfranchiseeadvertising.sc.omtrdc.net
 - DOMAIN,sumo.ad
 - DOMAIN,sundaysky-sync-us.teads.tv
-- DOMAIN,sunflowersandthreads.com
 - DOMAIN,sunwin.pro
 - DOMAIN,suo.lp.mydas.mobi
 - DOMAIN,superad2.com.sg
@@ -10162,6 +10183,7 @@ payload:
 - DOMAIN,tas-rs.toboads.com
 - DOMAIN,tas-si.toboads.com
 - DOMAIN,tas2.toboads.si
+- DOMAIN,tasoxou.pro
 - DOMAIN,tax-canada2023.co
 - DOMAIN,tbs.tradedoubler.com
 - DOMAIN,tbsveryfunnyads.112.2o7.net
@@ -10740,7 +10762,6 @@ payload:
 - DOMAIN,vali.cp31.ott.cibntv.net.302.myalicdn.com
 - DOMAIN,valipl.cp31.ott.cibntv.net
 - DOMAIN,van.ads.link4ads.com
-- DOMAIN,vanguardtruthnow.pro
 - DOMAIN,vapixel.adsafeprotected.com
 - DOMAIN,vas-hl-x.snssdk.com
 - DOMAIN,vast-events-staging.inner-active.mobi
@@ -10757,9 +10778,11 @@ payload:
 - DOMAIN,veads.veinteractive.com
 - DOMAIN,veim.lrswl.com
 - DOMAIN,vela.iad-01.braze.com
+- DOMAIN,velorafundsaiv2-pro.pages.dev
 - DOMAIN,velvetstomless.pro
 - DOMAIN,vena.native-ad.net
 - DOMAIN,venetia.iad.appboy.com
+- DOMAIN,ventofinance-click.pages.dev
 - DOMAIN,verdantkapitstead.pro
 - DOMAIN,verification.jiguang.cn
 - DOMAIN,verifiednewsdispatch.pro
@@ -10804,6 +10827,7 @@ payload:
 - DOMAIN,vipads.cc
 - DOMAIN,vipads.live
 - DOMAIN,viqiyi.admaster.com.cn
+- DOMAIN,visionluxovel.pro
 - DOMAIN,vistula-ai-pro.pages.dev
 - DOMAIN,vitals.vercel-analytics.com
 - DOMAIN,vivads.net
@@ -10817,7 +10841,6 @@ payload:
 - DOMAIN,voila.refr.adgtw.orangeads.fr
 - DOMAIN,volc.bj.ad.track.66mobi.com
 - DOMAIN,voordeel.ad.nl
-- DOMAIN,vorelium-pro.net
 - DOMAIN,vortexedgeai.pro
 - DOMAIN,vpptv.admaster.com.cn
 - DOMAIN,vqq.admaster.com.cn
@@ -11160,6 +11183,7 @@ payload:
 - DOMAIN,weishi.baidu.com
 - DOMAIN,weixin.renrenying.com
 - DOMAIN,welkotrivax.pro
+- DOMAIN,welkrotivax-click.pages.dev
 - DOMAIN,wendravik.pro
 - DOMAIN,wenku-cms.bj.bcebos.com
 - DOMAIN,wer.qdwght.com
@@ -11318,12 +11342,12 @@ payload:
 - DOMAIN,www.3ds.ero-advertising.com
 - DOMAIN,www.4anners.ero-advertising.com
 - DOMAIN,www.4clicker.pro
-- DOMAIN,www.905874987verxgdfsdaswffavdsg79ad77aadfgsbghdr5.s3-eu-central-2.ionoscloud.com
 - DOMAIN,www.9ata.ero-advertising.com
 - DOMAIN,www.a.ero-advertising.com
 - DOMAIN,www.a2uu36g43l.download
 - DOMAIN,www.aata.ero-advertising.com
 - DOMAIN,www.accidentadvicehelpline.co.uk
+- DOMAIN,www.accounts.m-google.net
 - DOMAIN,www.acspaces.ero-advertising.com
 - DOMAIN,www.ad-bice-seven.vercel.app
 - DOMAIN,www.ad-center.com
@@ -11371,6 +11395,7 @@ payload:
 - DOMAIN,www.admarket.mobi
 - DOMAIN,www.admaster.com.cn
 - DOMAIN,www.adnxs.com
+- DOMAIN,www.adrianova.pro
 - DOMAIN,www.ads-business-services635.vercel.app
 - DOMAIN,www.ads.chacomedia.com
 - DOMAIN,www.ads.mp.mydas.mobi
@@ -11468,6 +11493,7 @@ payload:
 - DOMAIN,www.adwo.com
 - DOMAIN,www.adwpaces.ero-advertising.com
 - DOMAIN,www.adx.adnxs.com
+- DOMAIN,www.afriwealthx-click.pages.dev
 - DOMAIN,www.afs.ero-advertising.com
 - DOMAIN,www.aid-ad.jp
 - DOMAIN,www.aimextrade30.com
@@ -11484,6 +11510,7 @@ payload:
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.adjustapost.com
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.asusboards.com
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.blogwogin.com
+- DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.ctotto.com
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.defilecafe.com
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.dotnetspurt.com
 - DOMAIN,www.api-data-contacts-digitals-vu-configurations-region-amazonaws.dvdunlocker.com
@@ -11492,6 +11519,7 @@ payload:
 - DOMAIN,www.api.taboola.com
 - DOMAIN,www.arazadvisory.net
 - DOMAIN,www.argentiscapora.pro
+- DOMAIN,www.argento-bitfundix.pro
 - DOMAIN,www.ashgroveadvocates.com
 - DOMAIN,www.ata.ero-advertising.com
 - DOMAIN,www.aurextradeai.pro
@@ -11520,7 +11548,6 @@ payload:
 - DOMAIN,www.banners1.ero-advertising.com
 - DOMAIN,www.banners2.ero-advertising.com
 - DOMAIN,www.bannevs.ero-advertising.com
-- DOMAIN,www.barberpet.pro
 - DOMAIN,www.bavners2.ero-advertising.com
 - DOMAIN,www.beginads.com
 - DOMAIN,www.belqorenavuki.pro
@@ -11535,18 +11562,22 @@ payload:
 - DOMAIN,www.bitcoin-millionaire-pro.com
 - DOMAIN,www.bitcoingoldmineplatform.pro
 - DOMAIN,www.bitcoinup-pro.com
+- DOMAIN,www.bivoltis960-ai-pro.pages.dev
 - DOMAIN,www.blaggckleads.info
 - DOMAIN,www.blatfee.ero-advertising.com
 - DOMAIN,www.blockadsnot.com
 - DOMAIN,www.blog.intext.ero-advertising.com
 - DOMAIN,www.blogads.com
 - DOMAIN,www.blueadvantagearkasas.com
-- DOMAIN,www.bohats-fondi.pro
 - DOMAIN,www.brightstardv.pro
 - DOMAIN,www.broadspring.com
 - DOMAIN,www.bruifnadiepro.pro
 - DOMAIN,www.btc-alturan-v34.pro
+- DOMAIN,www.btc-mentralix-v7.pro
+- DOMAIN,www.btc-stoneley-pro-870.com
 - DOMAIN,www.btcadverant.com
+- DOMAIN,www.btcmentralixv7-pro.pages.dev
+- DOMAIN,www.btcsolgreen-ai-pro.pages.dev
 - DOMAIN,www.btw.ero-advertising.com
 - DOMAIN,www.bulletads.com
 - DOMAIN,www.buycheapadvertising.com
@@ -11562,10 +11593,10 @@ payload:
 - DOMAIN,www.cellfun.mobi
 - DOMAIN,www.celorintrade92.net
 - DOMAIN,www.cemeja.mobi
+- DOMAIN,www.chainatarax500.pro
 - DOMAIN,www.chat.ero-advertising.com
 - DOMAIN,www.check-konto.vercel.app
 - DOMAIN,www.check-poczta.vercel.app
-- DOMAIN,www.chekmeseger-adspager.online
 - DOMAIN,www.chengzijianzhan.com
 - DOMAIN,www.christianbusinessadvertising.com
 - DOMAIN,www.ciderbayoulg.pro
@@ -11587,8 +11618,8 @@ payload:
 - DOMAIN,www.cpro.baidu.com
 - DOMAIN,www.creator-network-api.infludo.online
 - DOMAIN,www.crebriotrade92.com
+- DOMAIN,www.crestfundgroveai-click.pages.dev
 - DOMAIN,www.crispads.com
-- DOMAIN,www.cryptostamp-art-pro.com
 - DOMAIN,www.crystaldawn.pro
 - DOMAIN,www.cyber-ad01.cc
 - DOMAIN,www.cyhners.ero-advertising.com
@@ -11645,7 +11676,9 @@ payload:
 - DOMAIN,www.ellads.com
 - DOMAIN,www.emberstormless.pro
 - DOMAIN,www.epicgameads.com
+- DOMAIN,www.epiclotemaxfin-pro.pages.dev
 - DOMAIN,www.epmads.com
+- DOMAIN,www.equiloom-pro-official.com
 - DOMAIN,www.erexol24.pro
 - DOMAIN,www.ero-adverising.com.ero-advertising.com
 - DOMAIN,www.ero-advertising.com
@@ -11663,7 +11696,6 @@ payload:
 - DOMAIN,www.fanners.ero-advertising.com
 - DOMAIN,www.fast-adv.it
 - DOMAIN,www.fast-check-id.com
-- DOMAIN,www.fasttrackheadlines.pro
 - DOMAIN,www.fata.ero-advertising.com
 - DOMAIN,www.ferlantora.pro
 - DOMAIN,www.ferygaclogam.pro
@@ -11673,7 +11705,6 @@ payload:
 - DOMAIN,www.finlab1-ad57.sbs
 - DOMAIN,www.finlab2-ad33.sbs
 - DOMAIN,www.finlab3-ad63.sbs
-- DOMAIN,www.finlab4-ad81.sbs
 - DOMAIN,www.fireads.online
 - DOMAIN,www.firmlogicty.pro
 - DOMAIN,www.firstclick.pro
@@ -11688,7 +11719,6 @@ payload:
 - DOMAIN,www.flurry.com
 - DOMAIN,www.flw.ero-advertising.com
 - DOMAIN,www.fnatfee.ero-advertising.com
-- DOMAIN,www.foc-share.com
 - DOMAIN,www.forcagainflux-pro-cyou.pages.dev
 - DOMAIN,www.forex-advice.net
 - DOMAIN,www.fortezcapitoria.pro
@@ -11698,6 +11728,7 @@ payload:
 - DOMAIN,www.fpa.ero-advertising.com
 - DOMAIN,www.fxadviceformeandyou.com
 - DOMAIN,www.game-advertising-online.com
+- DOMAIN,www.garlenixai-pro.pages.dev
 - DOMAIN,www.gata.ero-advertising.com
 - DOMAIN,www.gatoradvertisinginformationnetwork.com
 - DOMAIN,www.gcmadvertising.com
@@ -11723,7 +11754,6 @@ payload:
 - DOMAIN,www.happystonezk.pro
 - DOMAIN,www.hata.ero-advertising.com
 - DOMAIN,www.hawthornethreads.mom
-- DOMAIN,www.headlinespotty.pro
 - DOMAIN,www.health-partner.net
 - DOMAIN,www.helmmarginvale-pro.pages.dev
 - DOMAIN,www.hightrafficads.com
@@ -11742,10 +11772,12 @@ payload:
 - DOMAIN,www.immediateincome.pro
 - DOMAIN,www.immediatev10.pro
 - DOMAIN,www.immediax.pro
+- DOMAIN,www.indexexelon-x-click.pages.dev
 - DOMAIN,www.indiads.com
 - DOMAIN,www.infinite-ads.com
 - DOMAIN,www.infinityads.com
 - DOMAIN,www.information-update.dynamic-dns.net
+- DOMAIN,www.ingresointeligente.pro
 - DOMAIN,www.insulevel24.pro
 - DOMAIN,www.intext.ero-advertising.com
 - DOMAIN,www.ioads.ero-advertising.com
@@ -11759,6 +11791,7 @@ payload:
 - DOMAIN,www.juicyads.com
 - DOMAIN,www.kalduremovexa.pro
 - DOMAIN,www.kaoos-kdidjhcv.pro
+- DOMAIN,www.katoen-invest.pro
 - DOMAIN,www.kds.ero-advertising.com
 - DOMAIN,www.kedronivar.pro
 - DOMAIN,www.kelvariona.pro
@@ -11769,7 +11802,6 @@ payload:
 - DOMAIN,www.kordowakapwecs.pro
 - DOMAIN,www.korndixzone.pro
 - DOMAIN,www.kraenolhavi.pro
-- DOMAIN,www.kramugzek.pro
 - DOMAIN,www.krestwaultshire.pro
 - DOMAIN,www.kriptorvads.com
 - DOMAIN,www.kritlokapitmir.pro
@@ -11788,6 +11820,7 @@ payload:
 - DOMAIN,www.links-and-traffic.com
 - DOMAIN,www.loadsabingo.com
 - DOMAIN,www.logicapp.pro
+- DOMAIN,www.logicfundvex-click.pages.dev
 - DOMAIN,www.logiclevora-2u-pro.pages.dev
 - DOMAIN,www.loimearadiku.pro
 - DOMAIN,www.lorenterendor-click.pages.dev
@@ -11812,7 +11845,6 @@ payload:
 - DOMAIN,www.mememakers.mobi
 - DOMAIN,www.merdalixan.pro
 - DOMAIN,www.miami.ero-advertising.com
-- DOMAIN,www.michiadvis.cyou
 - DOMAIN,www.microsoft-update.name
 - DOMAIN,www.mmnetwork.mobi
 - DOMAIN,www.mnetads.com
@@ -11833,7 +11865,6 @@ payload:
 - DOMAIN,www.mywinadvantage.com
 - DOMAIN,www.n149adserv.com
 - DOMAIN,www.naiadsystems.com
-- DOMAIN,www.nairapulse.pro
 - DOMAIN,www.narvuliora.pro
 - DOMAIN,www.nata.ero-advertising.com
 - DOMAIN,www.national-lottery.co.uk
@@ -11844,6 +11875,8 @@ payload:
 - DOMAIN,www.newasiy.pro
 - DOMAIN,www.newhold.pro
 - DOMAIN,www.newsyoucanread24.com
+- DOMAIN,www.nexorentis.pro
+- DOMAIN,www.nexoriumbit.pro
 - DOMAIN,www.ngads.com
 - DOMAIN,www.nl1.ero-advertising.com
 - DOMAIN,www.nl2.ero-advertising.com
@@ -11855,6 +11888,8 @@ payload:
 - DOMAIN,www.novarisai-pro.pages.dev
 - DOMAIN,www.oata.ero-advertising.com
 - DOMAIN,www.odbierztelefon.pro
+- DOMAIN,www.okafintralis-click.pages.dev
+- DOMAIN,www.okningfundex-pro.pages.dev
 - DOMAIN,www.olcenari.pro
 - DOMAIN,www.onlinedownloads.org
 - DOMAIN,www.opads.ero-advertising.com
@@ -11909,6 +11944,7 @@ payload:
 - DOMAIN,www.pro.clanweb.cz
 - DOMAIN,www.pro.cn
 - DOMAIN,www.proadscdn.com
+- DOMAIN,www.promptimovax-lab-click.pages.dev
 - DOMAIN,www.properrayam.pro
 - DOMAIN,www.proverseax.pro
 - DOMAIN,www.publicefutaco.pro
@@ -11917,17 +11953,20 @@ payload:
 - DOMAIN,www.qeadiuneraose.pro
 - DOMAIN,www.qielleunnadore.pro
 - DOMAIN,www.qqads.com
+- DOMAIN,www.quantexcroatia.pro
 - DOMAIN,www.quantum-flowbit.pro
 - DOMAIN,www.quickbriefingd.pro
 - DOMAIN,www.rampidads.com
 - DOMAIN,www.randivura.pro
 - DOMAIN,www.rapidbasedump.pro
 - DOMAIN,www.rata.ero-advertising.com
+- DOMAIN,www.ravelizia-click.pages.dev
 - DOMAIN,www.ravexundi.pro
 - DOMAIN,www.realtextads.com
 - DOMAIN,www.rectangledownloads.com
 - DOMAIN,www.redirect.ero-advertising.com
 - DOMAIN,www.registrarads.com
+- DOMAIN,www.reservaplatform-pro.pages.dev
 - DOMAIN,www.rewamoniel24.pro
 - DOMAIN,www.ribqavelo.pro
 - DOMAIN,www.romvantora.pro
@@ -11953,6 +11992,7 @@ payload:
 - DOMAIN,www.security-update.ddns.info
 - DOMAIN,www.security-update.ocry.com
 - DOMAIN,www.security-update.qhigh.com
+- DOMAIN,www.seinavoraai-pro.pages.dev
 - DOMAIN,www.sereinplacoire.pro
 - DOMAIN,www.servedby-buysellads.com
 - DOMAIN,www.seure-update.fartit.com
@@ -11968,12 +12008,15 @@ payload:
 - DOMAIN,www.sinceredepotance-ai.pro
 - DOMAIN,www.sincorra-btc-v85.pro
 - DOMAIN,www.skonhed.pro
+- DOMAIN,www.slide-aloxi-ark.pro
 - DOMAIN,www.slimads.vn
 - DOMAIN,www.smartadserver.com
 - DOMAIN,www.smtp.ero-advertising.com
 - DOMAIN,www.smyfinancial.com
 - DOMAIN,www.snap-exelon-pip.pro
 - DOMAIN,www.softsmart.mobi
+- DOMAIN,www.solevefundex-pro.pages.dev
+- DOMAIN,www.solevefundex.pro
 - DOMAIN,www.sonorarentestra.pro
 - DOMAIN,www.spaces.ero-advertising.com
 - DOMAIN,www.speed4cksa.ero-advertising.com
@@ -11995,7 +12038,6 @@ payload:
 - DOMAIN,www.stormweaverd.pro
 - DOMAIN,www.stuwen-opulex-pro.pages.dev
 - DOMAIN,www.subsitesadserver.co.uk
-- DOMAIN,www.sunflowersandthreads.com
 - DOMAIN,www.supersonicads.com
 - DOMAIN,www.swaptaire.pro
 - DOMAIN,www.swiftlogicd.pro
@@ -12005,6 +12047,7 @@ payload:
 - DOMAIN,www.tajorentestra.pro
 - DOMAIN,www.talkingdata.com
 - DOMAIN,www.talverisona.pro
+- DOMAIN,www.tasoxou.pro
 - DOMAIN,www.tcm.optica.ero-advertising.com
 - DOMAIN,www.techadvisorpro.name
 - DOMAIN,www.tenonstrategicwealthadvisors.com
@@ -12056,8 +12099,9 @@ payload:
 - DOMAIN,www.vacamuertainvestment.pro
 - DOMAIN,www.vads.net.vn
 - DOMAIN,www.vads.vn
-- DOMAIN,www.vanguardtruthnow.pro
+- DOMAIN,www.velorafundsaiv2-pro.pages.dev
 - DOMAIN,www.velvetstomless.pro
+- DOMAIN,www.ventofinance-click.pages.dev
 - DOMAIN,www.verdantkapitstead.pro
 - DOMAIN,www.verifiednewsdispatch.pro
 - DOMAIN,www.veroglabilvellad.pro
@@ -12066,9 +12110,9 @@ payload:
 - DOMAIN,www.violetstramy.pro
 - DOMAIN,www.vipads.cc
 - DOMAIN,www.vipads.live
+- DOMAIN,www.visionluxovel.pro
 - DOMAIN,www.vistula-ai-pro.pages.dev
 - DOMAIN,www.voiceads.cn
-- DOMAIN,www.vorelium-pro.net
 - DOMAIN,www.vortexedgeai.pro
 - DOMAIN,www.vyk.admaster.com.cn
 - DOMAIN,www.waerdiapp.pro
@@ -12077,6 +12121,7 @@ payload:
 - DOMAIN,www.wealthicato.pro
 - DOMAIN,www.web.cellfun.mobi
 - DOMAIN,www.welkotrivax.pro
+- DOMAIN,www.welkrotivax-click.pages.dev
 - DOMAIN,www.wendravik.pro
 - DOMAIN,www.westreclameadvies.nl
 - DOMAIN,www.westyngainwale.pro
@@ -12098,8 +12143,9 @@ payload:
 - DOMAIN,www.wws.ero-advertising.com
 - DOMAIN,www.www-google.nl
 - DOMAIN,www.xadsmart.com
+- DOMAIN,www.xixochain-pro.pages.dev
+- DOMAIN,www.xixochain.pro
 - DOMAIN,www.xn--adspace-kvg.ero-advertising.com
-- DOMAIN,www.yaruthavlan.pro
 - DOMAIN,www.yoads.net
 - DOMAIN,www.youripad4free.com
 - DOMAIN,www.ypmadserver.com
@@ -12165,6 +12211,8 @@ payload:
 - DOMAIN,xiaomi-mipdx.cn.miaozhen.com
 - DOMAIN,xiaomi.m.cn.miaozhen.com
 - DOMAIN,xinhuanet.adsame.com
+- DOMAIN,xixochain-pro.pages.dev
+- DOMAIN,xixochain.pro
 - DOMAIN,xmadsapi.codon.vn
 - DOMAIN,xmadsapi.joboko.com
 - DOMAIN,xmadsdk.cos.tx.xmcdn.com
@@ -12232,7 +12280,6 @@ payload:
 - DOMAIN,yaolan.adsame.com
 - DOMAIN,yaolu.mh.163.com
 - DOMAIN,yaolu.yuedu.163.com
-- DOMAIN,yaruthavlan.pro
 - DOMAIN,ydpushserver.youdao.com
 - DOMAIN,yepads.com
 - DOMAIN,yepdigital.adk2x.com

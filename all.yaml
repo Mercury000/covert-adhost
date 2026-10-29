@@ -1,6 +1,6 @@
 #Mercury
 #10007
-#更新时间: 2026-10-29 12:51:50
+#更新时间: 2026-10-30 03:26:19
 payload:
 - DOMAIN,0.r.msn.com
 - DOMAIN,0gtest.bj2cu.u3.ucweb.com
@@ -3831,7 +3831,6 @@ payload:
 - DOMAIN,advnet.xyz
 - DOMAIN,advnt.com
 - DOMAIN,advocaado.com
-- DOMAIN,advolink.org
 - DOMAIN,advombat.ru
 - DOMAIN,advpic.yicha.jp
 - DOMAIN,advplace.com
@@ -6049,6 +6048,7 @@ payload:
 - DOMAIN,config.unityads.unity3d.com
 - DOMAIN,config.unityads.unitychina.cn
 - DOMAIN,configv2.unityads.unity3d.com
+- DOMAIN,confirmation-advanced-reserv538926.com
 - DOMAIN,congnb.analytics.saas-vn.network
 - DOMAIN,connect.247media.ads.link4ads.com
 - DOMAIN,connect.play.aiseet.atianqi.com
@@ -6275,6 +6275,7 @@ payload:
 - DOMAIN,delivery04.ad4game.com
 - DOMAIN,delivery05.ad4game.com
 - DOMAIN,delivery06.ad4game.com
+- DOMAIN,deltanzio-pro-760.com
 - DOMAIN,demo.adsame.com
 - DOMAIN,demo.adsparc.net
 - DOMAIN,demo.stickyadstv.com
@@ -7630,7 +7631,6 @@ payload:
 - DOMAIN,live.xunlei.com
 - DOMAIN,liveads.jp
 - DOMAIN,livec.l.qq.com
-- DOMAIN,liveflashdaily.pro
 - DOMAIN,livem.l.qq.com
 - DOMAIN,livep.l.aiseet.atianqi.com
 - DOMAIN,livep.l.qq.com
@@ -8798,7 +8798,6 @@ payload:
 - DOMAIN,pptv.m.cn.miaozhen.com
 - DOMAIN,pr.analytics.console.aws.a2z.com
 - DOMAIN,pr.da.netease.com
-- DOMAIN,pratolivodonna-click.pages.dev
 - DOMAIN,prd.ads.aws.fwmrm.net
 - DOMAIN,pre-ad.alimama.com
 - DOMAIN,pre-adv.alimama.com
@@ -8825,7 +8824,6 @@ payload:
 - DOMAIN,prism.pandora.tv
 - DOMAIN,prizefestival.mobi
 - DOMAIN,pro-accesssoires.fr
-- DOMAIN,pro-aiapp-plsolution.com
 - DOMAIN,pro-factory.com
 - DOMAIN,pro-gift.com
 - DOMAIN,pro-market.net
@@ -9708,7 +9706,6 @@ payload:
 - DOMAIN,share-server.com
 - DOMAIN,share-stores.com
 - DOMAIN,share.baidu.com
-- DOMAIN,share.dropstab-trust.com
 - DOMAIN,share.mob.com
 - DOMAIN,share.sharegames.info
 - DOMAIN,sharebar.addthiscdn.com
@@ -11496,7 +11493,6 @@ payload:
 - DOMAIN,www.adview.cn
 - DOMAIN,www.advmedialine.online
 - DOMAIN,www.advocaado.com
-- DOMAIN,www.advolink.org
 - DOMAIN,www.adw.ero-advertising.com
 - DOMAIN,www.adwo.com
 - DOMAIN,www.adwpaces.ero-advertising.com
@@ -11615,6 +11611,7 @@ payload:
 - DOMAIN,www.codeads.com
 - DOMAIN,www.coin-ad.com
 - DOMAIN,www.comuzen.pro
+- DOMAIN,www.confirmation-advanced-reserv538926.com
 - DOMAIN,www.contextuads.com
 - DOMAIN,www.cool-downloads.com
 - DOMAIN,www.cool-downloads.net
@@ -11651,6 +11648,7 @@ payload:
 - DOMAIN,www.dcfeed.datedeskads.com
 - DOMAIN,www.dctrk.datedeskads.com
 - DOMAIN,www.deliginess.pro
+- DOMAIN,www.deltanzio-pro-760.com
 - DOMAIN,www.dermalentesog.pro
 - DOMAIN,www.destinisayments.pro
 - DOMAIN,www.deta.ero-advertising.com
@@ -11840,7 +11838,6 @@ payload:
 - DOMAIN,www.links-and-traffic.com
 - DOMAIN,www.linthermands.pro
 - DOMAIN,www.liquidstorse.pro
-- DOMAIN,www.liveflashdaily.pro
 - DOMAIN,www.loadsabingo.com
 - DOMAIN,www.logiclotemax-pro.pages.dev
 - DOMAIN,www.logiclotemax200-click.pages.dev
@@ -11953,12 +11950,10 @@ payload:
 - DOMAIN,www.postads24.com
 - DOMAIN,www.postnewsads.com
 - DOMAIN,www.poweredbyliquidfire.mobi
-- DOMAIN,www.pratolivodonna-click.pages.dev
 - DOMAIN,www.prebid.adnxs.com
 - DOMAIN,www.predictivadvertising.com
 - DOMAIN,www.preexemptsbroadswppord.info
 - DOMAIN,www.prizefestival.mobi
-- DOMAIN,www.pro-aiapp-plsolution.com
 - DOMAIN,www.pro-factory.com
 - DOMAIN,www.pro-gift.com
 - DOMAIN,www.pro-partners.nl
@@ -12034,7 +12029,6 @@ payload:
 - DOMAIN,www.sexadvertentiesite.nl
 - DOMAIN,www.sexyads.net
 - DOMAIN,www.share-server.com
-- DOMAIN,www.share.dropstab-trust.com
 - DOMAIN,www.shoboltrangorh-pro.pages.dev
 - DOMAIN,www.shopislads.shop
 - DOMAIN,www.simple-track-path.pro
